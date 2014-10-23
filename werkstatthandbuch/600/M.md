@@ -1,0 +1,484 @@
+Beschreibung des Motors
+=======================
+
+
+Allgemeine Konstruktionsmerkmale
+--------------------------------
+Der Motor des LLOYD 600 ist ein luftgekühlter Zweizylinder-Viertakt-Vergasermotor mit hängenden Ventilen und
+obenliegender Nockenwelle. Die Zylinder stehen in Reihe. Die Kurbelwelle ist mit gleichseitigen Kröpfungen ausgebildet.
+Die Kolben arbeiten daher im Gleichlauf und es ergibt sich eine regelmäßige Zündfolge (Twin-Bauart).
+Der Motor ist um 40° nach vorn geneigt quer zur Fahrtrichtung im Wagen eingebaut. Das gesamte Antriebsaggregat,
+Motor, Getriebe-Differential ist mit drei Gummielementen über den Vorderachsträger mit dem Rahmen
+verbunden.
+
+
+Kurbelgehäuse
+-------------
+Das Kurbelgehäuse ist aus Leichtmetall gegossen und horizontal geteilt. Beide Gehäusehälften sind gemeinsam
+bearbeitet und daher nur zusammen austauschbar. Das Gehäuse-Unterteil bildet den Ulsumpf für den Olkreislauf.
+
+
+Kurbelwelle
+-----------
+Die Kurbelwelle besteht aus fünf Einzelteilen, den beiden KW-Hälften, den dazwischenliegenden zwei Hubscheiben
+und dem Mittelzapfen. Die beiden Pleuelzapfen sind angeschmiedete Bestandteile der Hubscheiben. Die
+Zapfen sind zylindrisch bearbeitet, der Mittelzapfen gehärtet. Die Kurbelwelle wird in der bei LLOYD üblichen
+Weise hydraulisch zusammengepreßt und ist mit Werkstattmitteln nicht demontierbar.
+Die Welle ist dreimal wälzgelagert, wobei das schwungradseitige Kugellager die axialen Schubkröfte aufnimmt.
+Das Schwungrad wird mit der großen Sechskantschraube (bis Motor-Nr. 353 562 Sechskantmutter und Stiftschraube)
+gegen den Innenring des Kugellagers gezogen und durch Anpreßdruck gehalten. Die Scheibenfeder bestimmt
+die richtige Lage des Schwungrades zum Totpunkt der Kurbelwelle. Das Zahnrad für den Ulpumpenantrieb ist an
+der einen Hubscheibe durch einen Zylinderstift befestigt und wird von dieser mitgenommen. Das Kettenrad für
+den Antrieb der Steuerkette sitzt mit Kerbverzahnung auf dem zylindrischen KW-Zapfen der Keilriemenscheibenseite.
+Eine Sechskantschraube hält die mittels einer Scheibenfeder gegen Verdrehen gesicherte Keilriemenscheibe
+auf ihrem Sitz. Die Abdichtung der Kurbelwelle erfolgt an beiden Seiten durch Spezial-Dichtringe.
+
+
+Pleuel
+------
+Die Pleuel haben Dappel-T-Profil, der Pleuelfuß ist ungeteilt. Auf dem KW‐Hubzapfen sind die Pleuel mittels
+zweier Reihen käfiggeführter zylindrischer Kurzrollen gelagert. Kurbelwellenseitig laufen die Rollen auf einem
+gehärteten Innenring, während sie pleuelseitig direkt auf der gehärteten Innenfläche des Pleuelfußes abrollen.
+
+
+Kolben
+------
+Die Leichtmetallkolben der Autothermikbauort tragen ie drei Kolbenringe: zwei Kompressions- und ein Ulabstreifring.
+Die Kolbenbolzen sind im Pleuel schwimmend gelagert, im Kolben kommt eine Schiebesitz-Passung zur Anwendung.
+Gegen axiale Verschiebung sind die Bolzen durch in die Kolbenaugen eingesetzte Drahtsprengringe
+gesichert. Die Kolbenbolzen sind zur Erzielung eines ruhigen Kolbenlaufs außermittig versetzt.
+
+
+Zylinder
+--------
+Die beiden einzeln stehenden Zylinder bestehen aus Spezial-Grauguß; zur Wärmeabführung an die Kühlluft sind
+Kühlrippen angegossen. Die Zylinder sind untereinander gleich und können zusammen mit den zugehörigen
+Kolben einzeln ausgewechselt werden.
+
+<!-- BREAK -->
+
+Zylinderkopf
+------------
+Jeder Zylinder trägt einen abnehmbaren, stark verrippten Zylinderkopf aus Leichtmetallguß mit eingeschrumpften
+Ventilsitzringen und Ventilführungen aus Spezial-Grauguß hoher Verschleißfestigkeit. Die Köpfe sind untereinander
+austauschbar. Je ein Didttring aus Iamelliertem Weicheisenblech Übernimmt die Abdichtung zwischen Kopf und
+Zylinder. Ein- und Auslaßventile sind im Zylinderkopf hängend angeordnet. Die Auslaßventile sind an ihren Sitzflächen
+durch aufgeschweißten hochhitzebeständigen Chromnickelstahl besonders gepanzert.
+
+
+Nockenwellengehäuse, Nockenwelle und Steuerung
+----------------------------------------------
+Das einteilige Nockenwellengehäuse ist aus Leichtmetall gegossen und Überdeth beide Zylinderköpfe. Die
+Nockenwelle läuft im Gehäuse auf zwei Kugellagern und wird von der Kurbelwelle Über eine Einfach-Rollenkette
+‐ entgegen der Schwungradseite liegend ‐ angetrieben. Die Welle betätigt mittels doppelarmiger Schlepphebel,
+deren Laufbahn eine Hartverchromung trägt, die Ventile. Der Zündverteiler mit dem Unterbrecher ist mit der
+Nockenwelle gekuppelt.
+
+Die Nachspannung der Steuerkette erfolgt automatisch durch ein mit Dämpfungsmaterial belegtes "Feder‑
+Spannband.
+
+
+Kühlung
+-------
+Die Luftkühlung erfolgt durch ein Zentrifugal-Gebläse. Das Lüfterrad sitzt auf der Lichtmaschinenachse und wird
+durch einen nachstellbaren Keilriemen zusammen mit der Lichtmaschine von der Kurbelwelle angetrieben. Das
+Gebläse saugt durch eine Öffnung im Gebläsegehäuse Luft an, die durch die Motarverkleidung den Zylindern und
+Zylinderköpfen zugeleitet wird.
+
+
+Schmierung
+----------
+Die Schmierung des Motors ist für die Versorgung der drei Hauptlager als Druckumlaufschmierung ausgebildet,
+während die Schmierung der Pleuellager, der Kolben, des Steuertriebes, der Kipphebel und Nockenwelle durch
+Schleuderöl erfolgt.
+
+Die von der Kurbelwelle angetriebene Zahnradälpumpe besitzt kein Uberdruckventil und benötigt infolge der
+Wälzlagerung des Kurbeltriebes außer dem Ulansaugsieb weder ein weiteres Olfilter noch eine Uldruckanzeige
+Die Pumpe drückt das Schmieröl durch die drei im Kurbelgehäuse-Unterteil eingegossenen Ölkanöle zu den drei
+Hauptlagern. Die an den Außenseiten der beiden KW‐Hölften mit Kerbstiften befestigten Ulfongbleche leiten das
+die beiden äußeren Hauptlager durchströmende Schmieröl durch die hohlen Hubzapfen an die Rollenlager der
+Pleuel. Von dort wird das Öl durch im Pleuelfuß befindliche Nuten an die Zylinderwand und an die Innenseite
+des Kolbenbodens gespritzt und schmiert Kolbenlaufbahn und Kolbenbolzen. Das von den Ulabstreifringen in das
+Kolbeninnere beförderte UI gelangt wieder in das Gehäuse zurück.
+Ein Teil des Druckäls vom vorderen Hauptlager fließt über den KW-Zapfen auf die Steuerkette. Diese fördert das
+Ul nach oben in das Nockenwellengehäuse, wo es, abgeschleudert, auf die Ulrinne im Gehäuse läuft und von
+dort die Nockenwellenlager schmiert. Durch das Eintauchen der Nocken in besondere Ölmulden und das dabei
+entstehende Schleuderöl werden Kipphebel und Ventile mit Schmieröl versorgt. Der Rücklauf des Ules erfolgt
+über den Kettenkasten zum Kurbelgehäuse.
+
+
+Kurbelgehäuse-Entlüftung
+------------------------
+Die Entlüftung des Kurbelgehäuses übernimmt ein mit der Nockenwelle rotierender Drehschieber. Der gesteuerte
+Druckausgleich erfolgt über einen Kanal im Nockenwellengehäuse und über das Entlüfterrohr, das im Luftfiltergehäuse
+mündet.
+
+<!-- BREAK -->
+
+Motor aus- und einbauen
+=======================
+
+Folgende Werkzeuge werden gebraucht:
+WO 58 ‐ Spezial‐Steckschlüssel für Anlasser- und
+Nockenwellengehöusebefestigung.
+Maulschlüssel 7, 8, 9, 2x10, 12, 14 und 27 mm, Steckschlüssel
+10, 14, 17 mm, Ringschlüssel 14 und 17 mm,
+Verlängerung, Knarre, Schraubenzieher 5 mm, Dorn 2 mm, Polygripzange, Spitzzange.
+
+Im Gegensatz zum LLOYD 400 kann beim LLOYD 600
+der Motor nur zusammen mit dem Getriebe ausgebaut
+werden. Dabei braucht der Vorderwagen nicht aufgebockt
+zu werden. Das Herausheben des Aggregates
+(Motor/Getriebe) geht müheloser vonstatten, wenn das
+Fahrzeug auf den Rädern steht.
+
+
+Ausbau
+------
+1. Kraftstoffhahn schließen.
+2. Batteriedeckel abnehmen, Plus-Kabel an der Batterie lösen.
+3. Beim LP/LS Frontverzierung ausbauen und zweckmäßigerweise
+   oberhalb des Kraftstofitanks ablegen.
+   Seilzug für Haubenschloß bleibt an der Frontverzierung! (Bild 2-1/1)
+
+   Beim LT/LTK muß Motor/GetriebesAusbau das vordere Haubenblech mit dem Röumer abgebaut werden.
+   (Bild 2-1/1)
+
+4. Niederspannungskabel (grün) an Klemme 1 des Zündverteilers lösen.
+5. Hochspannungskabel aus Klemme 4 der Zündspule herausziehen.
+6. ZÜndspule vom Motor-Lagerbügel abschrauben.
+7. Signalharn mit Halter vom Motor-Lagerbügel lösen.
+8. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen. (Bild 2-1/3)
+9. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. 
+   Kabel zum Zündanlaßschalter von Klemme 50 des Anlassers lösen. (Bild 2-1/4)
+10. Schelle am Lüftergehöuse aufbiegen und Pluskabel freimachen.
+11. Kraftstofischlauch vom Rohrstutzen der Kraftstoffpumpe abziehen.
+12. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LÜttergehÖuse bzw. Luftfilterstutzen abschrauben und herausnehmen.
+13. Drahtzug für Heizung amWiderlager des Heizungsgehöuses abschrauben. Drahtzug an der Heizungsklappe aushängen.
+
+<!-- BREAK -->
+
+14. Heizungsschlauch vom Stutzen der Motorverkleidung abnehmen.
+15. Batterie-Massekabel am Kupplungsgehöuseflansch abschrauben.
+16. Zugfeder für Schaltstange am Getriebedeckel aushängen.
+17. Klemmschraube an der Schaltstange lösen und Schaltstange nach oben schieben.
+18. Tachospirale am Getriebeanschluß lösen, dazu Überwurfmutter abschrauben und Tachospirale herausziehen. 
+    Schlüssel unterhalb des Radkastens ansetzen! (Bild 2-2/1)
+19. Kupplungsseil lösen und aus dem Kupplungshebel und dem Widerlager herausschieben.
+20. Auspufikrümmer am Zwischenflansch vom Auspuffrohr abschrauben.
+21. Seitliche Motoraufhöngung (unter Lichtmaschinensbock) vom Lagerarm des Varderachsträgers abschrauben.
+    Gummilager bleibt am Motor! (Bild 2-2/2)
+22. Hintere Motoraufhöngung (am Getriebeausleger) vom Varderachströger abschrauben. 
+    Lagerwinkel und Gummilager bleiben am Getriebe! (Bild 2-2/3)
+23. Motor-Lagerbügel hinten (oben) vom Vorderachsträger abschrauben. (Bild 2-2/4)
+24. Motor-Lagerbügel vorn (unten) vom Vorderachsträger abschrauben. (Bild 2-2/5)
+
+<!-- BREAK -->
+
+**Achtung!** Beim Motorausbau bleibt der Lagerbügel am Motor!
+Das Antriebsaggregat ist ietzt von allen Verbindungen mit dem Fahrzeug frei und kann mit Unterstützung eines Helfers aus dem Motorraum herausgehoben werden.
+
+25. Aggregat herausheben. 
+    Ein Mann faßt mit der linken Hand unter die Lichtmaschine, mit der rechten an den Auspuffkrümmer. 
+    Der andere mit der linken Hand ebenfalls an den Auspuffkrümmer, mit der rechten die Gummikupplung der Schaltstange. (Bild 2-3/1)
+
+      a) Aggregat links ankippen, damit lange Gelenkwelle aus dem Kreuzgelenk herausrutscht,
+
+      b) Aggregat rechts ankippen, damit kurze Gelenkwelle aus dem Kreuzgelenk herausrutscht,
+
+      c) Aggregat vorn noch oben ankippen, herausheben und auf der Werkbank absetzen. (Bild 2-3/2 zeigt das kompl. Antriebsaggregat nach dem Ausbau).
+
+Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor abgebaut:
+
+26. Auspuftkrümmer abschrauben.
+27. Motor-Lagerbügel abnehmen, dazu die drei Muttern am Lagerarm für Getriebe lösen. (Bild 2-3/3)
+28. Anlasser mit Spezial-Steckschlüssel WO 58 abschrauben, dazu beide Muttern gleichmäßig lösen, 
+    gleichzeitig Anlasser vom Flansch abziehen und Muttern ganz abschrauben. (Bild 2-3/4)
+
+**Hinweis!** Der Spezial-Steckschlüssel WO 58 dient speziell für den Aus- und Einbau des Anlassers bei eingebautem Motor. 
+Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Verbindung mit dem Drehmomentschlüssel) gebraucht. 
+(Siehe auch Abschnitt M 9, Seite 9 - 2).
+
+29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungs‐ gehöuse abschrauben.
+
+**Achtung!** Bei festem Sitz der Gehöuseflansche vorsichtig mit Gummihammer nachhelfen. 
+Nicht mit Schrauben‐ zieher Flanschflöchen beschädigen!
+Soll der Motor demontiert werden, wird er nun entweder in den drehbaren Montagetisch eingesetzt und 
+festgespannt, oder die Werkstatt benutzt bei Teil‐ Demontage zur einwandfreien Lagerung des Motors den ebenfalls zum Nachbau 
+empfohlenen hölzernen Mantagebock. {Siehe „Hilfgeröte für die Werkstatt").
+
+Einbau
+------
+Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
+
+<!-- BREAK -->
+
+1. Bei länger gelaufenen Fahrzeugen sollte gelegentlich eines Motorausbaus vorsorglich die Kupplung abgebaut und überprüft werden. 
+   In jedem Fall vor Anflanschen des Getriebes Zentrierung der Kupplungsscheibe mittels Zentrierdorn WO 22 prüfen.
+2. Graphitschleifring prüfen und bei deutlicher Abnut‐ zung erneuern.
+3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett **leicht** einfetten.
+4. Motor-Gummilager prüfen, gegebenenfalls erneuern.
+5. Messingmuttern der Auspuffkrümmer-Befestigung an den Zylinderköpfen mit 2 mkg anziehen. Flansch‐ dichtungen erneuern.
+6. Motor- und Getriebeflanschflöchen vor Zusammenbau sorgfältig reinigen.
+7. Nach dem Einheben des Aggregates und Absetzen desselben auf dem Vorderachsträgerarm werden von dem Helfer die Gelenkwellen 
+   in die Kreuzgelenke eingeführt. Zuerst wird die **kurze** Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
+   und Herdrehen der Gelenke eingeführt, darauf die **lange** Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
+
+8. Um das Antriebsaggregot zum Anschluß der drei Gummilager in die richtige Lage zu bringen, wird zweckmäßigerweise zwischen 
+   Kupplungsgehäuse und Vorderachsträgerarm ein passender Holzklotz gelegt. Abmessungen ca. 10xl0x2,5cm. (Bild 2-4/3)
+
+9. Das Befestigen der Motor-Gummilager om Vorderachsträger erfolgt nicht in der umgekehrten, sondern in der gleichen 
+   Reihenfolge wie beim Ausbau, d. h. es wird zuerst
+   
+   a) die seitliche Aufhängung (unter Lichtmaschine), darauf
+   
+   b) die hintere Aufhängung und
+   
+   c) zum Schluß der Motor-Lagerarm befestigt.
+
+
+**Achtung!** Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
+
+<!-- BEAK -->
+
+Nach Anliegen der Sechskantmuttern durch 1,5 bis 2 Umdrehungen Tellerfedern auf Vorspannung bringen, dann mit Gegenmuttern sichern. (Bild 2-5/1)
+
+10. Um die Frontverzierung beim Einbau schnell und gleichmäßig ausrichten zu können, benutze man Holzbrettchen als Zwischenlagen folgender Abmessungen:
+    
+    a) zwischen Seitenteil/Frontverzierung ca. 25x3x0,5 cm,
+    
+    b) zwischen Räumer/Frontverzierung ca. 10x3x1 cm. (Bild 2-5/2)
+
+
+
+Motor aus- und einbauen Modell 600/1957
+=======================================
+
+Durch die serienmäßige Ausrüstung des Modells 1957 mit der Auspuffheizung und Vorwärmung ändert 
+sich der beschriebene Arbeitsablauf für „Motor aus- und einbauen."
+
+Folgende Arbeitsweise wird empfohlen:
+
+Ausbau
+------
+
+1. Kraftstoffhahn schließen.
+2. Batteriedeckel abnehmen, Plus-Kabel an der Batterie lösen.
+3. Verbindungsschlauch zwischen Luftaufnahme und Heizkörper am Heizkörper lösen, Luftaufnahme nach 
+   Lösen der drei Sechskantmuttern SW 10 von der Frontverzierung abnehmen.
+4. Frontverzierung ausbauen.
+   Beim LT 600 vorderes Haubenblech mit Röumer aus‐ bauen.
+5. Heizungsschlauch am Heizkörper lösen, Heizungsschlauch zur Seite biegen (zum linken Radkasten)
+6. Bowdenzug für Heizung am Halter des Heizkörpers lösen (Sechskantmutter SW 9)‚Zug am Heizklappenhebel aushängen.
+7. Niederspannungskabel (grün) an Klemme l des Zündverteilers lösen.
+8. Hochspannungskabel aus Klemme 4 der Zündspule herausziehen.
+9. Zündspule vom MotoroLagerbügel abschrauben.
+10. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen.
+11. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. Kabel zum Zünd‐ anlaßschalter von Klemme 50 des Anlassers lösen.
+
+<!-- BREAK -->
+
+12. Schelle am Lüftergehöuse aufbiegen und Pluskabel freimachen.
+13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
+14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am Lüftergehöuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
+15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
+16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
+
+**Achtung!*** Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
+durch Querschnittsverengung des Schlauches zu vermeiden.
+
+17. Batteriemassekabel am Kupplungsgehöuseflansch abschrauben.
+18. Zugfeder für Schaltstange am Getriebedeckel aus‐ hängen.
+19. Klemmschraube an der Schaltstange lösen und Schaltstange nach oben schieben.
+20. Tachoanschluß am Getriebeanschluß lösen, dazu Überwurfmutter abschrauben und Tachospirale herausziehen. Schlüssel unterhalb des Radkastens ansetzen!
+21. Kupplungsseil lösen und aus dem Kupplungshebel und dem Widerlager herausschieben.
+22. Schlauch für Vorwärmung am Luftfilterstutzen ab‐ nehmen, Ansaughutze am Auspuffkrümmer ab‐ schrauben (2 Sechskantmuttern SW 10).
+23. Heizkörper am Heizungshalter (der Heizungshalter bleibt am Lagerarm für Getriebel) abschrauben (2 Sechskantmuttern SW 14,1 dto. SW 17).
+24. Messingmuttern der Auspuffkrümmer- Befestigung an den Zylinderköpfen abschrauben.
+25. Heizkörper mit Auspuffkrümmer (ein geschlossenes Bauteil) nach rechts unten herausnehmen, dabei Auspufikrümmer-Schieberohr aus der 
+    Kugelflansch‐ verbindung des Abgasrohres herausziehen. 
+    
+**Achtung!** Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
+Flansclwerbindung nur bei Schwergöngigkeit des Kugelgleitstückes lösen, Gleitstück herausnehmen, mit Drahtbürste reinigen und Außenfläche 
+und Bohrung mit Graphitfett Überziehen.
+
+Nach Zusammenbau Sechskantmuttern SW 1O nicht zu fest anziehen. Die Windungen der beiden Druckfedern dürfen nicht zur Anlage 
+kommen, damit die Beweglich‐ keit der Verbindung erhalten bleibt. (Bild 2-6/1)
+
+Der weitere Ausbau erfolgt in gleicher Weise wie beim Modell 1956 (Seiten M 2-2 und 3, Pos. 21-29).
+
+
+Einbau
+------
+
+Der Zusammenbau und Einbau des Antriebsaggregates erfolgt in umgekehrter Reihenfolge. Die für das Modell 1956 
+gegebenen Hinweise (Seiten M 2-4 und 5, Pos. 1-8 und 10) sind auch beim 1957er Modell zu berücksichtigen.
+
+<!-- BREAK -->
+
+Beim Wiedereinbou der Heizung beachte man noch‐ stehende Reihenfolge und Hinweise:
+
+1. Auspufikrümmer - Schieberohr in die Kugelflansch‐ verbindung des Abgasrohres einsetzen.
+
+Um Verspannungen, die unter Umständen ein Ausbrechen des Flansches am Zylinderkopf nach sich ziehen können, zu vermeiden, zunächst:
+
+2. Heizkörper am Heizungshalter lose anschrauben
+3. AuspuflkrümmerandenZylinderköpfenfestschrauben (2 mkg).
+4. Heizkörper am Heizungshalter testziehen.
+5. Nach Anschluß des Bowdenzuges für Heizung Heizungskloppe auf volles Öffnen bzw. Schließen kontrollieren.
+
+<!-- BREAK -->
+
+Ausgebauten Motor zerlegen und zusammenbauen
+============================================
+
+Beim Zerlegen und Zusammenbauen des Motors hat es sich als zweckmäßig erwiesen, folgende Reihenfolge ein‐ zuhahen:
+
+Zerlegen
+--------
+
+1. Motoröl ablassen
+2. Luftfilter abbauen
+3. Vergaser abbauen
+4. Schutzgitter für Lüftergehäuse abbauen
+5. Lüfterrad abbauen
+6. Lichtmaschine ausbauen, Keilriemen abnehmen
+7. Heizungsgehöuse abnehmen
+8. Lüftergehöuse abnehmen
+9. Brennstoffpumpe abbauen
+10. Zündverteiler ausbauen
+11. Ventilkammerdeckel abnehmen
+12. Deckel für Kettenkasten abbauen
+13. Kettenrad abbauen
+14. Nockenwellengehöuse abbauen
+15. Kettenkasten abnehmen
+16. Ansaugkrümmer abbauen
+17. Zylinderköpfe abbauen
+18. Zylinder abnehmen
+19. Kolben ausbauen
+20. Schwungrad ausbauen
+21. Riemenscheibe abziehen
+22. Kurbelgehäuse-Oberteil abbauen 
+23. Ölsieb ausbauen
+24. Ölpumpe ausbauen
+25. Kurbelwelle herausheben
+26. Ölbleche ausbauen
+
+Zusammenbauen
+-------------
+
+Der Zusammenbau des Motors erfolgt in umgekehrter Reihenfolge
+
+Der nachfolgenden Beschreibung der einzelnen Arbeitsgänge sind alle besonderen, bei der De‐ und Montage des 
+Motors zu beachtenden Hinweise zu entnehmen.
+
+<!-- BREAK -->
+
+Luftfilter
+==========
+
+Beschreibung des Luftfilters
+----------------------------
+
+Das zum Einbau kommende Knecht-Micranic-Luftfilter LP 4 1 ] ist ein Trockenfilter, das sich durch optimale Wirksamkeit 
+bei einfachster Wartung auszeichnet. Das Filterpapier der Einsatzpartone ist durch eine Spezial-Imprägnierung unempfindlich gegen 
+Feuchtigkeit und Öldömpfe. Durch die besondere Föltelung ist die größtmögliche Filteroberflöche innerhalb des im Filter gegebenen 
+Raumes erzielt. Da das Filter noch Schmutzteilchen bis zu einer Größenordnung eines Micrans (z 'r’woo mm] ausscheidet, ist die 
+optimale Filterung der Ansaugluft gewährleistet. Dabei ist der Grad der Staubausscheidung unabhängig von der Luftgeschwindigkeit 
+bzw. der Motordrehzahl. Das Luftfilter hat beim LLOYD 600 neben der Reinigung der Verbrennungsluft noch die Aufgabe, die Luft 
+für die Belüftung des Kurbelgehäuses staubfrei zu filtern, da das Motorentlüftungsrohr ebenfalls im Luftfilter mündet. 
+Im Entlüfterrohr befindet sich ein Siebfilter aus Metallgeflecht, das, durch den Uldunst des Motorschmieröls benetzt, die 
+Wirksamkeit der Filterpatrone hinsichtlich der Kurbelgehäusebelüftung noch erhöht. Dieses Siebfilter ist nach Vorschrift alle 12000 km zu reinigen.
+
+
+Wartung
+-------
+
+Das Micronic-Filter hat den besonderen Vorzug, sich infolge der Erschütterung des Motors im Fahrbetrieb selbst zu reinigen. 
+Darüber hinaus soll die Filterpatrone in den im Wartungsdienst vorgeschriebenen Intervallen herausgenommen und ausgekIOpft werden. 
+Nach 12000 ouszuwechseln.
+
+
+Luftfilter-Patrone reinigen
+---------------------------
+
+1. Schnellverschlüsse zurückklappen.
+2. Deckel abnehmen und Filter-Patrone herausnehmen. 
+3. Durch mehrmaliges Aufstoßen der Patrone auf Holz Staub abklopfen. (Bild 4-1/1).
+
+Neuerdings ist die Filter‐Patrone durch Vulkanisatian mit dem Luftfilter-Deckel fest verbunden. 
+Man versuche bei dieser Ausführung nicht, den Deckel mit Gewalt von der Patrone zu trennen!
+
+4. Filter-Patrone wieder einsetzen.
+
+**Achtung!** Die Filter-Patrone darf weder mit Benzin gereinigt noch mit Öl benetzt werden!
+
+
+Sieb im Entlüfterrohr reinigen
+------------------------------
+
+1. Luftfilter abbauen, dazu Drahtzug für Starterklappe am Widerlager lösen, Sponnring am Vergaserstutzen 
+   und die zwei Sechskantschrauben SW 10 am Flansch des Entlüfterrohres lösen.
+2. Micronic-Einsotz aus dem Filter herausnehmen und Entlüfterrohr in Benzin ausschwenken. 
+   Bild 4-1/2 zeigt den Sitz des Siebfilters im Entlüfterrohr.
+
+<!-- BREAK -->
+
+3. Filter mit neuer Flanschdichtung wieder aufbauen (Bild 4-2/1).
+
+Anmerkung. Ab Fahrgestell-Nr. 6/256 847 bzw. 6/113 848 ist ein das Ansauggeröusch minderndes Luftfilter 
+mit der Typenbezeichnung LP 411/1 eingebaut. Dieses Luftfilter ist im wesentlichen durch ein sogenanntes 
+Schnorchelrohr gekennzeichnet. Hinsichtlich der verwendeten Filter-Patrone, deren Wartung und 
+Auswechselvorschriften, unterscheidet sich dieses Luftfilter von der Ausführung LP 411 (ohne Schnochel) 
+nicht. Es kann nachträglich bei allen Fahrzeugen ohne weiteres Verwendung finden (Bild 4-2/2).
+
+Ab Motor‐Nr. 352 906 ist des Luftfilter LP411/2 eingebaut
+
+Diese Ausführung hat ein verkürztes Entlüfterrohr. Durch Zwischenlegen einer 8 mm starken Gummidichtung
+zwischen Nockenwellengehäuse und Entlüfterrahrflansch und Unterlegen ie einer Gummischeibe unter die 
+Befestigungsmuttern wurde eine elastische Lagerung des Lutttilters erreicht (Bild 4-2/3).
+
+Dieses Filter kann gegen die Ausführungen LP 411 und LP 411/1 ausgetauscht werden. 
+Dabei ist zu beachten, daß die Stiftschrauben im Nockenwellengehäuse 6 x 12 durch die 
+längeren Stittschrauben 6 x 25 ersetzt werden müssen.
+
+<!-- BREAK -->
+
+Vorwärmung
+----------
+
+Fahrzeuge, die mit der Auspuffheizung versehen sind [ob Fahrg.-Nr. 6:063 022 bzw. 6fl i4456} sind serienmäßig mit einer Varwürmanlage 
+(zur Varwürmung der Ansaugluft) ausgestattet.
+
+Die Varwörmung hat einen günstigen Einfluß auf das Betriebsverhalten des Motors und erbringt folgende Vorteile:
+
+Schnelleres Erreichen der vollen Betriebsfähigkeit des Motors bei niedrigen Außentemperaturen. Kürzerer Gebrauch der Starterklappe.
+
+Verbesserte Wirtschaftlichkeit durch günstige Beeinflu55ung des Kraftstoffverbrauchs. Vermeidung von Schmierölverdünnung durch Kroftstafl‘kondensate.
+
+Vorbeugung gegen innere Vereisung, die durch die heutigen Kraftstoffe (hoher Prozentsatz leicht siedender Bestandteile) unter 
+gewissen atmosphärischen Bedingungen häufig zu beobachten ist.
+
+Die Vorwörmanlage kann in einer besonderen KD‐Aus‐ führung auch nachträglich in alle Fahrzeuge ahne Auspuffheizung eingebaut 
+werden, sofern diese mit einem Luftfilter mit Schnorcheirohr versehen sind.
+Die KD-Ausführung der Varwörmanlage besteht aus folgenden Teilen:
+
+1. Flexibler Heizungsschlauch
+2. Ansaughutze
+3. Halter für Vorwörmung
+
+Um in der warmen Jahreszeit ungünstige Einflüsse auf die Motorleistung bzw. den Motor selbst auszuschließen 
+(durch Füllungsverlust verminderte Leistung bzw. Spitzengeschwindigkeit ‐ durch verringerte Klopffestigkeit des 
+Kraftstaffes Gefahr der Motorüberhitzung), sall bei Dauer-AußenlutLTemperaturen über 15° C die Anlage durch Abnahme des 
+flexiblen Schlauches vorübergehend außer Betrieb gesetzt werden.
+
+
+Einbau
+------
+1. Halter für Vorwörmung am Auspuffrahr des Zylin‐ ders 2 anschrauben. Die richtige Einbaulage des Halters ist 
+   durch die seitlichen Schweißnähte des Auspuftrahres gegeben.
+2. Ansaughutze am Halter anschrauben.
+3. Heizungsschlauch auf die Stutzen der Ansaughutze und des Luftfilters stecken und mit Schellenböndern befestigen (Bild 4-3/2).
+
+<!-- BREAK -->
+
