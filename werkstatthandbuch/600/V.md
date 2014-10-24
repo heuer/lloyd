@@ -72,4 +72,61 @@ Prüfen
 1. Gelenkstück, Bolzen, innere und äußere Gelenkwelle mit Waschbenzin reinigen.
 
    Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
+2. Scharniergelenk zusammensetzen. Zwischen den Gelenkstücken und Zapfen der äußeren und
+   inneren Gelenkwelle ist ein Spiel bis zu 0,5 mm zulässig (Bild 4-2/3)
 
+Wird eine größere Abweichung festgestellt, so muß die vollständige Gelenkwelle mit dem
+Scharniergelenk durch eine neue ersetzt werden. Ein zu großes Spiel macht sich während
+der Beschleunigung, besonders beim Anfahren, durch schlagende Geräusche bemerkbar.
+
+
+Einbauen
+--------
+
+Der Einbau wird in umgekehrter Reihenfolge vorgenommen. Folgende Punkte sind zu beachten:
+
+1. Die Aussparungen in den Gelenkbolzen (siehe Pfeil) müssen mit den Bohrungen fluchten,
+   damit die Spannstifte zur Arretierung der Bolzen eingesetzt werden können. (Bild 4-2/4)
+2. Beim Füllen der Manschette zum Gelenk muß die Luft entweichen, um eine ausreichende
+   Füllung zu erreichen. Auch die Ring-Rillenlager auf der Nabe werden durch das Fett
+   geschmiert.
+
+
+<!-- BREAK -->
+
+Inneres Gelenk (Kreuzgelenk) aus- und einbauen
+----------------------------------------------
+
+(Das Scharniergelenk mit der inneren Gelenkwelle ist ausgebaut)
+
+Folgendes Spezial- und Hilfswerkzeug wird benötigt:
+
+1. WO 23 Abziehvorrichtung für das innere Gelenk.
+2. SW 9 Halteschlüssel für das innere Gelenk.
+
+
+Ausbauen
+--------
+
+1. Kronenmutter SW 22 entsplinten, das innere Gelenk mit dem Hilfswerkzeug SW 9
+   gegenhalten (resp. drehen) und die Kronenmutter mit einem geraden Ringschlüssel
+   abschrauben.
+2. Das Kreuzgelenk mit dem Spezialwerkzeug WO 23 abziehen. (Bild 4-3/1)
+
+Das auf dem Bild gezeigte innere Gelenk liegt in Fahrtrichtung gesehen links.
+Zur Demontage des gegenüberliegenden Gelenks sind der mit 4 Zylinderschrauben
+AM 4 x 8 befestigte Abdeckring des Lüftergehäuses und das Massekabel vom 
+Getriebegehäuse abzunehmen, damit das Gelenk besser erreicht werden kann.
+
+
+Prüfen
+------
+
+1. Das radiale und axiale Spiel der inneren Gelenke ist zu prüfen. Es bleibt 
+   dem erfahrenen Werkstattfachmann überlassen, zu beurteilen, ob das innere
+   Gelenk wieder verwendet werden darf. Es empfiehlt sich, das Gelenk bereits
+   im eingebauten Zustand zu prüfen und die Demontage nur dann vorzunehmen, 
+   wenn ein Austausch erforderlich ist.
+2. Sollte beim Abschmieren der inneren Gelenke zu viel Fett an der Staubkappe 
+   austreten, so ist der Filzring zu erneuern. Die Staubkappe ist durch einen
+   Körnerschlag gesichert und läßt sich mittels Schraubenzieher lösen. (Bild 4-3/2)
