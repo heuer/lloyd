@@ -41,5 +41,35 @@ Flattererscheinungen, die über die Spurstangen auf die Lenkung übertragen werd
 
 <!-- BREAK -->
 
+Gelenkwellen
+============
+
+
+Scharniergelenk mit der inneren und äußeren Gelenkwelle ausbauen, prüfen und einbauen
+-------------------------------------------------------------------------------------
+
+
 Ausbauen
 --------
+
+1. Handbremse anziehen, Radkappe abnehmen, Kronenmutter SW 27 der äußeren Gelenkwelle entsplinten und lösen (Bild 4-1/1)
+2. Radschrauben lockern, das Fahrzeug aufbocken, Radschrauben herausnehmen und das Vorderrad abnehmen.
+3. Schlauchbinder der Manschette zum Gelenk öffnen und die Manschette zur Seite schieben (Bild 4-1/2)
+4. Bolzen zum Schmiergelenk auf einer Seite entsplinten und aus dem Gelenkstück herausnehmen (Bild 4-1/3)
+5. Innere Gelenkwelle aus dem inneren Gelenk (Kreuzgelenk) und die äußere Gelenkwelle aus der Nabe herausnehmen (Bild 4-1/4)
+6. Manschette mit Gleitbuchse von der Gelenkwelle abnehmen.
+
+<!-- BREAK -->
+
+7. Bolzen zur Gelenkwelle, (8 mm Ø, 44 mm lang) entsplinten und aus dem Gelenkstück herausnehmen.
+8. Spannstift 3 x 20 mittels Spitzdorn 2,5 mm Ø und Hammer entfernen (Bild 4-2/1)
+9. Die Gelenkbolzen (11 mm Ø, 18 mm lang) herausdrücken und die Gelenkstücke auseinandernehmen (Bild 4-2/2)
+
+
+Prüfen
+------
+
+1. Gelenkstück, Bolzen, innere und äußere Gelenkwelle mit Waschbenzin reinigen.
+
+   Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
+
