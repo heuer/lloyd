@@ -1,0 +1,369 @@
+Allgemeines
+------------
+
+Für die Sicherheit im Straßenverkehr sind die Wirksamkeit und Zuverlässigkeit der Bremsen von besonderer Bedeutung.
+
+Es ist die Aufgabe der Bremsen, die Bewegungsenergie (auch kinetische Energie genannt), die während des Bremsvorganges 
+in Wärme umgewandelt wird, zu vernichten.
+
+Die Bremswirkung wird nach der erreichbaren mittleren Verzögerung beurteilt. Hierfür sind in der StVZO 
+(Straßenverkehrs-Zulassungs-Ordnung) für Personenwagen folgende Verzögerungswerte vorgeschrieben:
+
+Mittlere Verzögerung für die Fußbremse: 2,5 m/sek² 
+Mittlere Verzögerung für die Handbremse: 1,5 m/sek²
+
+Die mittlere Bremsverzögerung Iößt sich aus der Geschwindigkeit beim Beginn des Bremsvorganges und dem 
+Bremsweg bis zum Stillstand des Fahrzeuges berechnen. Auch aus der Ausgangsgeschwindigkeit 
+(Geschwindigkeit beim Beginn des Bremsvorganges) und der Bremszeit kann die mittlere Verzögerung berechnet 
+werden.
+
+Für das Fahrzeug ist der Bremsweg abhängig von:
+
+1. Gewicht des Fahrzeuges
+2. Ausgangsgeschwindigkeit (d. h. Geschwindigkeit bei Beginn der Bremsung]
+3. Zustand und Art der Bremse
+4. Beschaffenheit der Reifen
+5. Zustand der Straßenaberfläche.
+
+Hierbei wird eine für ieden Bremsvorgang gleich große Fußkraft des Fahrers zugrunde gelegt.
+
+Die Errechnung der mittleren Verzögerung aus der Ausgangsgeschwindigkeit (Geschwindigkeit beim Beginn 
+des Bremsvorganges) und der Bremszeit erfolgt nach folgender Formel:
+
+TODO
+
+Eine einfache Methode zur Bestimmung der mittleren Verzögerung aus dem Bremsweg und der 
+Ausgangsgeschwindigkeit erfolgt nach der Formel:
+
+TODO
+
+Die Buchstaben in den Formeln bedeuten:
+
+b = Verzögerung in m/sek²
+V = Geschwindigkeit in km/h 
+s = Bremsweg in m
+t = Bremszeit in sek.
+
+Der Bremsweg ist genau zu messen und die Geschwindigkeit (in km/h) mit einem 
+geeichten Geschwindigkeitsmesser festzustellen:
+
+Anhand der Bremsspur kann allerdings keine genaue Messung des Bremsweges vorgenommen 
+werden. Zur genauen Ermittlung des Bremsweges (s) werden Farbschußapparate verwendet, 
+die den Beginn und das Ende des Bremsvorganges durch einen Farbpunkt kennzeichnen.
+
+<!-- BREAK -->
+
+Eine weitere einfache, in der Praxis gebräuchliche Methode zur Ermittlung der 
+Bremsverzögerungswerte, ist die Messung mit dem im Fachhandel erhältlichen
+Siemens-Bremsprüfer.
+
+Dieses Gerät wird auf den Boden des Fahrgastraumes gestellt; an der Zahlenskala der Steigrohre 
+können die maximalen Verzögerungswerte direkt abgelesen werden.
+
+Die mittlere Verzögerung entspricht etwa dem 0,8-fachen des vom Gerät angezeigten Wertes, d.h.‚ 
+der abgelesene Wert ist mit 0,8 zu multiplizieren, um die mittlere Verzögerung zu berechnen.
+
+Die vorgeschriebenen Bremsverzögerungen müssen mit normalem durchschnittlichen Pedaldruck 
+bei vollbelastetem Fahrzeug auf ebener Fahrbahn und erwärmten Bremstrommeln ermittelt werden. 
+Auch wenn das Fahrzeug aus der Höchstgeschwindigkeit abgebremst wird, muß der vorgesd'triebene 
+Bremsverzögerungswert erreicht werden. Ferner soll das Fahrzeug während des Bremsvorganges
+die Spur halten.
+
+Bremswege „s“ (in m) und Bremszeiten „t“ (in sek) auf ebener, trockener Betonfahrbahn z. B. Autobahn.
+
+TODO
+
+<!-- BREAK -->
+
+Viele Versuche bestätigen, daß der Führer eines Kraftfahrzeuges durchschnittlich knapp 
+eine Sekunde benötigt, um sein Fahrzeug voll und wirksam zu bremsen. Diese Sekunde, 
+auch „Schrecksekunde“ genannt, setzt sich zu‐ sammen aus:
+
+Der Erkennungs- und Reaktionszeit des Fahrers sowie der Betätigungs- und Ansprechzeit der
+Bremsen. Während dieser Zeit rollt das Fahrzeug mit unverminderter Geschwindigkeit weiter.
+
+Wird zum Beispiel ein Fahrzeug aus einer Geschwindigkeit von 70 km/h (19,4 m/sek) gebremst, 
+beträgt bei einem Verzögerungswert von 5 m/sek² (siehe auch Tabelle Seite 1 - 2) die 
+Bremszeit (t) 3,9 sek und die Länge des Bremsweges (s) 37,7 m.
+
+Berücksichtigt man die oben erwähnte Schrecksekunde, verlängert sich der Bremsweg um die
+in einer Sekunde zurückgelegte Strecke, in diesem Falle um 19,4 m. Der tatsächliche 
+Bremsweg beträgt damit
+
+37,7m + 19,4m = 57,1 m.
+
+Die bei den LLOYD-Fahrzeugen erreichbaren Verzögerungswerte liegen wesentlich höher, 
+als die gesetzlich vorgeschriebenen Mindestwerte. Unter günstigen Voraussetzungen auf 
+trockener, ebener Betonbahn (z.B. Autobahn) kann bei einer mit normalem Pedaldruck 
+(von ca. 30 kg) erfolgenden Bremsung des voll belasteten Fahrzeuges LP/LC 600 aus 
+einer Geschwindigkeit von 50 km/h mit einem Verzögerungswert von 7,5 m/sek² gerechnet 
+werden. Dieser optimale Verzögerungswert ist natürlich auch, wie bereits anfangs erwähnt,
+abhängig von dem Zustand und der Art der Straßenoberfläche. Aus diesem Grund erreicht 
+man beim Abbremsen eines Fahrzeuges auf nassem Asphalt (insbesondere bei Glatteis)
+wesentlich niedrigere Verzögerungswerte.
+
+<!-- BREAK -->
+
+Wartungs- und Instandssetzungshinweise
+--------------------------------------
+
+Die Wartungs- und Instandsetzungsarbeiten, von denen die Verkehrssicherheit iedes 
+Fahrzeuges weitgehend abhängig ist, müssen mit ganz besonderer Sorgfalt ausgeführt werden. 
+Hierbei sind folgende Punkte zu beachten:
+
+1. Vor Beginn der Arbeiten am Radbremszylinder, am Hauptbremszylinder, an den Bremsleitungen 
+   und Bremsschläuchen müssen diese, insbesondere deren Schraubverbindungen gründlich gereinigt 
+   werden, damit bei späteren Arbeiten keine Fremdkörper in die Bremsonlage geraten. 
+   Ferner sind die Hände von Öl und Fett zu reinigen, denn auch dieses darf auf keinen Fall
+   in die Bremsonlage gelangen. Eine Verschmutzung beeinträchtigt die Zuverlässigkeit 
+   und Wirksamkeit der Bremse.
+2. Die Original-ATE-Bremsflüssigkeit enthält Bestandteile, die als Lösungsmittel für Farb- 
+   und Lackanstriche wirken. Besonders beim Entlüften der Bremsonlage, Lösen einer Bremsleitung
+   und Nachfüllen der Bremsflüssigkeit ist zu beachten, daß keine Bremsflüssigkeit mit der 
+   Lackierung des Fahrzeuges in Berührung kommt.
+   
+   **Achtung!** Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
+3. Die bei der Entlüftung ausgepumpte Bremsflüssigkeit darf nicht wieder verwendet werden, 
+   andernfalls können hierbei auch Fremdkörper in das Leitungssystem gelangen.
+4. Sollte aus Versehen oder Unkenntnis eine andere als die vorgeschriebene Bremsflüssigkeit nachgefüllt worden
+   sein, muß unbedingt die gesamte Bremsonlage entleert, zerlegt und gereinigt werden. Die Gummiteile der 
+   hydraulischen Bremsonlage sind nidwt mineralölbeständig und müssen, falls Mineralöl oder eine andere 
+   schädigend wirkende Flüssigkeit nachgefüllt wurde, erneuert werden. Zum Reinigen darf nur Spiritus 
+   oder die OriginachTE-Bremsflüssigkeit verwendet werden. Anschließend sind die Teile zu trocknen. 
+   Um eine einwandfreie Konservierung der Zylinderlaufbahnen und Kolben zu erzielen, sind diese vor 
+   dem Zusammenbau mit ATE‐Bremszylinderpaste einzustreichen. Selbstverständlich muß nach der Neufüllung
+   die gesamte Bremsonlage entlüftet werden.
+5. Die Gummiteile der Bremsen, (Manschetten und Schutzkappen) sind während der Lagerzeit atmosphärischen 
+   Einflüssen unterworfen und werden nach zu langer Zeit unbrauchbar. Für eine Lagerung in kühlen, 
+   trockenen, möglichst staubfreien Räumen ist zu sorgen.
+   
+   Montierte Rad- und Hauptbremszylinder sollen nicht länger als 6 Monate, Manschetten und Schutzkappen
+   nicht länger als 12 Monate gelagert werden. Sofern montierte Rode und Hauptbremszylinder die 
+   vorgenannte Lagerzeit überschritten haben, sind Demontage, Reinigung und Zusammenbau unter 
+   Berücksichtigung des im Absatz 4 gesagten, vorzunehmen. Verhärtete Gummiteile sind zu erneuern.
+6. Eine regelmäßige Überprüfung der Bremsonlage gemäß dem im Kundendienst-Scheckheft vorgeschriebenen 
+   Turnus muB durchgeführt werden. Beschädigte Bremsschläuche und Leitungen sind unbedingt zu erneuern,
+   außerdem ist die Schadensursache abzustellen.
+7. Die Bremsflüssigkeit wird nach längerer Zeit und häufiger Benutzung der Bremsen durch den Abrieb 
+   der Gummiteile (Manschetten) verunreinigt. Aus diesem Grunde empfiehlt es sich, nach etwa 
+   einiähriger Benutzungsdauer des Fahrzeuges die Bremsflüssigkeit zu erneuern.
+
+<!-- BREAK -->
+
+**Achtung!** Die Feder steht unter starker Spannung und springt leicht weg.
+
+3. Abdeckscheibe, Kolben mit Sekundär-Manschette, Füllscheibe, 
+   Primär-Manschette und Druckfeder mit Bodenventil herausnehmen. 
+   Sollte der Kolben nicht gleich herauskommen, mit einem Schraubenzieher an
+   der Aufnahme für die Druckstonge nachhelfen. (Bild 2-3/2)
+4. Alle Teile mit Spiritus oder Original-Bremsflüssigkeit reinigen. Benzin, 
+   Benzol oder andere Lösungen können eine Zerstörung der Gummiteile verursachen.
+5. Hauptbremszylinder und Einzelteile prüfen, schadhafte und abgenutzte Teile 
+   erneuern. Primär- und Sekundär-Manschette grundsätzlich erneuern.
+
+
+Zusammenbau
+-----------
+
+1. Druckfeder mit Bodenventil, Primän-Manschette, Füllscheibe und Kolben 
+   mit Sekundär-Manschette einsetzen. (Bild 2-3/3)
+2. Mit einem stumpfen Dorn den KOlben an der AUfnahme der DruCkSlonge 
+   nach innen drücken. Anschlagscheibe einlegen und Sicherungsnng mit einer 
+   Spitzzange einsetzen.
+3. Gummikappe anbringen, hierbei beachten, daß das Entlüftungsloch bei 
+   eingebautem Hauptbremszylinder unten liegt. Andernfalls kann kein 
+   Kondenswasser ablaufen.
+4. Bremsflüssigkeit auffüllen, Behälter verschließen, und Funktion des 
+   Hauptbremszylinders überprüfen.
+
+
+<!-- BREAK -->
+   
+Aus- und Einbau der Bremsbacken
+-------------------------------
+
+
+Ausbau
+------
+
+1. Radkappen abnehmen, Radschrauben lösen und Wagen aufbocken.
+2. Räder abnehmen. Senkschrauben der Bremstrommelbefestigung lösen 
+   und Bremsfrommeln abnehmen. (Bild 4-1/1)
+   
+   (Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
+3. Zugfeder an der Seite der Radbremszyiinder mittels
+   Schraubenziehers an der oberen Bremsbacke aushängen. (Bild 4-1/2)
+4. Obere und untere Bremsbacke vom Stützlager abheben und die Rückzugfeder 
+   (stützlagerseitig) aushängen. (Bild 4-1/3)
+5. Die obere Bremsbacke abnehmen. (Bild 4-1/4)
+
+<!-- BREAK -->
+
+6. Die untere Bremsbacke einschließlich der Druckstange und beider 
+   Zugfedern nach unten herausnehmen. (Bild 4-2/1)
+1. Handbremsseil aushängen. (Siehe auch Bild 4-2/2)
+
+
+Einbau
+------
+
+Bremsbeläge prüfen: Schadhafte, verschlissene oder verölte Bremsbeläge müssen 
+ausgewechselt werden. Das Abwaschen mit Benzin oder anderen Lösungsmitteln
+ist zwecklos, denn das vom Belag aufgesaugte Öl tritt bei Erwärmung des
+Bremsbelages (d. h. während des Bremsvorganges) aus. Sofern ein Neubelegen
+erforderlich ist, sind grundsätzlich die Bremsbeläge **beider** Vorder- bzw. 
+Hinterräder zu erneuern, um auf beiden Seiten eine gleiche Bremswirkung 
+zu gewährleisten. Aus diesem Grunde sind für beide Seiten immer Beläge gleichen
+Fabrikats zu verwenden.
+
+1. In die untere Bremsbacke beide Zugfedern einhängen, die radzylinderseitige 
+   Zugfeder mit der Klemmschelle an der Druckstange befestigen und die untere 
+   Bremsbacke zusammen mit der Druckstange von unten einsetzen. Handbremsseil 
+   einhängen. (Bild 4-2/2)
+2. Die radzylinderseitige Zugfeder an der oberen Bremsbacke einhängen. 
+   (Bild 4-2/3)
+
+<!-- BREAK -->
+
+3. Obere Bremsbacke am Radzylinderkolben einsetzen, Bremsbacke anheben 
+   und die Druckstange in die richtige Lage bringen (Bild 4-3/1).
+4. Die kurze Zugfeder mit einer Spitzzange an der oberen Bremsbacke 
+   einhängen (Bild 4 -3/2).
+
+Zugfedern so einhängen, daß deren Funktion nicht durch Berührung anderer 
+Teile der Radbremse behindert wird. Das Mittelstück der kurzen Zugfeder soll 
+mit der Kröpfung an der Innenseite des Stützlagers vorbeigeführt werden.
+
+5. Beide Bremsbacken mit einer Polygrip-Zange am Stützlager einsetzen und
+   in die richtige Funktionslage bringen (Bild 4-3/3).
+6. Funktion der Bremse durch Betätigung des Fuß- und Handbremshebels prüfen.
+7. Bremstrommeln aufsetzen und mit ie 2 Senkschrauben M 6 x 1O befestigen 
+  (siehe auch Bild 4-1/1).
+8. Räder aufsetzen, Radschrauben einschreuben, leicht anziehen und Wagen abbodten.
+9. Radschrauben fest anziehen, (Anzugswert = 7,2 mkg) und Radkappen anbringen.
+10. Bremswirkung durch eine Probefahrt Überprüfen. Die Verzögerungswerte müssen
+    den gesetzlichen Vorschriften entsprechen.
+
+<!-- BREAK -->
+
+Bremsbelag erneuern
+-------------------
+
+(Bremsbacken sind ausgebaut)
+
+1. Niete der Bremsbeläge vorsichtig mit einem Kreuzmeißel an der Innenseite 
+   abtrennen und mit einem Dorn entfernen. Hierbei beachten, daß die Bremsbacke 
+   nicht beschädigt wird.
+2. Bremsbacke reinigen und Nietlöcher entgraten.
+3. Neuen Bremsbelag von der Mitte aus festnieten (Bild 4-4/1).
+   Um eine einwandfreie Bremswirkung zu erreichen und Quietschgeröusche zu vermeiden, 
+   muß der Belag unbedingt an der ganzen Fläche der Bremsbacke anliegen und darf 
+   auch nicht seitlich überstehen. Spannungen vermeiden, d.h.‚ Niete senkrecht 
+   eindrücken, Löcher im Belag nötigenfalls nachbohren.
+4. Scharfe Kanten an den Anlaufflächen brechen, falls nötig abrunden und 
+   Beläge an beiden Enden 5-7 mm abschrägen.
+
+<!-- BREAK -->
+
+Allgemeines
+-----------
+
+Die Bremsanlage der Fahrzeuge, insbesondere die Bremsbeläge unterliegen einem natürlichen 
+Verschleiß, der von der Benutzungsart und -Zeit der Bremsen abhängig ist. Zum Beispiel 
+führt der Einsatz der Fahrzeuge auf Paßstraßen und eine „scharfe“ Fahrweise, verbunden 
+mit häufiger Benutzung der Bremse zu einem schnelleren und größeren Verschleiß, als 
+eine schonende Fahrweise im Flachland. In beiden Fällen erfolgt eine Abnutzung der 
+Bremsbeläge, durch die sich der Abstand zwischen Bremsbacken und Bremstrommeln vergrößert.
+
+Die konstruktive Gestaltung der hydraulischen Bremsanlage gleicht durch das Volumen 
+des Bremsflüssigkeitsbehälters diesen Abstand aus, iedach vergrößert sich im Laufe der 
+Zeit der Leerweg der Bremse.
+
+Sobald der Bremsfußhebelweg bis zum Ansprechen der Bremse zu groß wird, ist ein Nachstellen
+der Bremsbacken mittels der am Bremsträger angebrachten Exzenter erforderlich.
+
+Bremsen einstellen
+------------------
+
+1. Wagen mit allen 4 Rädern aufbocken und Hand‐ bremse lösen.
+2. Bremsfußhebel mehrmals zur Zentrierung der Bremsbacken innerhalb der 
+   Bremstrommeln betätigen.
+3. Das Rad entsprechend der Drehrichtung bei Vorwärtsfahrt drehen und dabei mit 
+   einem Maulschlüssel SW 10 den oberen Radexzenter soweit nachstellen, bis 
+   die Bremsbocke fest an der Bremstrommel anliegt und anschließend den 
+   Radexenter soweit lösen, daß die Bremstrommel gerade frei läuft (Bild 5-1/1).
+   Um bei allen Nachstellexzentern den annähernd gleichen Nachstellweg zu erhalten, 
+   wird der Maulschlüssel in Richtung „vom Radzylinder weg" bewegt.
+4. Den Nachstellvorgang am unteren Radexenter in gleicher Weise durchführen. 
+   (Das Bild zeigt den Arbeitsvorgang am rechten Vorderrad).
+5. An allen übrigen Rädern die Radexzenter, wie unter Pos. 3 beschrieben, 
+   ebenfalls nachstellen.
+6. Wagen abbocken und Bremsen prüfen.
+   Spurhaltung des Fahrzeuges bei Vollbremsung beachten.
+
+<!-- BREAK -->
+
+Handbremse einstellen
+---------------------
+
+1. Am Bremsseilende (Handbremshebel) die Kontermutter SW 10 lösen, 
+   unterhalb des Gewindestücks das Bremsseilende mit einer Zange festhalten und
+   die Nachstellmutter soweit nachstellen, bis die Räder bei um 3 bis 4 Zähne 
+   angezogenem Handbremshebel festgehalten werden (Bild 5-2/1).
+2. Nachstellmutter festhalten und Kontermutter anziehen.
+3. Sobald die Nachstellmuttern am Handbremshebel bis zum Ende des Gewindestücks 
+   nachgezogen sind, Muttern wieder bis zur Ausgangsstellung zurückdrehen und die
+   Nachstellmuttern am Bremsausgleich entsichern und anziehen, bis die Räder bei 
+   um 3 bis 4 Zähne angezogener Handbremse festgehalten werden. 
+   Gegenmuttern anziehen (Bild 5-2/2).
+
+
+Bremsen entlüften
+-----------------
+
+Allgemeines
+-----------
+
+Sofern bei Arbeiten an der Bremsanlage die Haupt- oder Radbremszylinder, Bremsschläuche 
+oder Bremsleitungen vorübergehend getrennt oder ausgewechselt wurden, muß die Bremsanlage 
+entlüftet werden. Ferner ist eine Entlüftung notwendig, wenn sich das Bremspedal ohne Widerstand 
+ganz durchtreten läBt und zu einer Bremsung mehrmals durchgetreten ‐ „gepumpt“ werden muß. 
+Sollte bei einem Fahrzeug wiederholt eine Entlüfung der Bremsanlage vorgenommen werden müssen, 
+ist unbedingt zunächst der Fehler zu suchen und abzustellen. Es ist möglich, daß die 
+Rad- oder auch Hauptbremszylinder-Gummimanschetten undicht sind. Außerdem kann Luft an den 
+Verbindungsstellen der Bremsleitungen und Schläuche eintreten, wenn eine Leitung undicht 
+ist oder sich eine Schraubverbindung gelöst hat. Zur Überprüfung der Bremsanlage wird der
+Hauptbremszylinder mit Bremsflüssigkeit gefüllt, der Bremsfußhebel betätigt und ca. 2 Minuten 
+festgehalten, so daB ein Flüssigkeitsdruck innerhalb der Bremsanlage auftritt. Beobachtet man 
+während dieser Zeit die Anschlüsse, Leitungen und Radbremszylinder, wird der Fehler in den 
+meisten Fällen gefunden.
+
+<!-- BREAK -->
+
+1. Deckel im Rahmenboden öffnen, Verschlußkappe des Bremsflüssigkeitsbehälters abnehmen 
+   und den Behälter mit Bremsflüssigkeit füllen (Bild 5-3/1).
+
+**Achtung!** Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
+verwenden. (ATE- und Lackheed-Bremsflüssigkeiten dürfen miteinander vermischt werden.)
+Die Verwendung anderer Bremsflüssigkeiten hebt die Gewähr für die Betriebssicherheit der 
+Bremse auf. Hierbei beachten: Der Bremsflüssigkeitsbehälter muß immer rechtzeitig nachgefüllt
+werden, damit keine Luft angesaugt werden kann. Die bei der Entlüftung ausgepumpte 
+Bremsflüssigkeit nicht wieder verwenden, andernfalls besteht die Gefahr, daß Fremdkörper 
+in das Bremssystem gelangen.
+
+2. Bremsentlüftung an der vom Hauptbremszylinder am weitesten entfernt liegenden 
+   Radbremse beginnen. Entlüftungsfolge: (Bild 5-3/2).
+3. Anschlußnippel säubern, Gummikappen der Entlüfterventile abnehmen, Entlüfterschlauch
+   aufschieben und das andere Schlauchende in die Bremsflüssigkeit tauchen, damit 
+   man das Aufsteigen der Luftblasen während des Entlüftungsvorganges erkennen kann.
+   (Bild 5-3/3).
+4. Bremsfußhebel mehrmals durchtreten, in der unteren Stellung festhalten. Entlüfterschroube 
+   mit einem Maulschlüssel SW 7 öffnen und wieder schließen. Diesen Vorgang so oft 
+   wiederholen, bis an dem in der Bremsflüssigkeit befindlichen Schlaudwende keine 
+   Luftblasen mehr aufsteigen.
+5. Entlüfterschlauch abnehmen und Gummikappe am Entlüfterventil wieder anbringen.
+6. Entlüftungsvorgang gemäß der im Bild 5-3/2 dargestellten Folge an allen übrigen
+   Rädern wiederholen.
+7. Bremsflüssigkeit nochmals nachfüllen, Verschlußkappe aufschrauben und Deckel 
+   im Rahmenboden anbflngen.
+8. Bremswirkung durch eine Probefahrt überprüfen.
