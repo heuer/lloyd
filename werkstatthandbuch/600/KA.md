@@ -1,0 +1,130 @@
+Beschreibung der Kraftstoffanlage
+=================================
+
+TODO: Bild
+
+Die Kraftstofianlage des LLOYD 600 besteht aus dem Kraftstofibehölter mit 
+VerschluBkappe, dem Kraftstoffhahn mit Gestänge, dem Kraftstoffschlauch, der 
+Kraftstoffpumpe mit Rohr und dem Vergaser mit Luftfilter.
+
+Der Kraftstofibehölter ist unter der Motorhaube an der Spritzwand angebracht 
+und faßt 25 Liter (LP/LS 600 und Alexander) bzw. 31 Liter (LT/LTK 600).
+
+Der Kraftstofthahn ist an der Ausflußöffnung des Kraftstofibehälters an einem
+eingeschweißten Stutzen angeschraubt. Über die Betätigungsstange können vom 
+Wageninnern aus nach Bedarf drei verschiedene Schaltstellungen am Kraftstoffhahn 
+gewählt werden: „Zu“, „Auf" und „Reserve'.
+
+TODO: Bild
+
+Die Kraftstofireserve beträgt beim LP/LS 600 und Alexander ca. 3 Liter, beim LT/LTK ca. 5 Liter.
+
+Der KraftstoFf fließt zunächst in den unten am Kraftstofihahn befindlichen Filterbecher und 
+durchströmt das eingeschraubte feinmaschige Korbsieb von außen nach innen. Fremdkörper 
+(auch Wasser) oder Verunreinigungen, die auch bei sorgfältigem Abfüllen und Tanken im Kraftstoff 
+vorhanden sein und zum Verstopfen der Vergaserdüsen führen können, sammeln sich außen am Korbsieb
+und können nach Abnahme des Filterbechers leicht entfernt werden.
+
+<!-- BREAK -->
+
+Vom Kraftstoffhahn gelangt der Kraftstoff über den flexiblen Kraftstoffschlauch zur 
+Kraftstoffpumpe und wird von dieser zum Vergaser gefördert.
+
+Die Wartung des in den folgenden Abschnitten behandelten Teiles der Kraftstoffonloge: 
+Kraftstoffbehälter, Kraftstoffhahn beschränkt sich auf das regelmäßige Reinigen des
+Filterbechers und des Korbsiebes anläßlich der im Kundendienstheft vorgesehenen
+allgemeinen Wartungsdienste.
+
+Der Übrige Teil der Kraftstoffanlage: Kraftstoffpumpe und Vergaser mit Luftfilter 
+ist in der Hauptgruppe M Motor, Untergruppen 6, 5 und 4 im einzelnen behandelt.
+
+**Messen des Kraftstoffverrats.** Bei richtiger Handhabung (regelmäßiges Zurückschalten 
+des Kraftstoffhahnes auf Stellung „Auf") stellt der Dreiwegehahn eine zuverlässige Sicherung
+gegen unerwartetes Leerfahren des Kraftstoffbehälters dar. Auf eine besondere Tankmeßuhr 
+als Serienausstattung wird daher verzichtet.
+Ein als Zubehörteil von LLOYD lieferbarer Meßstab (universell verwendbar für 25- und 3i-Liter-Tank) 
+gestattet in einfacher Weise bei stehendem Fahrzeug eine Kontrolle der im Kraftstoffbehälter 
+vorhandenen Kraftstoffmenge.
+
+Eine Kraftstoffvorratsanzeige kann auf Wunsch nachträglich eingebaut werden. Für 
+LLOYD LP/LS 600 und Alexander sind im Zubehörhandel geeignete Meßvorrichtungen zu haben,
+die während der Fahrt eine Überwachung des Kraftstaffstandes im Behälter ermöglichen.
+
+<!-- BREAK -->
+
+TODO: Bild
+
+Reinigen des Korbsiebes
+-----------------------
+
+1. Kraftstafthahnschließen.
+2. Filterbecher mit Ringschlüssel SW 17 abschrauben.
+3. Korbsieb von Hand herausschrauben.
+4. Filterbecher entleeren, Korbsieb in Benzin auswaschen 
+   und beide Teile mit Preßluft ausblasen.
+
+
+Vor Einbau prüfe man durch kurzzeitiges Umschalten des Kraftstafihahnes auf „Reserve“ 
+und „Auf“, ob der Zulauf an beiden Abflußröhrchen innerhalb des Kraftstoftbehälters frei ist.
+
+Karbsieb nicht durch zu starkes Anziehen beschädigen! Filterbecher nur mäßig anziehen, 
+nicht „anknallen“!
+
+Gewinde am Filterbecher vorher mit grafitiertem Ul be‐ netzen, um ein Festfressen 
+des Gewindes zu verhindern.
+
+Nach Zusammenbau Kraftstafl‘hahn auf Dichtigkeit prüfen.
+
+<!-- BREAK -->
+
+Kraftstoffhahn
+==============
+
+Kraftstoffhahn aus- und einbauen
+--------------------------------
+
+Ausbau
+------
+
+1. Kraftstofischlauch am Pumpenstutzen abziehen und Kraftstot’fbehölter entleeren
+2. Splint zwischen Betätigungsstange und Hahnküken entfernen, Betätigungsstange abnehmen.
+3. Überwurfmutter SW 19 zwischen Kraftstofihahn und Behälter durch Linksdrehen lösen 
+   und Kraftstoffhahn abnehmen. Dichtring entfernen.
+4. Kraftstoffbehölter gründlich reinigen.
+
+
+Einbau
+------
+
+Der Einbau erfolgt in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
+
+1. Vor dem Aufschrauben Gewinde am Tankeinlöt‐ stutzen, am Hahnhals und in der Mutter 
+   mit grafitiertem Öl benetzen. Aufschrauben in trockenem Zustand bedeutet Gefahr des 
+   Festfressens!
+2. Der zwischengelegte Dichtring muß aus rotem Hartfiber bestehen und die Masse 
+   10,5 (Ø) x 14,5 (Ø) x 1,2 aufweisen. Dichtring richtig auf die am Hahnhals befindliche
+   Zentrierfläche auflegen. Neuen Original‐Dichtring verwenden!
+3. Die Überwurfmutter hat ein Links- und Rechtsgewinde. Beim Wiederanschrauben des 
+   Kraftstoffhahnes muß sich die Mutter gleichmäßig auf beide Gewinde (am Hahn und am 
+   Tankeinlötstutzen) aufschrauben. Bei ungleichmäßigem Aufschrauben besteht die Gefahr, 
+   daß das Gewinde auf der einen Seite schon voll aufgeschraubt ist, auf der anderen Seite 
+   hingegen nicht. In diesem Fall wird der Hahn nicht fest. Wird aus Unkenntnis des 
+   Zusammenhangs nun versucht ein Festsitz des Hahnes durch gewaltsames Anziehen der Mutter 
+   zu erreichen, wird das Gewinde zwangsläufig beschädigt.
+ 
+   Richtig ist folgendes:
+ 
+   Überwurfmutter ½ bis höchstens 1 Gang auf den Kraftstoffhahn aufschrauben. Achtung! 
+   Linksgewinde! Dann Kraftstoffhahn samt Mutter an den Tankeinlötstutzen halten und in 
+   gleicher Richtung weiterdrehen. Dabei ist darauf zu achten, daß die Mutter am Tankeinlötstutzen
+   **sofort** anpackt, also richtig hinhalten! Sonst tritt der oben geschilderte Effekt ein. 
+   (Bild 2-2/1)
+4. Mutter nur mäßig anziehen. Nach geraumer Zeit Verbindung leicht nachziehen.
+5. Anschlüsse nach Einbau des Hahnes auf Dichtigkeit prüfen.
+6. Betätigungsstange richtig anbringen. Griff muß in Stellung „Auf“ nach unten zeigen!
+
+**Achtung.** Kraftstoffhöhne und Kraftstafischlöuche der Modelle LP/LS 600/Alexander und 
+LT/LTK 600 sind verschieden und dürfen nicht verwechselt werden.
+
+<!-- BREAK -->
+
