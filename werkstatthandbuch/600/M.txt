@@ -199,7 +199,7 @@ Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor 
 Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Verbindung mit dem Drehmomentschlüssel) gebraucht. 
 (Siehe auch Abschnitt M 9, Seite 9 - 2).
 
-29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungs‐ Gehäuse abschrauben.
+29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungsgehäuse abschrauben.
 
 *Achtung!* Bei festem Sitz der Gehäuseflansche vorsichtig mit Gummihammer nachhelfen. 
 Nicht mit Schrauben‐ zieher Flanschflöchen beschädigen!
@@ -280,7 +280,7 @@ Ausbau
 
 12. Schelle am Lüftergehäuse aufbiegen und Pluskabel freimachen.
 13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
-14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LüfterGehäuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
+14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am Lüftergehäuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
 15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
 16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
 
