@@ -15,7 +15,7 @@ verbunden.
 Kurbelgehäuse
 -------------
 Das Kurbelgehäuse ist aus Leichtmetall gegossen und horizontal geteilt. Beide Gehäusehälften sind gemeinsam
-bearbeitet und daher nur zusammen austauschbar. Das Gehäuse-Unterteil bildet den Ulsumpf für den Olkreislauf.
+bearbeitet und daher nur zusammen austauschbar. Das Gehäuse-Unterteil bildet den Ölsumpf für den Ölkreislauf.
 
 
 Kurbelwelle
@@ -202,10 +202,10 @@ Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Ve
 29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungsgehäuse abschrauben.
 
 *Achtung!* Bei festem Sitz der Gehäuseflansche vorsichtig mit Gummihammer nachhelfen. 
-Nicht mit Schrauben‐ zieher Flanschflöchen beschädigen!
+Nicht mit Schraubenzieher Flanschflächen beschädigen!
 Soll der Motor demontiert werden, wird er nun entweder in den drehbaren Montagetisch eingesetzt und 
 festgespannt, oder die Werkstatt benutzt bei Teil‐ Demontage zur einwandfreien Lagerung des Motors den ebenfalls zum Nachbau 
-empfohlenen hölzernen Mantagebock. {Siehe „Hilfgeröte für die Werkstatt").
+empfohlenen hölzernen Mantagebock. {Siehe „Hilfgeräte für die Werkstatt“).
 
 Einbau
 ------
@@ -218,8 +218,8 @@ Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolg
 2. Graphitschleifring prüfen und bei deutlicher Abnut‐ zung erneuern.
 3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett *leicht* einfetten.
 4. Motor-Gummilager prüfen, gegebenenfalls erneuern.
-5. Messingmuttern der Auspuffkrümmer-Befestigung an den Zylinderköpfen mit 2 mkg anziehen. Flansch‐ dichtungen erneuern.
-6. Motor- und Getriebeflanschflöchen vor Zusammenbau sorgfältig reinigen.
+5. Messingmuttern der Auspuffkrümmer-Befestigung an den Zylinderköpfen mit 2 mkg anziehen. Flanschdichtungen erneuern.
+6. Motor- und Getriebeflanschflächen vor Zusammenbau sorgfältig reinigen.
 7. Nach dem Einheben des Aggregates und Absetzen desselben auf dem Vorderachsträgerarm werden von dem Helfer die Gelenkwellen 
    in die Kreuzgelenke eingeführt. Zuerst wird die *kurze* Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
    und Herdrehen der Gelenke eingeführt, darauf die *lange* Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
@@ -280,7 +280,7 @@ Ausbau
 
 12. Schelle am Lüftergehäuse aufbiegen und Pluskabel freimachen.
 13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
-14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am Lüftergehäuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
+14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am Lüftergehäuse bzw. Luftfilterstutzen abschrauben und herausnehmen.
 15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
 16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
 
@@ -296,7 +296,7 @@ durch Querschnittsverengung des Schlauches zu vermeiden.
 23. Heizkörper am Heizungshalter (der Heizungshalter bleibt am Lagerarm für Getriebel) abschrauben (2 Sechskantmuttern SW 14,1 dto. SW 17).
 24. Messingmuttern der Auspuffkrümmer- Befestigung an den Zylinderköpfen abschrauben.
 25. Heizkörper mit Auspuffkrümmer (ein geschlossenes Bauteil) nach rechts unten herausnehmen, dabei Auspufikrümmer-Schieberohr aus der 
-    Kugelflansch‐ verbindung des Abgasrohres herausziehen. 
+    Kugelflanschverbindung des Abgasrohres herausziehen. 
     
 *Achtung!* Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
 Flansclwerbindung nur bei Schwergöngigkeit des Kugelgleitstückes lösen, Gleitstück herausnehmen, mit Drahtbürste reinigen und Außenfläche 
@@ -382,7 +382,7 @@ Beschreibung des Luftfilters
 
 Das zum Einbau kommende Knecht-Micranic-Luftfilter LP 4 1 ] ist ein Trockenfilter, das sich durch optimale Wirksamkeit 
 bei einfachster Wartung auszeichnet. Das Filterpapier der Einsatzpartone ist durch eine Spezial-Imprägnierung unempfindlich gegen 
-Feuchtigkeit und Öldömpfe. Durch die besondere Föltelung ist die größtmögliche Filteroberflöche innerhalb des im Filter gegebenen 
+Feuchtigkeit und Öldömpfe. Durch die besondere Föltelung ist die größtmögliche Filteroberfläche innerhalb des im Filter gegebenen 
 Raumes erzielt. Da das Filter noch Schmutzteilchen bis zu einer Größenordnung eines Micrans (z 'r’woo mm] ausscheidet, ist die 
 optimale Filterung der Ansaugluft gewährleistet. Dabei ist der Grad der Staubausscheidung unabhängig von der Luftgeschwindigkeit 
 bzw. der Motordrehzahl. Das Luftfilter hat beim LLOYD 600 neben der Reinigung der Verbrennungsluft noch die Aufgabe, die Luft 
@@ -475,7 +475,7 @@ flexiblen Schlauches vorübergehend außer Betrieb gesetzt werden.
 
 Einbau
 ------
-1. Halter für Vorwörmung am Auspuffrahr des Zylin‐ ders 2 anschrauben. Die richtige Einbaulage des Halters ist 
+1. Halter für Vorwärmung am Auspuffrohr des Zylinders 2 anschrauben. Die richtige Einbaulage des Halters ist 
    durch die seitlichen Schweißnähte des Auspuftrahres gegeben.
 2. Ansaughutze am Halter anschrauben.
 3. Heizungsschlauch auf die Stutzen der Ansaughutze und des Luftfilters stecken und mit Schellenböndern befestigen (Bild 4-3/2).
