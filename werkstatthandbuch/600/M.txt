@@ -55,7 +55,7 @@ Die beiden einzeln stehenden Zylinder bestehen aus Spezial-Grauguß; zur Wärmea
 Kühlrippen angegossen. Die Zylinder sind untereinander gleich und können zusammen mit den zugehörigen
 Kolben einzeln ausgewechselt werden.
 
-<!-- BREAK -->
+<<<
 
 Zylinderkopf
 ------------
@@ -113,7 +113,7 @@ Die Entlüftung des Kurbelgehäuses übernimmt ein mit der Nockenwelle rotiere
 Druckausgleich erfolgt über einen Kanal im Nockenwellengehäuse und über das Entlüfterrohr, das im Luftfiltergehäuse
 mündet.
 
-<!-- BREAK -->
+<<<
 
 Motor aus- und einbauen
 =======================
@@ -156,7 +156,7 @@ Ausbau
 12. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LÜttergehÖuse bzw. Luftfilterstutzen abschrauben und herausnehmen.
 13. Drahtzug für Heizung amWiderlager des Heizungsgehöuses abschrauben. Drahtzug an der Heizungsklappe aushängen.
 
-<!-- BREAK -->
+<<<
 
 14. Heizungsschlauch vom Stutzen der Motorverkleidung abnehmen.
 15. Batterie-Massekabel am Kupplungsgehöuseflansch abschrauben.
@@ -173,9 +173,9 @@ Ausbau
 23. Motor-Lagerbügel hinten (oben) vom Vorderachsträger abschrauben. (Bild 2-2/4)
 24. Motor-Lagerbügel vorn (unten) vom Vorderachsträger abschrauben. (Bild 2-2/5)
 
-<!-- BREAK -->
+<<<
 
-**Achtung!** Beim Motorausbau bleibt der Lagerbügel am Motor!
+*Achtung!* Beim Motorausbau bleibt der Lagerbügel am Motor!
 Das Antriebsaggregat ist ietzt von allen Verbindungen mit dem Fahrzeug frei und kann mit Unterstützung eines Helfers aus dem Motorraum herausgehoben werden.
 
 25. Aggregat herausheben. 
@@ -195,13 +195,13 @@ Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor 
 28. Anlasser mit Spezial-Steckschlüssel WO 58 abschrauben, dazu beide Muttern gleichmäßig lösen, 
     gleichzeitig Anlasser vom Flansch abziehen und Muttern ganz abschrauben. (Bild 2-3/4)
 
-**Hinweis!** Der Spezial-Steckschlüssel WO 58 dient speziell für den Aus- und Einbau des Anlassers bei eingebautem Motor. 
+*Hinweis!* Der Spezial-Steckschlüssel WO 58 dient speziell für den Aus- und Einbau des Anlassers bei eingebautem Motor. 
 Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Verbindung mit dem Drehmomentschlüssel) gebraucht. 
 (Siehe auch Abschnitt M 9, Seite 9 - 2).
 
 29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungs‐ gehöuse abschrauben.
 
-**Achtung!** Bei festem Sitz der Gehöuseflansche vorsichtig mit Gummihammer nachhelfen. 
+*Achtung!* Bei festem Sitz der Gehöuseflansche vorsichtig mit Gummihammer nachhelfen. 
 Nicht mit Schrauben‐ zieher Flanschflöchen beschädigen!
 Soll der Motor demontiert werden, wird er nun entweder in den drehbaren Montagetisch eingesetzt und 
 festgespannt, oder die Werkstatt benutzt bei Teil‐ Demontage zur einwandfreien Lagerung des Motors den ebenfalls zum Nachbau 
@@ -211,18 +211,18 @@ Einbau
 ------
 Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
 
-<!-- BREAK -->
+<<<
 
 1. Bei länger gelaufenen Fahrzeugen sollte gelegentlich eines Motorausbaus vorsorglich die Kupplung abgebaut und überprüft werden. 
    In jedem Fall vor Anflanschen des Getriebes Zentrierung der Kupplungsscheibe mittels Zentrierdorn WO 22 prüfen.
 2. Graphitschleifring prüfen und bei deutlicher Abnut‐ zung erneuern.
-3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett **leicht** einfetten.
+3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett *leicht* einfetten.
 4. Motor-Gummilager prüfen, gegebenenfalls erneuern.
 5. Messingmuttern der Auspuffkrümmer-Befestigung an den Zylinderköpfen mit 2 mkg anziehen. Flansch‐ dichtungen erneuern.
 6. Motor- und Getriebeflanschflöchen vor Zusammenbau sorgfältig reinigen.
 7. Nach dem Einheben des Aggregates und Absetzen desselben auf dem Vorderachsträgerarm werden von dem Helfer die Gelenkwellen 
-   in die Kreuzgelenke eingeführt. Zuerst wird die **kurze** Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
-   und Herdrehen der Gelenke eingeführt, darauf die **lange** Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
+   in die Kreuzgelenke eingeführt. Zuerst wird die *kurze* Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
+   und Herdrehen der Gelenke eingeführt, darauf die *lange* Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
 
 8. Um das Antriebsaggregot zum Anschluß der drei Gummilager in die richtige Lage zu bringen, wird zweckmäßigerweise zwischen 
    Kupplungsgehäuse und Vorderachsträgerarm ein passender Holzklotz gelegt. Abmessungen ca. 10xl0x2,5cm. (Bild 2-4/3)
@@ -237,9 +237,9 @@ Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolg
    c) zum Schluß der Motor-Lagerarm befestigt.
 
 
-**Achtung!** Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
+*Achtung!* Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
 
-<!-- BEAK -->
+<<<
 
 Nach Anliegen der Sechskantmuttern durch 1,5 bis 2 Umdrehungen Tellerfedern auf Vorspannung bringen, dann mit Gegenmuttern sichern. (Bild 2-5/1)
 
@@ -276,7 +276,7 @@ Ausbau
 10. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen.
 11. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. Kabel zum Zünd‐ anlaßschalter von Klemme 50 des Anlassers lösen.
 
-<!-- BREAK -->
+<<<
 
 12. Schelle am Lüftergehöuse aufbiegen und Pluskabel freimachen.
 13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
@@ -284,7 +284,7 @@ Ausbau
 15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
 16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
 
-**Achtung!*** Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
+*Achtung!* Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
 durch Querschnittsverengung des Schlauches zu vermeiden.
 
 17. Batteriemassekabel am Kupplungsgehöuseflansch abschrauben.
@@ -298,7 +298,7 @@ durch Querschnittsverengung des Schlauches zu vermeiden.
 25. Heizkörper mit Auspuffkrümmer (ein geschlossenes Bauteil) nach rechts unten herausnehmen, dabei Auspufikrümmer-Schieberohr aus der 
     Kugelflansch‐ verbindung des Abgasrohres herausziehen. 
     
-**Achtung!** Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
+*Achtung!* Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
 Flansclwerbindung nur bei Schwergöngigkeit des Kugelgleitstückes lösen, Gleitstück herausnehmen, mit Drahtbürste reinigen und Außenfläche 
 und Bohrung mit Graphitfett Überziehen.
 
@@ -314,7 +314,7 @@ Einbau
 Der Zusammenbau und Einbau des Antriebsaggregates erfolgt in umgekehrter Reihenfolge. Die für das Modell 1956 
 gegebenen Hinweise (Seiten M 2-4 und 5, Pos. 1-8 und 10) sind auch beim 1957er Modell zu berücksichtigen.
 
-<!-- BREAK -->
+<<<
 
 Beim Wiedereinbou der Heizung beachte man noch‐ stehende Reihenfolge und Hinweise:
 
@@ -327,7 +327,7 @@ Um Verspannungen, die unter Umständen ein Ausbrechen des Flansches am Zylinder
 4. Heizkörper am Heizungshalter testziehen.
 5. Nach Anschluß des Bowdenzuges für Heizung Heizungskloppe auf volles Öffnen bzw. Schließen kontrollieren.
 
-<!-- BREAK -->
+<<<
 
 Ausgebauten Motor zerlegen und zusammenbauen
 ============================================
@@ -372,7 +372,7 @@ Der Zusammenbau des Motors erfolgt in umgekehrter Reihenfolge
 Der nachfolgenden Beschreibung der einzelnen Arbeitsgänge sind alle besonderen, bei der De‐ und Montage des 
 Motors zu beachtenden Hinweise zu entnehmen.
 
-<!-- BREAK -->
+<<<
 
 Luftfilter
 ==========
@@ -411,7 +411,7 @@ Man versuche bei dieser Ausführung nicht, den Deckel mit Gewalt von der Patron
 
 4. Filter-Patrone wieder einsetzen.
 
-**Achtung!** Die Filter-Patrone darf weder mit Benzin gereinigt noch mit Öl benetzt werden!
+*Achtung!* Die Filter-Patrone darf weder mit Benzin gereinigt noch mit Öl benetzt werden!
 
 
 Sieb im Entlüfterrohr reinigen
@@ -422,7 +422,7 @@ Sieb im Entlüfterrohr reinigen
 2. Micronic-Einsotz aus dem Filter herausnehmen und Entlüfterrohr in Benzin ausschwenken. 
    Bild 4-1/2 zeigt den Sitz des Siebfilters im Entlüfterrohr.
 
-<!-- BREAK -->
+<<<
 
 3. Filter mit neuer Flanschdichtung wieder aufbauen (Bild 4-2/1).
 
@@ -442,7 +442,7 @@ Dieses Filter kann gegen die Ausführungen LP 411 und LP 411/1 ausgetauscht wer
 Dabei ist zu beachten, daß die Stiftschrauben im Nockenwellengehäuse 6 x 12 durch die 
 längeren Stittschrauben 6 x 25 ersetzt werden müssen.
 
-<!-- BREAK -->
+<<<
 
 Vorwärmung
 ----------
@@ -480,5 +480,5 @@ Einbau
 2. Ansaughutze am Halter anschrauben.
 3. Heizungsschlauch auf die Stutzen der Ansaughutze und des Luftfilters stecken und mit Schellenböndern befestigen (Bild 4-3/2).
 
-<!-- BREAK -->
+<<<
 

@@ -39,10 +39,10 @@ damit die Gelenke richtig mit Fett umschlossen werden und das Fett auch zu den R
 gelangen kann. Eine schlechte Füllung der Manschetten macht sich sehr bald durch 
 Flattererscheinungen, die über die Spurstangen auf die Lenkung übertragen werden, bemerkbar.
 
-<!-- BREAK -->
+<<<
 
 Gelenkwellen
-============
+------------
 
 
 Scharniergelenk mit der inneren und äußeren Gelenkwelle ausbauen, prüfen und einbauen
@@ -50,7 +50,7 @@ Scharniergelenk mit der inneren und äußeren Gelenkwelle ausbauen, prüfen und 
 
 
 Ausbauen
---------
+~~~~~~~~
 
 1. Handbremse anziehen, Radkappe abnehmen, Kronenmutter SW 27 der äußeren Gelenkwelle entsplinten und lösen (Bild 4-1/1)
 2. Radschrauben lockern, das Fahrzeug aufbocken, Radschrauben herausnehmen und das Vorderrad abnehmen.
@@ -59,7 +59,7 @@ Ausbauen
 5. Innere Gelenkwelle aus dem inneren Gelenk (Kreuzgelenk) und die äußere Gelenkwelle aus der Nabe herausnehmen (Bild 4-1/4)
 6. Manschette mit Gleitbuchse von der Gelenkwelle abnehmen.
 
-<!-- BREAK -->
+<<<
 
 7. Bolzen zur Gelenkwelle, (8 mm Ø, 44 mm lang) entsplinten und aus dem Gelenkstück herausnehmen.
 8. Spannstift 3 x 20 mittels Spitzdorn 2,5 mm Ø und Hammer entfernen (Bild 4-2/1)
@@ -67,11 +67,11 @@ Ausbauen
 
 
 Prüfen
-------
+~~~~~~
 
 1. Gelenkstück, Bolzen, innere und äußere Gelenkwelle mit Waschbenzin reinigen.
-
-   Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
++
+Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
 2. Scharniergelenk zusammensetzen. Zwischen den Gelenkstücken und Zapfen der äußeren und
    inneren Gelenkwelle ist ein Spiel bis zu 0,5 mm zulässig (Bild 4-2/3)
 
@@ -81,7 +81,7 @@ der Beschleunigung, besonders beim Anfahren, durch schlagende Geräusche bemerkb
 
 
 Einbauen
---------
+~~~~~~~~
 
 Der Einbau wird in umgekehrter Reihenfolge vorgenommen. Folgende Punkte sind zu beachten:
 
@@ -92,7 +92,7 @@ Der Einbau wird in umgekehrter Reihenfolge vorgenommen. Folgende Punkte sind zu 
    geschmiert.
 
 
-<!-- BREAK -->
+<<<
 
 Inneres Gelenk (Kreuzgelenk) aus- und einbauen
 ----------------------------------------------
@@ -106,7 +106,7 @@ Folgendes Spezial- und Hilfswerkzeug wird benötigt:
 
 
 Ausbauen
---------
+~~~~~~~~
 
 1. Kronenmutter SW 22 entsplinten, das innere Gelenk mit dem Hilfswerkzeug SW 9
    gegenhalten (resp. drehen) und die Kronenmutter mit einem geraden Ringschlüssel
@@ -120,7 +120,7 @@ Getriebegehäuse abzunehmen, damit das Gelenk besser erreicht werden kann.
 
 
 Prüfen
-------
+~~~~~~~~
 
 1. Das radiale und axiale Spiel der inneren Gelenke ist zu prüfen. Es bleibt 
    dem erfahrenen Werkstattfachmann überlassen, zu beurteilen, ob das innere

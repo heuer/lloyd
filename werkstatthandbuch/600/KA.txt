@@ -25,7 +25,7 @@ durchströmt das eingeschraubte feinmaschige Korbsieb von außen nach innen. Fr
 vorhanden sein und zum Verstopfen der Vergaserdüsen führen können, sammeln sich außen am Korbsieb
 und können nach Abnahme des Filterbechers leicht entfernt werden.
 
-<!-- BREAK -->
+<<<
 
 Vom Kraftstoffhahn gelangt der Kraftstoff über den flexiblen Kraftstoffschlauch zur 
 Kraftstoffpumpe und wird von dieser zum Vergaser gefördert.
@@ -38,7 +38,7 @@ allgemeinen Wartungsdienste.
 Der Übrige Teil der Kraftstoffanlage: Kraftstoffpumpe und Vergaser mit Luftfilter 
 ist in der Hauptgruppe M Motor, Untergruppen 6, 5 und 4 im einzelnen behandelt.
 
-**Messen des Kraftstoffverrats.** Bei richtiger Handhabung (regelmäßiges Zurückschalten 
+*Messen des Kraftstoffverrats.* Bei richtiger Handhabung (regelmäßiges Zurückschalten 
 des Kraftstoffhahnes auf Stellung „Auf") stellt der Dreiwegehahn eine zuverlässige Sicherung
 gegen unerwartetes Leerfahren des Kraftstoffbehälters dar. Auf eine besondere Tankmeßuhr 
 als Serienausstattung wird daher verzichtet.
@@ -50,7 +50,7 @@ Eine Kraftstoffvorratsanzeige kann auf Wunsch nachträglich eingebaut werden. F
 LLOYD LP/LS 600 und Alexander sind im Zubehörhandel geeignete Meßvorrichtungen zu haben,
 die während der Fahrt eine Überwachung des Kraftstaffstandes im Behälter ermöglichen.
 
-<!-- BREAK -->
+<<<
 
 TODO: Bild
 
@@ -75,7 +75,7 @@ des Gewindes zu verhindern.
 
 Nach Zusammenbau Kraftstafl‘hahn auf Dichtigkeit prüfen.
 
-<!-- BREAK -->
+<<<
 
 Kraftstoffhahn
 ==============
@@ -117,14 +117,14 @@ Der Einbau erfolgt in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
    Überwurfmutter ½ bis höchstens 1 Gang auf den Kraftstoffhahn aufschrauben. Achtung! 
    Linksgewinde! Dann Kraftstoffhahn samt Mutter an den Tankeinlötstutzen halten und in 
    gleicher Richtung weiterdrehen. Dabei ist darauf zu achten, daß die Mutter am Tankeinlötstutzen
-   **sofort** anpackt, also richtig hinhalten! Sonst tritt der oben geschilderte Effekt ein. 
+   *sofort* anpackt, also richtig hinhalten! Sonst tritt der oben geschilderte Effekt ein. 
    (Bild 2-2/1)
 4. Mutter nur mäßig anziehen. Nach geraumer Zeit Verbindung leicht nachziehen.
 5. Anschlüsse nach Einbau des Hahnes auf Dichtigkeit prüfen.
 6. Betätigungsstange richtig anbringen. Griff muß in Stellung „Auf“ nach unten zeigen!
 
-**Achtung.** Kraftstoffhöhne und Kraftstafischlöuche der Modelle LP/LS 600/Alexander und 
+*Achtung.* Kraftstoffhöhne und Kraftstafischlöuche der Modelle LP/LS 600/Alexander und 
 LT/LTK 600 sind verschieden und dürfen nicht verwechselt werden.
 
-<!-- BREAK -->
+<<<
 

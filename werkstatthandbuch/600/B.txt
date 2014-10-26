@@ -51,7 +51,7 @@ Anhand der Bremsspur kann allerdings keine genaue Messung des Bremsweges vorgeno
 werden. Zur genauen Ermittlung des Bremsweges (s) werden Farbschußapparate verwendet, 
 die den Beginn und das Ende des Bremsvorganges durch einen Farbpunkt kennzeichnen.
 
-<!-- BREAK -->
+<<<
 
 Eine weitere einfache, in der Praxis gebräuchliche Methode zur Ermittlung der 
 Bremsverzögerungswerte, ist die Messung mit dem im Fachhandel erhältlichen
@@ -73,7 +73,7 @@ Bremswege „s“ (in m) und Bremszeiten „t“ (in sek) auf ebener, trockener 
 
 TODO
 
-<!-- BREAK -->
+<<<
 
 Viele Versuche bestätigen, daß der Führer eines Kraftfahrzeuges durchschnittlich knapp 
 eine Sekunde benötigt, um sein Fahrzeug voll und wirksam zu bremsen. Diese Sekunde, 
@@ -102,7 +102,7 @@ abhängig von dem Zustand und der Art der Straßenoberfläche. Aus diesem Grun
 man beim Abbremsen eines Fahrzeuges auf nassem Asphalt (insbesondere bei Glatteis)
 wesentlich niedrigere Verzögerungswerte.
 
-<!-- BREAK -->
+<<<
 
 Wartungs- und Instandssetzungshinweise
 --------------------------------------
@@ -122,7 +122,7 @@ Hierbei sind folgende Punkte zu beachten:
    und Nachfüllen der Bremsflüssigkeit ist zu beachten, daß keine Bremsflüssigkeit mit der 
    Lackierung des Fahrzeuges in Berührung kommt.
    
-   **Achtung!** Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
+   *Achtung!* Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
 3. Die bei der Entlüftung ausgepumpte Bremsflüssigkeit darf nicht wieder verwendet werden, 
    andernfalls können hierbei auch Fremdkörper in das Leitungssystem gelangen.
 4. Sollte aus Versehen oder Unkenntnis eine andere als die vorgeschriebene Bremsflüssigkeit nachgefüllt worden
@@ -148,9 +148,9 @@ Hierbei sind folgende Punkte zu beachten:
    der Gummiteile (Manschetten) verunreinigt. Aus diesem Grunde empfiehlt es sich, nach etwa 
    einiähriger Benutzungsdauer des Fahrzeuges die Bremsflüssigkeit zu erneuern.
 
-<!-- BREAK -->
+<<<
 
-**Achtung!** Die Feder steht unter starker Spannung und springt leicht weg.
+*Achtung!* Die Feder steht unter starker Spannung und springt leicht weg.
 
 3. Abdeckscheibe, Kolben mit Sekundär-Manschette, Füllscheibe, 
    Primär-Manschette und Druckfeder mit Bodenventil herausnehmen. 
@@ -177,7 +177,7 @@ Zusammenbau
    Hauptbremszylinders überprüfen.
 
 
-<!-- BREAK -->
+<<<
    
 Aus- und Einbau der Bremsbacken
 -------------------------------
@@ -197,7 +197,7 @@ Ausbau
    (stützlagerseitig) aushängen. (Bild 4-1/3)
 5. Die obere Bremsbacke abnehmen. (Bild 4-1/4)
 
-<!-- BREAK -->
+<<<
 
 6. Die untere Bremsbacke einschließlich der Druckstange und beider 
    Zugfedern nach unten herausnehmen. (Bild 4-2/1)
@@ -211,7 +211,7 @@ Bremsbeläge prüfen: Schadhafte, verschlissene oder verölte Bremsbeläge m
 ausgewechselt werden. Das Abwaschen mit Benzin oder anderen Lösungsmitteln
 ist zwecklos, denn das vom Belag aufgesaugte Öl tritt bei Erwärmung des
 Bremsbelages (d. h. während des Bremsvorganges) aus. Sofern ein Neubelegen
-erforderlich ist, sind grundsätzlich die Bremsbeläge **beider** Vorder- bzw. 
+erforderlich ist, sind grundsätzlich die Bremsbeläge *beider* Vorder- bzw. 
 Hinterräder zu erneuern, um auf beiden Seiten eine gleiche Bremswirkung 
 zu gewährleisten. Aus diesem Grunde sind für beide Seiten immer Beläge gleichen
 Fabrikats zu verwenden.
@@ -223,7 +223,7 @@ Fabrikats zu verwenden.
 2. Die radzylinderseitige Zugfeder an der oberen Bremsbacke einhängen. 
    (Bild 4-2/3)
 
-<!-- BREAK -->
+<<<
 
 3. Obere Bremsbacke am Radzylinderkolben einsetzen, Bremsbacke anheben 
    und die Druckstange in die richtige Lage bringen (Bild 4-3/1).
@@ -244,7 +244,7 @@ mit der Kröpfung an der Innenseite des Stützlagers vorbeigeführt werden.
 10. Bremswirkung durch eine Probefahrt Überprüfen. Die Verzögerungswerte müssen
     den gesetzlichen Vorschriften entsprechen.
 
-<!-- BREAK -->
+<<<
 
 Bremsbelag erneuern
 -------------------
@@ -263,7 +263,7 @@ Bremsbelag erneuern
 4. Scharfe Kanten an den Anlaufflächen brechen, falls nötig abrunden und 
    Beläge an beiden Enden 5-7 mm abschrägen.
 
-<!-- BREAK -->
+<<<
 
 Allgemeines
 -----------
@@ -301,7 +301,7 @@ Bremsen einstellen
 6. Wagen abbocken und Bremsen prüfen.
    Spurhaltung des Fahrzeuges bei Vollbremsung beachten.
 
-<!-- BREAK -->
+<<<
 
 Handbremse einstellen
 ---------------------
@@ -338,12 +338,12 @@ festgehalten, so daB ein Flüssigkeitsdruck innerhalb der Bremsanlage auftritt.
 während dieser Zeit die Anschlüsse, Leitungen und Radbremszylinder, wird der Fehler in den 
 meisten Fällen gefunden.
 
-<!-- BREAK -->
+<<<
 
 1. Deckel im Rahmenboden öffnen, Verschlußkappe des Bremsflüssigkeitsbehälters abnehmen 
    und den Behälter mit Bremsflüssigkeit füllen (Bild 5-3/1).
 
-**Achtung!** Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
+*Achtung!* Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
 verwenden. (ATE- und Lackheed-Bremsflüssigkeiten dürfen miteinander vermischt werden.)
 Die Verwendung anderer Bremsflüssigkeiten hebt die Gewähr für die Betriebssicherheit der 
 Bremse auf. Hierbei beachten: Der Bremsflüssigkeitsbehälter muß immer rechtzeitig nachgefüllt
