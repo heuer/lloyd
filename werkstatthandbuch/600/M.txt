@@ -146,7 +146,7 @@ Ausbau
 
 4. Niederspannungskabel (grün) an Klemme 1 des Zündverteilers lösen.
 5. Hochspannungskabel aus Klemme 4 der Zündspule herausziehen.
-6. ZÜndspule vom Motor-Lagerbügel abschrauben.
+6. Zündspule vom Motor-Lagerbügel abschrauben.
 7. Signalharn mit Halter vom Motor-Lagerbügel lösen.
 8. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen. (Bild 2-1/3)
 9. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. 
@@ -190,7 +190,7 @@ Das Antriebsaggregat ist ietzt von allen Verbindungen mit dem Fahrzeug frei und 
 
 Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor abgebaut:
 
-26. Auspuftkrümmer abschrauben.
+26. Auspuffkrümmer abschrauben.
 27. Motor-Lagerbügel abnehmen, dazu die drei Muttern am Lagerarm für Getriebe lösen. (Bild 2-3/3)
 28. Anlasser mit Spezial-Steckschlüssel WO 58 abschrauben, dazu beide Muttern gleichmäßig lösen, 
     gleichzeitig Anlasser vom Flansch abziehen und Muttern ganz abschrauben. (Bild 2-3/4)
@@ -199,9 +199,9 @@ Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor 
 Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Verbindung mit dem Drehmomentschlüssel) gebraucht. 
 (Siehe auch Abschnitt M 9, Seite 9 - 2).
 
-29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungs‐ gehöuse abschrauben.
+29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungs‐ Gehäuse abschrauben.
 
-*Achtung!* Bei festem Sitz der Gehöuseflansche vorsichtig mit Gummihammer nachhelfen. 
+*Achtung!* Bei festem Sitz der Gehäuseflansche vorsichtig mit Gummihammer nachhelfen. 
 Nicht mit Schrauben‐ zieher Flanschflöchen beschädigen!
 Soll der Motor demontiert werden, wird er nun entweder in den drehbaren Montagetisch eingesetzt und 
 festgespannt, oder die Werkstatt benutzt bei Teil‐ Demontage zur einwandfreien Lagerung des Motors den ebenfalls zum Nachbau 
@@ -278,16 +278,16 @@ Ausbau
 
 <<<
 
-12. Schelle am Lüftergehöuse aufbiegen und Pluskabel freimachen.
+12. Schelle am Lüftergehäuse aufbiegen und Pluskabel freimachen.
 13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
-14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am Lüftergehöuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
+14. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LüfterGehäuse bzw. Luftfilter‐ stutzen abschrauben und herausnehmen.
 15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
 16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
 
 *Achtung!* Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
 durch Querschnittsverengung des Schlauches zu vermeiden.
 
-17. Batteriemassekabel am Kupplungsgehöuseflansch abschrauben.
+17. Batteriemassekabel am Kupplungsgehäuseflansch abschrauben.
 18. Zugfeder für Schaltstange am Getriebedeckel aus‐ hängen.
 19. Klemmschraube an der Schaltstange lösen und Schaltstange nach oben schieben.
 20. Tachoanschluß am Getriebeanschluß lösen, dazu Überwurfmutter abschrauben und Tachospirale herausziehen. Schlüssel unterhalb des Radkastens ansetzen!
@@ -316,16 +316,16 @@ gegebenen Hinweise (Seiten M 2-4 und 5, Pos. 1-8 und 10) sind auch beim 1957er M
 
 <<<
 
-Beim Wiedereinbou der Heizung beachte man noch‐ stehende Reihenfolge und Hinweise:
+Beim Wiedereinbau der Heizung beachte man nachstehende Reihenfolge und Hinweise:
 
-1. Auspufikrümmer - Schieberohr in die Kugelflansch‐ verbindung des Abgasrohres einsetzen.
+1. Auspuffkrümmer - Schieberohr in die Kugelflanschverbindung des Abgasrohres einsetzen.
 
 Um Verspannungen, die unter Umständen ein Ausbrechen des Flansches am Zylinderkopf nach sich ziehen können, zu vermeiden, zunächst:
 
 2. Heizkörper am Heizungshalter lose anschrauben
-3. AuspuflkrümmerandenZylinderköpfenfestschrauben (2 mkg).
+3. Auspuffkrümmer an den Zylinderköpfen festschrauben (2 mkg).
 4. Heizkörper am Heizungshalter testziehen.
-5. Nach Anschluß des Bowdenzuges für Heizung Heizungskloppe auf volles Öffnen bzw. Schließen kontrollieren.
+5. Nach Anschluß des Bowdenzuges für Heizung Heizungsklappe auf volles Öffnen bzw. Schließen kontrollieren.
 
 <<<
 
@@ -343,14 +343,14 @@ Zerlegen
 4. Schutzgitter für Lüftergehäuse abbauen
 5. Lüfterrad abbauen
 6. Lichtmaschine ausbauen, Keilriemen abnehmen
-7. Heizungsgehöuse abnehmen
-8. Lüftergehöuse abnehmen
+7. Heizungsgehäuse abnehmen
+8. Lüftergehäuse abnehmen
 9. Brennstoffpumpe abbauen
 10. Zündverteiler ausbauen
 11. Ventilkammerdeckel abnehmen
 12. Deckel für Kettenkasten abbauen
 13. Kettenrad abbauen
-14. Nockenwellengehöuse abbauen
+14. Nockenwellengehäuse abbauen
 15. Kettenkasten abnehmen
 16. Ansaugkrümmer abbauen
 17. Zylinderköpfe abbauen
@@ -369,7 +369,7 @@ Zusammenbauen
 
 Der Zusammenbau des Motors erfolgt in umgekehrter Reihenfolge
 
-Der nachfolgenden Beschreibung der einzelnen Arbeitsgänge sind alle besonderen, bei der De‐ und Montage des 
+Der nachfolgenden Beschreibung der einzelnen Arbeitsgänge sind alle besonderen, bei der De- und Montage des 
 Motors zu beachtenden Hinweise zu entnehmen.
 
 <<<
@@ -432,7 +432,7 @@ Schnorchelrohr gekennzeichnet. Hinsichtlich der verwendeten Filter-Patrone, dere
 Auswechselvorschriften, unterscheidet sich dieses Luftfilter von der Ausführung LP 411 (ohne Schnochel) 
 nicht. Es kann nachträglich bei allen Fahrzeugen ohne weiteres Verwendung finden (Bild 4-2/2).
 
-Ab Motor‐Nr. 352 906 ist des Luftfilter LP411/2 eingebaut
+Ab Motor-Nr. 352 906 ist des Luftfilter LP411/2 eingebaut
 
 Diese Ausführung hat ein verkürztes Entlüfterrohr. Durch Zwischenlegen einer 8 mm starken Gummidichtung
 zwischen Nockenwellengehäuse und Entlüfterrahrflansch und Unterlegen ie einer Gummischeibe unter die 

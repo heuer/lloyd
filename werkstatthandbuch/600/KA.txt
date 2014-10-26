@@ -111,14 +111,15 @@ Der Einbau erfolgt in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
    hingegen nicht. In diesem Fall wird der Hahn nicht fest. Wird aus Unkenntnis des 
    Zusammenhangs nun versucht ein Festsitz des Hahnes durch gewaltsames Anziehen der Mutter 
    zu erreichen, wird das Gewinde zwangsläufig beschädigt.
- 
-   Richtig ist folgendes:
- 
-   Überwurfmutter ½ bis höchstens 1 Gang auf den Kraftstoffhahn aufschrauben. Achtung! 
-   Linksgewinde! Dann Kraftstoffhahn samt Mutter an den Tankeinlötstutzen halten und in 
-   gleicher Richtung weiterdrehen. Dabei ist darauf zu achten, daß die Mutter am Tankeinlötstutzen
-   *sofort* anpackt, also richtig hinhalten! Sonst tritt der oben geschilderte Effekt ein. 
-   (Bild 2-2/1)
++
+Richtig ist folgendes:
++
+Überwurfmutter ½ bis höchstens 1 Gang auf den Kraftstoffhahn aufschrauben. Achtung! 
+Linksgewinde! Dann Kraftstoffhahn samt Mutter an den Tankeinlötstutzen halten und in 
+gleicher Richtung weiterdrehen. Dabei ist darauf zu achten, daß die Mutter am Tankeinlötstutzen
+*sofort* anpackt, also richtig hinhalten! Sonst tritt der oben geschilderte Effekt ein. 
+(Bild 2-2/1)
+
 4. Mutter nur mäßig anziehen. Nach geraumer Zeit Verbindung leicht nachziehen.
 5. Anschlüsse nach Einbau des Hahnes auf Dichtigkeit prüfen.
 6. Betätigungsstange richtig anbringen. Griff muß in Stellung „Auf“ nach unten zeigen!
