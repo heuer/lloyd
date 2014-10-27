@@ -1,0 +1,131 @@
+Schaltplan und Sicherungen
+==========================
+
+Allgemeines
+-----------
+
+Die auf den folgenden Seiten gezeigten Schaltpläne geben eine übersichtliche
+Darstellung aller bei den Fahrzeugen LP/LS 600, Alexander, Alexander TS und 
+LT/LTK 600 serienmäßig eingebauten elektrischen Aggregate und Instrumente. 
+Werden an der elektrischen Anlage Reparaturen durchgeführt oder neue Aggregate 
+eingebaut, gibt der Schaltplan Aufschluß über die Anschlußklemmen, den 
+Kabelverlauf und die Kabelfarben. Auch bei der Prüfung elektrischer Aggregate
+und Instrumente mittels Prüflampe‚Voltmeter oder Amperemeter bediene man sich
+des Schaltplenes.
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+TODO: Bild
+
+<<<
+
+Lichtmaschine und Regler
+------------------------
+
+
+Wirkungsweise der Lichtmaschine
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Der im magnetischen Kraftfeld umlaufende Anker trägt in den Nuten seines 
+Eisenkerns ie eine Anzahl Kupferwindungen, die bei der Drehung die Kraftlinien 
+des zwischen den Polen der Maschine bestehenden Magnetfeldes schneiden, 
+wodurch in den Windungen eine elektromotorische Kraft entsteht. Bei 
+geschlossenem Stromkreis fließt ein Strom, der durch die Kohlebürsten von 
+den Kollektorlamellen abgenommen und Über die angeschlossenen Leitungen 
+den Verbrauchern und der Batterie zugeführt wird. Die als 
+Gleichstromnebenschlußmaschine ausge‐ bildete Lichtmaschine erzeugt den 
+Erregerstrom selbst, d.h. der Erregerstrom wird vom Ankerstrom abgezweigt.
+Beim Anlaufen der Lichtmaschine ist zunächst zwischen den Polschuhen, 
+hervorgerufen durch den Restmagnetismus, nur ein schwaches Magnetfeld wirksam, 
+so daß während der ersten Umdrehungen nur eine geringe elektromotorische Kraft 
+erzeugt wird, die aber schon den Erregerstrom und damit auch das bereits 
+bestehende Magnetfeld verstärkt. Dadurch steigt in den Ankerwindungen die 
+elektromotorische Kraft. Mit zunehmender Drehzahl wird die elektromotorische 
+Kraft größer und verstärkt das Magnetfeld so lange, bis die Maschine voll 
+erregt ist und eine weitere Steigerung der Drehzahl und der elektromotorischen 
+Kraft zu einer Sättigung des magnetischen Kreises führt und keine Verstärkung 
+des Magnetfeldes mehr ergibt. Die Erregerwicklungen sind natürlich mit dem Anker
+so zusammengeschaltet, daß auch tatsächlich eine Verstärkung des noch bestehenden
+Restmagnetismus erzielt wird. Aus diesem Grund darf die Lichtmaschine nur in der
+auf dem Gehäuse angegebenen Drehrichtung angetrieben werden.
+
+TODO: Bild
+
+1. Polgehäuse
+2. Anker
+3. Anschlußklemme D-
+4. Anschlußklemme D+
+5. Anschlußklemme DF
+6. Zylinderschraube zur Befestigung der Lagerdeckel
+7. Anschlußteil mit Schrauben für Klemme D+ 
+8. Kohlebürste
+9. Bürstenfeder
+10. Erregerwicklung
+11. Polschuh
+
+<<<
+
+Allgemeines
+~~~~~~~~~~~
+
+Lichtmaschine
+^^^^^^^^^^^^^
+
+Die durch den Fahrzeugmator mittels Keilriemen angetriebene Lichtmaschine hat 
+die Aufgabe, mehrere Stromverbraucher des Fahrzeuges mit elektrischer Energie zu 
+versorgen und die Batterie einwandfrei zu laden. Je nach Fahrweise und 
+Fahrgeschwindigkeit unterliegt die Motordrehzahl großen Schwankungen, 
+dementsprechend verändert sich auch die Drehzahl der Lichtmaschine, von der 
+aber Spannung und Strom abhängig sind. Außerdem wird die Lichtmaschine durch 
+den Leistungsbedarf und die Anzahl der eingeschalteten Stromverbraucher 
+unterschiedlich belastet. Viele Stromverbraucher mit großem Leistungsbedarf
+beanspruchen die Lichtmaschine stärker als wenige Stromverbraucher mit 
+geringerem Leistungsbedarf.
+
+TODO: Tabelle
+
+Regler
+^^^^^^
+
+Um den vielseitigen Anforderungen gerecht zu werden, ist ein Reglerschalter eingebaut. 
+Es ist die Aufgabe des Reglers, die Lichtmaschine bei genügender Drehzahl (Spannung) 
+mit der Batterie und den Verbrauchern zu ver‐ binden und den Stramkreis wieder zu 
+unterbrechen, sobald die Spannung der Lichtmaschine durch geringere Dreh‐ zahl unter 
+die der Batterie sinkt. Außerdem erfolgt durch den Regler ein Verringern oder 
+Kurzschließen des die Feldspulen durchfließenden Stromes so, daß der Ladestrom der 
+Lichtmaschine gesteuert wird. Eine entladene Batterie wird mit erheblich größerer 
+Stromstärke versorgt als eine geladene. Die sich nach der Dauerleistung 
+{Nennleistung 'lf 50%) der Lichtmaschine ridwtende Gesamtleistung wird hierbei nicht
+Überschriften, sofern das Fahrzeug mit den serienmäßig eingebauten Stramverbrauchern 
+ausgerüstet ist.
+
+Aus diesem Grunde darf nur der für die Nennleistung der Lichtmaschine bestimmte Regler
+verwendet werden. Ein Regler für größere Leistung führt zur Überlastung der 
+Lichtmaschine, während ein für geringere Leistung bestimmter Regler die 
+Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen die 
+Stromverbraucher und Batterie nicht ausreichend versorgt.
+
+<<<
+
