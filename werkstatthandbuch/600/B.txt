@@ -189,8 +189,8 @@ Ausbau
 1. Radkappen abnehmen, Radschrauben lösen und Wagen aufbocken.
 2. Räder abnehmen. Senkschrauben der Bremstrommelbefestigung lösen 
    und Bremsfrommeln abnehmen. (Bild 4-1/1)
-   
-   (Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
++
+(Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
 3. Zugfeder an der Seite der Radbremszyiinder mittels
    Schraubenziehers an der oberen Bremsbacke aushängen. (Bild 4-1/2)
 4. Obere und untere Bremsbacke vom Stützlager abheben und die Rückzugfeder 
@@ -210,7 +210,7 @@ Einbau
 Bremsbeläge prüfen: Schadhafte, verschlissene oder verölte Bremsbeläge müssen 
 ausgewechselt werden. Das Abwaschen mit Benzin oder anderen Lösungsmitteln
 ist zwecklos, denn das vom Belag aufgesaugte Öl tritt bei Erwärmung des
-Bremsbelages (d. h. während des Bremsvorganges) aus. Sofern ein Neubelegen
+Bremsbelages (d.h. während des Bremsvorganges) aus. Sofern ein Neubelegen
 erforderlich ist, sind grundsätzlich die Bremsbeläge *beider* Vorder- bzw. 
 Hinterräder zu erneuern, um auf beiden Seiten eine gleiche Bremswirkung 
 zu gewährleisten. Aus diesem Grunde sind für beide Seiten immer Beläge gleichen
@@ -256,7 +256,7 @@ Bremsbelag erneuern
    nicht beschädigt wird.
 2. Bremsbacke reinigen und Nietlöcher entgraten.
 3. Neuen Bremsbelag von der Mitte aus festnieten (Bild 4-4/1).
-   Um eine einwandfreie Bremswirkung zu erreichen und Quietschgeröusche zu vermeiden, 
+   Um eine einwandfreie Bremswirkung zu erreichen und Quietschgeräusche zu vermeiden, 
    muß der Belag unbedingt an der ganzen Fläche der Bremsbacke anliegen und darf 
    auch nicht seitlich überstehen. Spannungen vermeiden, d.h.‚ Niete senkrecht 
    eindrücken, Löcher im Belag nötigenfalls nachbohren.
@@ -327,14 +327,14 @@ Allgemeines
 Sofern bei Arbeiten an der Bremsanlage die Haupt- oder Radbremszylinder, Bremsschläuche 
 oder Bremsleitungen vorübergehend getrennt oder ausgewechselt wurden, muß die Bremsanlage 
 entlüftet werden. Ferner ist eine Entlüftung notwendig, wenn sich das Bremspedal ohne Widerstand 
-ganz durchtreten läBt und zu einer Bremsung mehrmals durchgetreten ‐ „gepumpt“ werden muß. 
+ganz durchtreten läßt und zu einer Bremsung mehrmals durchgetreten ‐ „gepumpt“ werden muß. 
 Sollte bei einem Fahrzeug wiederholt eine Entlüfung der Bremsanlage vorgenommen werden müssen, 
 ist unbedingt zunächst der Fehler zu suchen und abzustellen. Es ist möglich, daß die 
 Rad- oder auch Hauptbremszylinder-Gummimanschetten undicht sind. Außerdem kann Luft an den 
 Verbindungsstellen der Bremsleitungen und Schläuche eintreten, wenn eine Leitung undicht 
 ist oder sich eine Schraubverbindung gelöst hat. Zur Überprüfung der Bremsanlage wird der
 Hauptbremszylinder mit Bremsflüssigkeit gefüllt, der Bremsfußhebel betätigt und ca. 2 Minuten 
-festgehalten, so daB ein Flüssigkeitsdruck innerhalb der Bremsanlage auftritt. Beobachtet man 
+festgehalten, so daß ein Flüssigkeitsdruck innerhalb der Bremsanlage auftritt. Beobachtet man 
 während dieser Zeit die Anschlüsse, Leitungen und Radbremszylinder, wird der Fehler in den 
 meisten Fällen gefunden.
 
@@ -344,7 +344,7 @@ meisten Fällen gefunden.
    und den Behälter mit Bremsflüssigkeit füllen (Bild 5-3/1).
 
 *Achtung!* Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
-verwenden. (ATE- und Lackheed-Bremsflüssigkeiten dürfen miteinander vermischt werden.)
+verwenden. (ATE- und Lockheed-Bremsflüssigkeiten dürfen miteinander vermischt werden.)
 Die Verwendung anderer Bremsflüssigkeiten hebt die Gewähr für die Betriebssicherheit der 
 Bremse auf. Hierbei beachten: Der Bremsflüssigkeitsbehälter muß immer rechtzeitig nachgefüllt
 werden, damit keine Luft angesaugt werden kann. Die bei der Entlüftung ausgepumpte 
