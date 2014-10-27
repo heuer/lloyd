@@ -77,7 +77,7 @@ TODO
 
 Viele Versuche bestätigen, daß der Führer eines Kraftfahrzeuges durchschnittlich knapp 
 eine Sekunde benötigt, um sein Fahrzeug voll und wirksam zu bremsen. Diese Sekunde, 
-auch „Schrecksekunde“ genannt, setzt sich zu‐ sammen aus:
+auch „Schrecksekunde“ genannt, setzt sich zusammen aus:
 
 Der Erkennungs- und Reaktionszeit des Fahrers sowie der Betätigungs- und Ansprechzeit der
 Bremsen. Während dieser Zeit rollt das Fahrzeug mit unverminderter Geschwindigkeit weiter.
@@ -113,12 +113,12 @@ Hierbei sind folgende Punkte zu beachten:
 
 1. Vor Beginn der Arbeiten am Radbremszylinder, am Hauptbremszylinder, an den Bremsleitungen 
    und Bremsschläuchen müssen diese, insbesondere deren Schraubverbindungen gründlich gereinigt 
-   werden, damit bei späteren Arbeiten keine Fremdkörper in die Bremsonlage geraten. 
+   werden, damit bei späteren Arbeiten keine Fremdkörper in die Bremsanlage geraten. 
    Ferner sind die Hände von Öl und Fett zu reinigen, denn auch dieses darf auf keinen Fall
-   in die Bremsonlage gelangen. Eine Verschmutzung beeinträchtigt die Zuverlässigkeit 
+   in die Bremsanlage gelangen. Eine Verschmutzung beeinträchtigt die Zuverlässigkeit 
    und Wirksamkeit der Bremse.
 2. Die Original-ATE-Bremsflüssigkeit enthält Bestandteile, die als Lösungsmittel für Farb- 
-   und Lackanstriche wirken. Besonders beim Entlüften der Bremsonlage, Lösen einer Bremsleitung
+   und Lackanstriche wirken. Besonders beim Entlüften der Bremsanlage, Lösen einer Bremsleitung
    und Nachfüllen der Bremsflüssigkeit ist zu beachten, daß keine Bremsflüssigkeit mit der 
    Lackierung des Fahrzeuges in Berührung kommt.
    
@@ -126,13 +126,13 @@ Hierbei sind folgende Punkte zu beachten:
 3. Die bei der Entlüftung ausgepumpte Bremsflüssigkeit darf nicht wieder verwendet werden, 
    andernfalls können hierbei auch Fremdkörper in das Leitungssystem gelangen.
 4. Sollte aus Versehen oder Unkenntnis eine andere als die vorgeschriebene Bremsflüssigkeit nachgefüllt worden
-   sein, muß unbedingt die gesamte Bremsonlage entleert, zerlegt und gereinigt werden. Die Gummiteile der 
-   hydraulischen Bremsonlage sind nidwt mineralölbeständig und müssen, falls Mineralöl oder eine andere 
+   sein, muß unbedingt die gesamte Bremsanlage entleert, zerlegt und gereinigt werden. Die Gummiteile der 
+   hydraulischen Bremsanlage sind nidwt mineralölbeständig und müssen, falls Mineralöl oder eine andere 
    schädigend wirkende Flüssigkeit nachgefüllt wurde, erneuert werden. Zum Reinigen darf nur Spiritus 
    oder die OriginachTE-Bremsflüssigkeit verwendet werden. Anschließend sind die Teile zu trocknen. 
    Um eine einwandfreie Konservierung der Zylinderlaufbahnen und Kolben zu erzielen, sind diese vor 
-   dem Zusammenbau mit ATE‐Bremszylinderpaste einzustreichen. Selbstverständlich muß nach der Neufüllung
-   die gesamte Bremsonlage entlüftet werden.
+   dem Zusammenbau mit ATE-Bremszylinderpaste einzustreichen. Selbstverständlich muß nach der Neufüllung
+   die gesamte Bremsanlage entlüftet werden.
 5. Die Gummiteile der Bremsen, (Manschetten und Schutzkappen) sind während der Lagerzeit atmosphärischen 
    Einflüssen unterworfen und werden nach zu langer Zeit unbrauchbar. Für eine Lagerung in kühlen, 
    trockenen, möglichst staubfreien Räumen ist zu sorgen.
@@ -141,7 +141,7 @@ Hierbei sind folgende Punkte zu beachten:
    nicht länger als 12 Monate gelagert werden. Sofern montierte Rode und Hauptbremszylinder die 
    vorgenannte Lagerzeit überschritten haben, sind Demontage, Reinigung und Zusammenbau unter 
    Berücksichtigung des im Absatz 4 gesagten, vorzunehmen. Verhärtete Gummiteile sind zu erneuern.
-6. Eine regelmäßige Überprüfung der Bremsonlage gemäß dem im Kundendienst-Scheckheft vorgeschriebenen 
+6. Eine regelmäßige Überprüfung der Bremsanlage gemäß dem im Kundendienst-Scheckheft vorgeschriebenen 
    Turnus muB durchgeführt werden. Beschädigte Bremsschläuche und Leitungen sind unbedingt zu erneuern,
    außerdem ist die Schadensursache abzustellen.
 7. Die Bremsflüssigkeit wird nach längerer Zeit und häufiger Benutzung der Bremsen durch den Abrieb 
