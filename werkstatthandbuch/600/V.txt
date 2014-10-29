@@ -70,8 +70,8 @@ Prüfen
 ~~~~~~
 
 1. Gelenkstück, Bolzen, innere und äußere Gelenkwelle mit Waschbenzin reinigen.
-+
-Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
+
+   Schadhafte Teile, wie z.B. ausgeschlagene Bolzen, müssen erneuert werden.
 2. Scharniergelenk zusammensetzen. Zwischen den Gelenkstücken und Zapfen der äußeren und
    inneren Gelenkwelle ist ein Spiel bis zu 0,5 mm zulässig (Bild 4-2/3)
 

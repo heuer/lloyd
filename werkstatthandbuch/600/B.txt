@@ -122,7 +122,7 @@ Hierbei sind folgende Punkte zu beachten:
    und Nachfüllen der Bremsflüssigkeit ist zu beachten, daß keine Bremsflüssigkeit mit der 
    Lackierung des Fahrzeuges in Berührung kommt.
    
-   *Achtung!* Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
+   **Achtung!** Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
 3. Die bei der Entlüftung ausgepumpte Bremsflüssigkeit darf nicht wieder verwendet werden, 
    andernfalls können hierbei auch Fremdkörper in das Leitungssystem gelangen.
 4. Sollte aus Versehen oder Unkenntnis eine andere als die vorgeschriebene Bremsflüssigkeit nachgefüllt worden
@@ -150,7 +150,7 @@ Hierbei sind folgende Punkte zu beachten:
 
 <<<
 
-*Achtung!* Die Feder steht unter starker Spannung und springt leicht weg.
+**Achtung!** Die Feder steht unter starker Spannung und springt leicht weg.
 
 3. Abdeckscheibe, Kolben mit Sekundär-Manschette, Füllscheibe, 
    Primär-Manschette und Druckfeder mit Bodenventil herausnehmen. 
@@ -189,8 +189,8 @@ Ausbau
 1. Radkappen abnehmen, Radschrauben lösen und Wagen aufbocken.
 2. Räder abnehmen. Senkschrauben der Bremstrommelbefestigung lösen 
    und Bremsfrommeln abnehmen. (Bild 4-1/1)
-+
-(Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
+
+   (Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
 3. Zugfeder an der Seite der Radbremszyiinder mittels
    Schraubenziehers an der oberen Bremsbacke aushängen. (Bild 4-1/2)
 4. Obere und untere Bremsbacke vom Stützlager abheben und die Rückzugfeder 
@@ -211,7 +211,7 @@ Bremsbeläge prüfen: Schadhafte, verschlissene oder verölte Bremsbeläge m
 ausgewechselt werden. Das Abwaschen mit Benzin oder anderen Lösungsmitteln
 ist zwecklos, denn das vom Belag aufgesaugte Öl tritt bei Erwärmung des
 Bremsbelages (d.h. während des Bremsvorganges) aus. Sofern ein Neubelegen
-erforderlich ist, sind grundsätzlich die Bremsbeläge *beider* Vorder- bzw. 
+erforderlich ist, sind grundsätzlich die Bremsbeläge **beider** Vorder- bzw. 
 Hinterräder zu erneuern, um auf beiden Seiten eine gleiche Bremswirkung 
 zu gewährleisten. Aus diesem Grunde sind für beide Seiten immer Beläge gleichen
 Fabrikats zu verwenden.
@@ -343,7 +343,7 @@ meisten Fällen gefunden.
 1. Deckel im Rahmenboden öffnen, Verschlußkappe des Bremsflüssigkeitsbehälters abnehmen 
    und den Behälter mit Bremsflüssigkeit füllen (Bild 5-3/1).
 
-*Achtung!* Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
+**Achtung!** Nur blaue ATE-Bremsflüssigkeit oder im Ausland die Lockheed-Bremsflüssigkeit
 verwenden. (ATE- und Lockheed-Bremsflüssigkeiten dürfen miteinander vermischt werden.)
 Die Verwendung anderer Bremsflüssigkeiten hebt die Gewähr für die Betriebssicherheit der 
 Bremse auf. Hierbei beachten: Der Bremsflüssigkeitsbehälter muß immer rechtzeitig nachgefüllt

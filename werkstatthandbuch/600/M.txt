@@ -175,7 +175,7 @@ Ausbau
 
 <<<
 
-*Achtung!* Beim Motorausbau bleibt der Lagerbügel am Motor!
+**Achtung!** Beim Motorausbau bleibt der Lagerbügel am Motor!
 Das Antriebsaggregat ist ietzt von allen Verbindungen mit dem Fahrzeug frei und kann mit Unterstützung eines Helfers aus dem Motorraum herausgehoben werden.
 
 25. Aggregat herausheben. 
@@ -195,13 +195,13 @@ Bevor das Getriebe vom Motor abgeflanscht wird, werden folgende Teile vom Motor 
 28. Anlasser mit Spezial-Steckschlüssel WO 58 abschrauben, dazu beide Muttern gleichmäßig lösen, 
     gleichzeitig Anlasser vom Flansch abziehen und Muttern ganz abschrauben. (Bild 2-3/4)
 
-*Hinweis!* Der Spezial-Steckschlüssel WO 58 dient speziell für den Aus- und Einbau des Anlassers bei eingebautem Motor. 
+**Hinweis!** Der Spezial-Steckschlüssel WO 58 dient speziell für den Aus- und Einbau des Anlassers bei eingebautem Motor. 
 Dieser Schlüssel wird ferner bei der Montage des Nockenwellengehäuses (in Verbindung mit dem Drehmomentschlüssel) gebraucht. 
 (Siehe auch Abschnitt M 9, Seite 9 - 2).
 
 29. Getriebe vom Motor abflanschen, dazu die letzte noch vorhandene Befestigungsmutter am Kupplungsgehäuse abschrauben.
 
-*Achtung!* Bei festem Sitz der Gehäuseflansche vorsichtig mit Gummihammer nachhelfen. 
+**Achtung!** Bei festem Sitz der Gehäuseflansche vorsichtig mit Gummihammer nachhelfen. 
 Nicht mit Schraubenzieher Flanschflächen beschädigen!
 Soll der Motor demontiert werden, wird er nun entweder in den drehbaren Montagetisch eingesetzt und 
 festgespannt, oder die Werkstatt benutzt bei Teil‐ Demontage zur einwandfreien Lagerung des Motors den ebenfalls zum Nachbau 
@@ -216,13 +216,13 @@ Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolg
 1. Bei länger gelaufenen Fahrzeugen sollte gelegentlich eines Motorausbaus vorsorglich die Kupplung abgebaut und überprüft werden. 
    In jedem Fall vor Anflanschen des Getriebes Zentrierung der Kupplungsscheibe mittels Zentrierdorn WO 22 prüfen.
 2. Graphitschleifring prüfen und bei deutlicher Abnut‐ zung erneuern.
-3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett *leicht* einfetten.
+3. Kerbverzohnung der Getriebe - Antriebswelle und Anlosserritzel mit Grophitfett **leicht** einfetten.
 4. Motor-Gummilager prüfen, gegebenenfalls erneuern.
 5. Messingmuttern der Auspuffkrümmer-Befestigung an den Zylinderköpfen mit 2 mkg anziehen. Flanschdichtungen erneuern.
 6. Motor- und Getriebeflanschflächen vor Zusammenbau sorgfältig reinigen.
 7. Nach dem Einheben des Aggregates und Absetzen desselben auf dem Vorderachsträgerarm werden von dem Helfer die Gelenkwellen 
-   in die Kreuzgelenke eingeführt. Zuerst wird die *kurze* Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
-   und Herdrehen der Gelenke eingeführt, darauf die *lange* Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
+   in die Kreuzgelenke eingeführt. Zuerst wird die **kurze** Gelenkwelle durch entsprechendes Ankippen des Aggregates und Hin- 
+   und Herdrehen der Gelenke eingeführt, darauf die **lange** Gelenkwelle auf dieselbe Weise. (Bilder 2-4/1 und 2)
 
 8. Um das Antriebsaggregot zum Anschluß der drei Gummilager in die richtige Lage zu bringen, wird zweckmäßigerweise zwischen 
    Kupplungsgehäuse und Vorderachsträgerarm ein passender Holzklotz gelegt. Abmessungen ca. 10xl0x2,5cm. (Bild 2-4/3)
@@ -237,7 +237,7 @@ Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolg
    c) zum Schluß der Motor-Lagerarm befestigt.
 
 
-*Achtung!* Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
+**Achtung!** Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
 
 <<<
 
@@ -284,7 +284,7 @@ Ausbau
 15. Bowdenzug für Entfroster am Halter der Motor‐ verkleidung abschrauben, Zug am Klappenhebel aushöngen.
 16. Entfrasterschlauchvom StutzenderMotarverkleidung abnehmen und zur Seite biegen (zum rechten Rad‐ kasten).
 
-*Achtung!* Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
+**Achtung!** Heizungs- und Entfrosterschlauch nicht abknicken, um eine Beeinträchtigung der Heiz- bzw. Entfrosterwirkung 
 durch Querschnittsverengung des Schlauches zu vermeiden.
 
 17. Batteriemassekabel am Kupplungsgehäuseflansch abschrauben.
@@ -298,7 +298,7 @@ durch Querschnittsverengung des Schlauches zu vermeiden.
 25. Heizkörper mit Auspuffkrümmer (ein geschlossenes Bauteil) nach rechts unten herausnehmen, dabei Auspufikrümmer-Schieberohr aus der 
     Kugelflanschverbindung des Abgasrohres herausziehen. 
     
-*Achtung!* Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
+**Achtung!** Die Schraubverbindung der beiden Kugelflanschhälften braucht im allgemeinen nicht gelöst zu werden. 
 Flansclwerbindung nur bei Schwergöngigkeit des Kugelgleitstückes lösen, Gleitstück herausnehmen, mit Drahtbürste reinigen und Außenfläche 
 und Bohrung mit Graphitfett Überziehen.
 
@@ -411,7 +411,7 @@ Man versuche bei dieser Ausführung nicht, den Deckel mit Gewalt von der Patron
 
 4. Filter-Patrone wieder einsetzen.
 
-*Achtung!* Die Filter-Patrone darf weder mit Benzin gereinigt noch mit Öl benetzt werden!
+**Achtung!** Die Filter-Patrone darf weder mit Benzin gereinigt noch mit Öl benetzt werden!
 
 
 Sieb im Entlüfterrohr reinigen
