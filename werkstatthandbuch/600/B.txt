@@ -30,12 +30,12 @@ Hierbei wird eine für ieden Bremsvorgang gleich große Fußkraft des Fahrers z
 Die Errechnung der mittleren Verzögerung aus der Ausgangsgeschwindigkeit (Geschwindigkeit beim Beginn 
 des Bremsvorganges) und der Bremszeit erfolgt nach folgender Formel:
 
-TODO
+.. TODO:
 
 Eine einfache Methode zur Bestimmung der mittleren Verzögerung aus dem Bremsweg und der 
 Ausgangsgeschwindigkeit erfolgt nach der Formel:
 
-TODO
+.. TODO:
 
 Die Buchstaben in den Formeln bedeuten:
 
@@ -51,7 +51,7 @@ Anhand der Bremsspur kann allerdings keine genaue Messung des Bremsweges vorgeno
 werden. Zur genauen Ermittlung des Bremsweges (s) werden Farbschußapparate verwendet, 
 die den Beginn und das Ende des Bremsvorganges durch einen Farbpunkt kennzeichnen.
 
-<<<
+.. page-break
 
 Eine weitere einfache, in der Praxis gebräuchliche Methode zur Ermittlung der 
 Bremsverzögerungswerte, ist die Messung mit dem im Fachhandel erhältlichen
@@ -71,9 +71,9 @@ die Spur halten.
 
 Bremswege „s“ (in m) und Bremszeiten „t“ (in sek) auf ebener, trockener Betonfahrbahn z. B. Autobahn.
 
-TODO
+.. TODO:
 
-<<<
+.. page-break
 
 Viele Versuche bestätigen, daß der Führer eines Kraftfahrzeuges durchschnittlich knapp 
 eine Sekunde benötigt, um sein Fahrzeug voll und wirksam zu bremsen. Diese Sekunde, 
@@ -102,7 +102,7 @@ abhängig von dem Zustand und der Art der Straßenoberfläche. Aus diesem Grun
 man beim Abbremsen eines Fahrzeuges auf nassem Asphalt (insbesondere bei Glatteis)
 wesentlich niedrigere Verzögerungswerte.
 
-<<<
+.. page-break
 
 Wartungs- und Instandssetzungshinweise
 --------------------------------------
@@ -148,7 +148,7 @@ Hierbei sind folgende Punkte zu beachten:
    der Gummiteile (Manschetten) verunreinigt. Aus diesem Grunde empfiehlt es sich, nach etwa 
    einiähriger Benutzungsdauer des Fahrzeuges die Bremsflüssigkeit zu erneuern.
 
-<<<
+.. page-break
 
 **Achtung!** Die Feder steht unter starker Spannung und springt leicht weg.
 
@@ -177,7 +177,7 @@ Zusammenbau
    Hauptbremszylinders überprüfen.
 
 
-<<<
+.. page-break
    
 Aus- und Einbau der Bremsbacken
 -------------------------------
@@ -197,7 +197,7 @@ Ausbau
    (stützlagerseitig) aushängen. (Bild 4-1/3)
 5. Die obere Bremsbacke abnehmen. (Bild 4-1/4)
 
-<<<
+.. page-break
 
 6. Die untere Bremsbacke einschließlich der Druckstange und beider 
    Zugfedern nach unten herausnehmen. (Bild 4-2/1)
@@ -223,7 +223,7 @@ Fabrikats zu verwenden.
 2. Die radzylinderseitige Zugfeder an der oberen Bremsbacke einhängen. 
    (Bild 4-2/3)
 
-<<<
+.. page-break
 
 3. Obere Bremsbacke am Radzylinderkolben einsetzen, Bremsbacke anheben 
    und die Druckstange in die richtige Lage bringen (Bild 4-3/1).
@@ -244,7 +244,7 @@ mit der Kröpfung an der Innenseite des Stützlagers vorbeigeführt werden.
 10. Bremswirkung durch eine Probefahrt Überprüfen. Die Verzögerungswerte müssen
     den gesetzlichen Vorschriften entsprechen.
 
-<<<
+.. page-break
 
 Bremsbelag erneuern
 -------------------
@@ -263,7 +263,7 @@ Bremsbelag erneuern
 4. Scharfe Kanten an den Anlaufflächen brechen, falls nötig abrunden und 
    Beläge an beiden Enden 5-7 mm abschrägen.
 
-<<<
+.. page-break
 
 Allgemeines
 -----------
@@ -301,7 +301,7 @@ Bremsen einstellen
 6. Wagen abbocken und Bremsen prüfen.
    Spurhaltung des Fahrzeuges bei Vollbremsung beachten.
 
-<<<
+.. page-break
 
 Handbremse einstellen
 ---------------------
@@ -338,7 +338,7 @@ festgehalten, so daß ein Flüssigkeitsdruck innerhalb der Bremsanlage auftritt
 während dieser Zeit die Anschlüsse, Leitungen und Radbremszylinder, wird der Fehler in den 
 meisten Fällen gefunden.
 
-<<<
+.. page-break
 
 1. Deckel im Rahmenboden öffnen, Verschlußkappe des Bremsflüssigkeitsbehälters abnehmen 
    und den Behälter mit Bremsflüssigkeit füllen (Bild 5-3/1).

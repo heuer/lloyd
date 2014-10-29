@@ -39,7 +39,7 @@ damit die Gelenke richtig mit Fett umschlossen werden und das Fett auch zu den R
 gelangen kann. Eine schlechte Füllung der Manschetten macht sich sehr bald durch 
 Flattererscheinungen, die über die Spurstangen auf die Lenkung übertragen werden, bemerkbar.
 
-<<<
+.. page-break
 
 Gelenkwellen
 ------------
@@ -59,7 +59,7 @@ Ausbauen
 5. Innere Gelenkwelle aus dem inneren Gelenk (Kreuzgelenk) und die äußere Gelenkwelle aus der Nabe herausnehmen (Bild 4-1/4)
 6. Manschette mit Gleitbuchse von der Gelenkwelle abnehmen.
 
-<<<
+.. page-break
 
 7. Bolzen zur Gelenkwelle, (8 mm Ø, 44 mm lang) entsplinten und aus dem Gelenkstück herausnehmen.
 8. Spannstift 3 x 20 mittels Spitzdorn 2,5 mm Ø und Hammer entfernen (Bild 4-2/1)
@@ -92,7 +92,7 @@ Der Einbau wird in umgekehrter Reihenfolge vorgenommen. Folgende Punkte sind zu 
    geschmiert.
 
 
-<<<
+.. page-break
 
 Inneres Gelenk (Kreuzgelenk) aus- und einbauen
 ----------------------------------------------

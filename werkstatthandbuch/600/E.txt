@@ -13,33 +13,33 @@ Kabelverlauf und die Kabelfarben. Auch bei der Prüfung elektrischer Aggregate
 und Instrumente mittels Prüflampe‚Voltmeter oder Amperemeter bediene man sich
 des Schaltplenes.
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
-TODO: Bild
+.. TODO: Bild
 
-<<<
+.. page-break
 
 Lichtmaschine und Regler
 ------------------------
@@ -71,7 +71,7 @@ so zusammengeschaltet, daß auch tatsächlich eine Verstärkung des noch beste
 Restmagnetismus erzielt wird. Aus diesem Grund darf die Lichtmaschine nur in der
 auf dem Gehäuse angegebenen Drehrichtung angetrieben werden.
 
-TODO: Bild
+.. TODO: Bild
 
 1. Polgehäuse
 2. Anker
@@ -85,7 +85,7 @@ TODO: Bild
 10. Erregerwicklung
 11. Polschuh
 
-<<<
+.. page-break
 
 Allgemeines
 ~~~~~~~~~~~
@@ -104,7 +104,7 @@ unterschiedlich belastet. Viele Stromverbraucher mit großem Leistungsbedarf
 beanspruchen die Lichtmaschine stärker als wenige Stromverbraucher mit 
 geringerem Leistungsbedarf.
 
-TODO: Tabelle
+.. TODO: Tabelle
 
 Regler
 ^^^^^^
@@ -127,7 +127,7 @@ Lichtmaschine, während ein für geringere Leistung bestimmter Regler die
 Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen die 
 Stromverbraucher und Batterie nicht ausreichend versorgt.
 
-<<<
+.. page-break
 
 Lichtmaschine und Regler prüfen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -173,7 +173,7 @@ TODO Bild
 3.  Umschalter für Voltmeter auf den Spannungsbereich der Lichtmaschine (0‐20 Volt) schalten 
     und den Richtwert der Reglerspannung im Leerlauf am Voltmeter mit dem roten Zeiger auf 
     7,4 Volt einstellen.
-<<<
+.. page-break
 
 4. Motor starten, das Voltmeter beobachten und die Drehzahl steigern, bis der schwarze Zeiger 
    des Voltmeters voll ausschlägt und zum Stillstand kommt. Damit ist die vom Reglerschalter 
@@ -214,7 +214,7 @@ TODO Bild
    wiederholt, um feststellen zu können, ob der Fehler in der Lichtmaschine liegt. Zeigt das Voltmeter 
    nach wie vor keine oder eine zu geringe Spannung an, muß die Lichtmaschine überholt werden.
 
-<<<
+.. page-break
 
 Regulierspannung bei Belastung prüfen
 -------------------------------------
@@ -232,7 +232,7 @@ in das Testgerät eingebauten Widerstand)
    a) +Kabel (rot) mit Klemme 61 am Regler.
    b) ‐Kabel (schwarz) mit der Masse des Fahrzeuges. (Bild 2-5/1 und Bild 2-5/2)
    
-TODO: Bilder
+.. TODO: Bilder
 
 4. Belastungswiderstand entsprechend der Lichtmaschinen-Nennleistung einstellen. 
    Der Nennleistungswert ist aus der in das Gehäuse der Lichtmaschine eingravierten 
@@ -245,6 +245,8 @@ TODO: Bilder
 
    a) + Kabel mit Klemme 51 (Regler)
    b) ‐Kabel mit der Masse des Fahrzeuges (Bild 2-5/1 und Bild 2-5/2)
+
+.. page-break
 
 6. Umschalter unterhalb des Voltmeters auf den Anzeigebereich 0 ‐ 20 Volt schalten und den 
    Richtwert der Regulierspannung bei Belastung mit dem roten Zeiger auf 6,5 Volt einstellen.
@@ -260,5 +262,5 @@ TODO: Bilder
    nach dem Auswechseln der Kohlebürsten und Reinigen der Kollektorlamellen und Anschlüsse die 
    richtigen Werte nicht erreicht wurden.
 
-<<<
+.. page-break
 
