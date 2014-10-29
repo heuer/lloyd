@@ -117,7 +117,7 @@ die der Batterie sinkt. Außerdem erfolgt durch den Regler ein Verringern oder
 Kurzschließen des die Feldspulen durchfließenden Stromes so, daß der Ladestrom der 
 Lichtmaschine gesteuert wird. Eine entladene Batterie wird mit erheblich größerer 
 Stromstärke versorgt als eine geladene. Die sich nach der Dauerleistung 
-{Nennleistung 'lf 50%) der Lichtmaschine ridwtende Gesamtleistung wird hierbei nicht
+(Nennleistung 'lf 50%) der Lichtmaschine ridwtende Gesamtleistung wird hierbei nicht
 Überschriften, sofern das Fahrzeug mit den serienmäßig eingebauten Stramverbrauchern 
 ausgerüstet ist.
 
@@ -126,6 +126,135 @@ verwendet werden. Ein Regler für größere Leistung führt zur Überlastung
 Lichtmaschine, während ein für geringere Leistung bestimmter Regler die 
 Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen die 
 Stromverbraucher und Batterie nicht ausreichend versorgt.
+
+<<<
+
+Lichtmaschine und Regler prüfen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(Im Fahrzeug)
+
+Allgemein
+^^^^^^^^^
+
+Nach dem Anlassen des Fahrzeugmotors erlischt mit der Drehzahlsteigerung die 
+Ladekontrollampe, sobald der im Regler befindliche Rückstromschalter geschlossen 
+ist und zeigt an, daß die Batterie Spannung erhält, iedoch gibt sie keine Gewähr für 
+die richtige Einstellung des Reglerschalters und damit auch keinen Aufschluß über die 
+richtige Stromversorgung der Batterie und der Stromverbraucher. Zur genauen Prüfung der 
+elektrischen Anlage ‐ hier z. B. zur Prüfung der Lichtmaschine und des Reglers ‐ sind 
+gute elektrische Meßinstrumente erforderlich. Lichtmaschine und Regler können auch im 
+eingebauten Zustand mittels Amperemeter, Voltmeter und Belastungswiderstand geprüft 
+werden. Die Prüfung der gesamten elektrischen Anlage erfolgt am besten mit einem hierfür 
+speziell entwickelten Prüfgerät, in das die erforderlichen Instrumente eingebaut und 
+zur Vereinfachung der Messung zweckmäßig geschaltet sind. Derartige Prüfgeräte werden 
+von verschiedenen Firmen hergestellt. Die in den folgenden Abschnitten dargestellten 
+Prüfungen elektrischer Aggregate der LLOYD-Fahrzeuge erfolgen mit dem 
+Bosch-Elektro-Tester.
+
+
+Regulierspannung im „Leerlauf“ prüfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(„Leerlauf" bedeutet, die Lichtmaschine ist nicht durch eingeschaltete Stromverbraucher belastet)
+
+1. Anschlußkabel von der Klemme 51 des Reglers abnehmen und miteinander verbinden. 
+   (Siehe auch Bild 2-3/1). Bis zur Fg.-Nr. 6/313 826 beim LP/LS 600 und Alexander, 
+   resp. 6/117 639 beim LT/LTK 600 wurde die Lichtmaschine 130/6 eingebaut. Solange war das 
+   +Kabel (rot) vom +Pol der Batterie bis zur Klemme 51 des Reglers nicht vorhanden, 
+   sondern der Stromweg führte Über den Anlasser (Klemme 30) zur Klemme 51 des Reglers. 
+   lm letzteren Fall braucht die Verbindung nicht vorgenommen zu werden.
+2. Voltmeter wie folgt verbinden:
+   a) +Kabel (rot) mit Klemme 61 am Regler
+   b) ‐Kabel (schwarz) mit der Masse des Fahrzeugs verbinden (Bild 2-3/1 und Bild 2-3/2)
+
+TODO Bild
+
+
+3.  Umschalter für Voltmeter auf den Spannungsbereich der Lichtmaschine (0‐20 Volt) schalten 
+    und den Richtwert der Reglerspannung im Leerlauf am Voltmeter mit dem roten Zeiger auf 
+    7,4 Volt einstellen.
+<<<
+
+4. Motor starten, das Voltmeter beobachten und die Drehzahl steigern, bis der schwarze Zeiger 
+   des Voltmeters voll ausschlägt und zum Stillstand kommt. Damit ist die vom Reglerschalter 
+   konstant gehaltene Regulierspannung erreicht. Bei dieser und auch bei höherer Drehzahl muß 
+   die vom Gerät angezeigte Spannung konstant bleiben, d.h. der schwarze Zeiger des Voltmeters 
+   soll mit dem auf den Richtwert eingestellten roten Zeiger möglichst deckungsgleich sein. 
+   Die Abweichung von dem mit dem roten Zeiger eingestellten Richtwert muß innerhalb des 
+   Toleranzbereiches liegen.
++
+Toleranzwerte für die Regulierspannung im Leerlauf:
++
+Lichtmaschine LJ/GEH/130/6/2600 L 8 mit dem Regler RS/TB/130/6/1: 7,0 ‐ 7,7Volt
++
+Lichtmaschine LJ/GEH/160/6/2500 L 8 mit dem Regler TBA 160/6/1: 7,1 ‐ 7,8 Volt
+
+5. Liegt der vom Testgerät angezeigte Wert innerhalb des Toleranzbereiches, ist die Lichtmaschine 
+   elektrisch in Ordnung, d.h. die Ankerwindungen haben weder Windungs- noch Masseschluß. Die 
+   Erregerwicklung hat von Anfang (+ Bürste am Kollektor) bis zum Ende (DF Reglerseite) keinen 
+   Masseschluß, ebenfalls das Verbindungs‐ kabel von der Lichtmaschine zum Regler (DF bis Regler). 
+   Dasselbe gilt auch für die Verbindung von D+ an der Lichtmaschine bis zum D+ am Regler. Weiter 
+   besagt die Messung, daß der Regler weder auf zu hohe noch auf zu niedrige Spannung eingestellt ist.
++
+Zeigt das Voltmeter eine zu hohe Spannung an, liegt der Fehler am Reglerschalter. In einem solchen 
+Fall muß ein neuer Regler eingebaut werden. Sollte das Voltmeter, obgleich die Anschlußklemmen 
+richtig befestigt sind, keine Spannung anzeigen, so erregt die Lichtmaschine sich nicht.
++
+Zur Feststellung, ab die Lichtmaschine fehlerhaft ist, empfiehlt es sich, die Lichtmaschine 
+kurzzeitig als Motor laufen zu lassen. Hierzu ist zunächst der Keilriemen abzunehmen und 
+anschließend das Kabel von der Klemme 51 am Regler. Wird das Kabel an die Klemme 61 des 
+Reglers, die mit D+ verbunden ist, angeschlossen, muß die Lichtmaschine in der Nenndrehrichtung
+laufen. Während des kurzzeitigen Motorbetriebes der Lichtmaschine wird die Erregerwiddung 
+polarisiert, d.h. der Restmagnetismus wird wieder aufgebaut. (Siehe auch Seite 2‐1 „Wirkungsweise 
+der Lichtmaschine"). Anschließend die Kabel am Reglerschalter Klemme 51 und 61 wieder richtig 
+anschließen und die Spannungsprüfung ‐ wie in Pos 1-3 beschrieben ‐ wiederholen. Stellt man 
+bei dieser Prüfung eine zu geringe Spannung fest, liegt der Fehler am Regler, sofern durch 
+einen Windungsschluß in den Ankerwicklungen oder abgenutzte Kohlebürsten etc. kein Fehler in der 
+Lichtmaschine vorliegt. Aus diesem Grunde wird der Regler ausgetauscht und die Prüfung nochmals 
+wiederholt, um feststellen zu können, ob der Fehler in der Lichtmaschine liegt. Zeigt das Voltmeter 
+nach wie vor keine oder eine zu geringe Spannung an, muß die Lichtmaschine überholt werden.
+
+<<<
+
+Regulierspannung bei Belastung prüfen
+-------------------------------------
+
+(Die Belastung erfolgt entsprechend der Nennleistung, 130 oder 160 Watt mit einem 
+in das Testgerät eingebauten Widerstand)
+
+1. Anschlußkabel von der Klemme 51 des Reglers abnehmen.
+2. Die von der Klemme 51 abgenommenen Kabel miteinander verbinden. (Siehe auch Bild 2-5/1). 
+   Solange Lichtmaschinen 130/6 eingebaut wurden, war das +Kabel (rot) vom +Pol der Batterie 
+   bis zur Klemme 51 des Reglers nicht vorhanden. In einem solchen Fall braucht die 
+   Verbindung nicht vorgenommen zu werden.
+3. Voltmeter des Testgeräts wie folgt verbinden:
+   a) +Kabel (rot) mit Klemme 61 am Regler.
+   b) ‐Kabel (schwarz) mit der Masse des Fahrzeuges. (Bild 2-5/1 und Bild 2-5/2)
+   
+TODO: Bilder
+
+4. Belastungswiderstand entsprechend der Lichtmaschinen-Nennleistung einstellen. 
+   Der Nennleistungswert ist aus der in das Gehäuse der Lichtmaschine eingravierten 
+   Beschriftung zu entnehmen. (Die Bezeichnung 130/6 bedeutet 130 Watt ‐ 6 Volt, 160/6 bedeutet 
+   160 Watt ‐ 6 Volt.) Wie auf dem Bild 2 -5/2 ersichtlich, wurde hier der Belastungswiderstand
+   zur Prüfung einer Lichtmaschine LJ/GEH/160/6/2500 L8 auf 160 Watt eingestellt.
+5. Stromkabel nach den Schaltzeichen ober- oder unterhalb des Schiebewiderstandes (rote 
+   und schwarze Nennleistungswerte beachten) am Testgerät anschließen und mit dem 
+   Fahrzeug verbinden:
+   a) + Kabel mit Klemme 51 (Regler)
+   b) ‐Kabel mit der Masse des Fahrzeuges (Bild 2-5/1 und Bild 2-5/2)
+6. Umschalter unterhalb des Voltmeters auf den Anzeigebereich 0 ‐ 20 Volt schalten und den 
+   Richtwert der Regulierspannung bei Belastung mit dem roten Zeiger auf 6,5 Volt einstellen.
+7. Motor starten, Voltmeter beobachten, die Drehzahl steigern, bis der schwarze Zeiger des
+   Voltmeters voll ausschlägt und zum Stillstand kommt. Bei dieser und auch bei höherer 
+   Drehzahl muß der schwarze Zeiger des Voltmeters annähernd (innerhalb des Toleranzbereiches) 
+   mit dem roten Zeiger deckungsgleich sein. Die Toleranzwerte der Lichtmaschinen 130/6 und 
+   160/6 mit dem jeweils dazugehörigen Regler sind gleich. Toleranzwert für die Regulierspannung 
+   bei Belastung 6,1 ‐ 7‚0 Volt.
++
+Ein Anzeigewert innerhalb der Toleranzangaben besagt, daß die Kohlebürsten und Kollektorlamellen
+der Lichtmaschine in Ordnung sind. Andernfalls muß die Lichtmaschine überholt werden, sofern 
+nach dem Auswechseln der Kohlebürsten und Reinigen der Kollektorlamellen und Anschlüsse die 
+richtigen Werte nicht erreicht wurden.
 
 <<<
 
