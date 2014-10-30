@@ -308,7 +308,7 @@ Lichtmaschine zerlegen, Kohlebürsten auswechseln und zusammenbauen
 12. Federscheibe,gewellt
 13. Ring-Rillenlager
 14. Abstandscheibe
-15. Halfeplatt mit Befestigungsschrauben
+15. Halteplatte mit Befestigungsschrauben
 
 .. page-break
 
@@ -334,4 +334,6 @@ Zerlegen
 
 
 .. page-break
+
+
 
