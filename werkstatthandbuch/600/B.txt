@@ -90,7 +90,7 @@ Berücksichtigt man die oben erwähnte Schrecksekunde, verlängert sich der B
 in einer Sekunde zurückgelegte Strecke, in diesem Falle um 19,4 m. Der tatsächliche 
 Bremsweg beträgt damit
 
-37,7m + 19,4m = 57,1 m.
+37,7 m + 19,4 m = 57,1 m.
 
 Die bei den LLOYD-Fahrzeugen erreichbaren Verzögerungswerte liegen wesentlich höher, 
 als die gesetzlich vorgeschriebenen Mindestwerte. Unter günstigen Voraussetzungen auf 
@@ -117,14 +117,17 @@ Hierbei sind folgende Punkte zu beachten:
    Ferner sind die Hände von Öl und Fett zu reinigen, denn auch dieses darf auf keinen Fall
    in die Bremsanlage gelangen. Eine Verschmutzung beeinträchtigt die Zuverlässigkeit 
    und Wirksamkeit der Bremse.
+
 2. Die Original-ATE-Bremsflüssigkeit enthält Bestandteile, die als Lösungsmittel für Farb- 
    und Lackanstriche wirken. Besonders beim Entlüften der Bremsanlage, Lösen einer Bremsleitung
    und Nachfüllen der Bremsflüssigkeit ist zu beachten, daß keine Bremsflüssigkeit mit der 
    Lackierung des Fahrzeuges in Berührung kommt.
    
    **Achtung!** Sofern Bremsflüssigkeit in die Augen spritzt, mit Wasser auswaschen!
+
 3. Die bei der Entlüftung ausgepumpte Bremsflüssigkeit darf nicht wieder verwendet werden, 
    andernfalls können hierbei auch Fremdkörper in das Leitungssystem gelangen.
+
 4. Sollte aus Versehen oder Unkenntnis eine andere als die vorgeschriebene Bremsflüssigkeit nachgefüllt worden
    sein, muß unbedingt die gesamte Bremsanlage entleert, zerlegt und gereinigt werden. Die Gummiteile der 
    hydraulischen Bremsanlage sind nidwt mineralölbeständig und müssen, falls Mineralöl oder eine andere 
@@ -133,6 +136,7 @@ Hierbei sind folgende Punkte zu beachten:
    Um eine einwandfreie Konservierung der Zylinderlaufbahnen und Kolben zu erzielen, sind diese vor 
    dem Zusammenbau mit ATE-Bremszylinderpaste einzustreichen. Selbstverständlich muß nach der Neufüllung
    die gesamte Bremsanlage entlüftet werden.
+
 5. Die Gummiteile der Bremsen, (Manschetten und Schutzkappen) sind während der Lagerzeit atmosphärischen 
    Einflüssen unterworfen und werden nach zu langer Zeit unbrauchbar. Für eine Lagerung in kühlen, 
    trockenen, möglichst staubfreien Räumen ist zu sorgen.
@@ -141,9 +145,11 @@ Hierbei sind folgende Punkte zu beachten:
    nicht länger als 12 Monate gelagert werden. Sofern montierte Rode und Hauptbremszylinder die 
    vorgenannte Lagerzeit überschritten haben, sind Demontage, Reinigung und Zusammenbau unter 
    Berücksichtigung des im Absatz 4 gesagten, vorzunehmen. Verhärtete Gummiteile sind zu erneuern.
+
 6. Eine regelmäßige Überprüfung der Bremsanlage gemäß dem im Kundendienst-Scheckheft vorgeschriebenen 
    Turnus muB durchgeführt werden. Beschädigte Bremsschläuche und Leitungen sind unbedingt zu erneuern,
    außerdem ist die Schadensursache abzustellen.
+
 7. Die Bremsflüssigkeit wird nach längerer Zeit und häufiger Benutzung der Bremsen durch den Abrieb 
    der Gummiteile (Manschetten) verunreinigt. Aus diesem Grunde empfiehlt es sich, nach etwa 
    einiähriger Benutzungsdauer des Fahrzeuges die Bremsflüssigkeit zu erneuern.
@@ -156,8 +162,10 @@ Hierbei sind folgende Punkte zu beachten:
    Primär-Manschette und Druckfeder mit Bodenventil herausnehmen. 
    Sollte der Kolben nicht gleich herauskommen, mit einem Schraubenzieher an
    der Aufnahme für die Druckstonge nachhelfen. (Bild 2-3/2)
+
 4. Alle Teile mit Spiritus oder Original-Bremsflüssigkeit reinigen. Benzin, 
    Benzol oder andere Lösungen können eine Zerstörung der Gummiteile verursachen.
+
 5. Hauptbremszylinder und Einzelteile prüfen, schadhafte und abgenutzte Teile 
    erneuern. Primär- und Sekundär-Manschette grundsätzlich erneuern.
 
@@ -167,12 +175,15 @@ Zusammenbau
 
 1. Druckfeder mit Bodenventil, Primän-Manschette, Füllscheibe und Kolben 
    mit Sekundär-Manschette einsetzen. (Bild 2-3/3)
+
 2. Mit einem stumpfen Dorn den KOlben an der AUfnahme der DruCkSlonge 
    nach innen drücken. Anschlagscheibe einlegen und Sicherungsnng mit einer 
    Spitzzange einsetzen.
+
 3. Gummikappe anbringen, hierbei beachten, daß das Entlüftungsloch bei 
    eingebautem Hauptbremszylinder unten liegt. Andernfalls kann kein 
    Kondenswasser ablaufen.
+
 4. Bremsflüssigkeit auffüllen, Behälter verschließen, und Funktion des 
    Hauptbremszylinders überprüfen.
 
@@ -187,21 +198,26 @@ Ausbau
 ------
 
 1. Radkappen abnehmen, Radschrauben lösen und Wagen aufbocken.
-2. Räder abnehmen. Senkschrauben der Bremstrommelbefestigung lösen 
-   und Bremsfrommeln abnehmen. (Bild 4-1/1)
+
+2. Räder abnehmen. Senkschrauben der Bremstrommelbefestigung lösen und Bremstrommeln 
+   abnehmen. (Bild 4-1/1)
 
    (Alle Bilder zeigen den Arbeitsvorgang am rechten Vorderrad).
+
 3. Zugfeder an der Seite der Radbremszyiinder mittels
    Schraubenziehers an der oberen Bremsbacke aushängen. (Bild 4-1/2)
+
 4. Obere und untere Bremsbacke vom Stützlager abheben und die Rückzugfeder 
    (stützlagerseitig) aushängen. (Bild 4-1/3)
+
 5. Die obere Bremsbacke abnehmen. (Bild 4-1/4)
 
 .. page-break
 
 6. Die untere Bremsbacke einschließlich der Druckstange und beider 
    Zugfedern nach unten herausnehmen. (Bild 4-2/1)
-1. Handbremsseil aushängen. (Siehe auch Bild 4-2/2)
+
+7. Handbremsseil aushängen. (Siehe auch Bild 4-2/2)
 
 
 Einbau
@@ -220,6 +236,7 @@ Fabrikats zu verwenden.
    Zugfeder mit der Klemmschelle an der Druckstange befestigen und die untere 
    Bremsbacke zusammen mit der Druckstange von unten einsetzen. Handbremsseil 
    einhängen. (Bild 4-2/2)
+
 2. Die radzylinderseitige Zugfeder an der oberen Bremsbacke einhängen. 
    (Bild 4-2/3)
 
@@ -227,6 +244,7 @@ Fabrikats zu verwenden.
 
 3. Obere Bremsbacke am Radzylinderkolben einsetzen, Bremsbacke anheben 
    und die Druckstange in die richtige Lage bringen (Bild 4-3/1).
+
 4. Die kurze Zugfeder mit einer Spitzzange an der oberen Bremsbacke 
    einhängen (Bild 4 -3/2).
 
@@ -237,10 +255,14 @@ mit der Kröpfung an der Innenseite des Stützlagers vorbeigeführt werden.
 5. Beide Bremsbacken mit einer Polygrip-Zange am Stützlager einsetzen und
    in die richtige Funktionslage bringen (Bild 4-3/3).
 6. Funktion der Bremse durch Betätigung des Fuß- und Handbremshebels prüfen.
+
 7. Bremstrommeln aufsetzen und mit ie 2 Senkschrauben M 6 x 1O befestigen 
   (siehe auch Bild 4-1/1).
+
 8. Räder aufsetzen, Radschrauben einschreuben, leicht anziehen und Wagen abbodten.
+
 9. Radschrauben fest anziehen, (Anzugswert = 7,2 mkg) und Radkappen anbringen.
+
 10. Bremswirkung durch eine Probefahrt Überprüfen. Die Verzögerungswerte müssen
     den gesetzlichen Vorschriften entsprechen.
 
@@ -254,12 +276,15 @@ Bremsbelag erneuern
 1. Niete der Bremsbeläge vorsichtig mit einem Kreuzmeißel an der Innenseite 
    abtrennen und mit einem Dorn entfernen. Hierbei beachten, daß die Bremsbacke 
    nicht beschädigt wird.
+
 2. Bremsbacke reinigen und Nietlöcher entgraten.
+
 3. Neuen Bremsbelag von der Mitte aus festnieten (Bild 4-4/1).
    Um eine einwandfreie Bremswirkung zu erreichen und Quietschgeräusche zu vermeiden, 
    muß der Belag unbedingt an der ganzen Fläche der Bremsbacke anliegen und darf 
    auch nicht seitlich überstehen. Spannungen vermeiden, d.h.‚ Niete senkrecht 
    eindrücken, Löcher im Belag nötigenfalls nachbohren.
+
 4. Scharfe Kanten an den Anlaufflächen brechen, falls nötig abrunden und 
    Beläge an beiden Enden 5-7 mm abschrägen.
 
@@ -286,20 +311,23 @@ Bremsen einstellen
 ------------------
 
 1. Wagen mit allen 4 Rädern aufbocken und Hand‐ bremse lösen.
+
 2. Bremsfußhebel mehrmals zur Zentrierung der Bremsbacken innerhalb der 
    Bremstrommeln betätigen.
+
 3. Das Rad entsprechend der Drehrichtung bei Vorwärtsfahrt drehen und dabei mit 
    einem Maulschlüssel SW 10 den oberen Radexzenter soweit nachstellen, bis 
    die Bremsbocke fest an der Bremstrommel anliegt und anschließend den 
    Radexenter soweit lösen, daß die Bremstrommel gerade frei läuft (Bild 5-1/1).
    Um bei allen Nachstellexzentern den annähernd gleichen Nachstellweg zu erhalten, 
    wird der Maulschlüssel in Richtung „vom Radzylinder weg" bewegt.
+
 4. Den Nachstellvorgang am unteren Radexenter in gleicher Weise durchführen. 
    (Das Bild zeigt den Arbeitsvorgang am rechten Vorderrad).
-5. An allen übrigen Rädern die Radexzenter, wie unter Pos. 3 beschrieben, 
-   ebenfalls nachstellen.
-6. Wagen abbocken und Bremsen prüfen.
-   Spurhaltung des Fahrzeuges bei Vollbremsung beachten.
+
+5. An allen übrigen Rädern die Radexzenter, wie unter Pos. 3 beschrieben, ebenfalls nachstellen.
+
+6. Wagen abbocken und Bremsen prüfen. Spurhaltung des Fahrzeuges bei Vollbremsung beachten.
 
 .. page-break
 
@@ -310,7 +338,9 @@ Handbremse einstellen
    unterhalb des Gewindestücks das Bremsseilende mit einer Zange festhalten und
    die Nachstellmutter soweit nachstellen, bis die Räder bei um 3 bis 4 Zähne 
    angezogenem Handbremshebel festgehalten werden (Bild 5-2/1).
+
 2. Nachstellmutter festhalten und Kontermutter anziehen.
+
 3. Sobald die Nachstellmuttern am Handbremshebel bis zum Ende des Gewindestücks 
    nachgezogen sind, Muttern wieder bis zur Ausgangsstellung zurückdrehen und die
    Nachstellmuttern am Bremsausgleich entsichern und anziehen, bis die Räder bei 
@@ -353,17 +383,23 @@ in das Bremssystem gelangen.
 
 2. Bremsentlüftung an der vom Hauptbremszylinder am weitesten entfernt liegenden 
    Radbremse beginnen. Entlüftungsfolge: (Bild 5-3/2).
+
 3. Anschlußnippel säubern, Gummikappen der Entlüfterventile abnehmen, Entlüfterschlauch
    aufschieben und das andere Schlauchende in die Bremsflüssigkeit tauchen, damit 
    man das Aufsteigen der Luftblasen während des Entlüftungsvorganges erkennen kann.
    (Bild 5-3/3).
+
 4. Bremsfußhebel mehrmals durchtreten, in der unteren Stellung festhalten. Entlüfterschroube 
    mit einem Maulschlüssel SW 7 öffnen und wieder schließen. Diesen Vorgang so oft 
    wiederholen, bis an dem in der Bremsflüssigkeit befindlichen Schlaudwende keine 
    Luftblasen mehr aufsteigen.
+
 5. Entlüfterschlauch abnehmen und Gummikappe am Entlüfterventil wieder anbringen.
+
 6. Entlüftungsvorgang gemäß der im Bild 5-3/2 dargestellten Folge an allen übrigen
    Rädern wiederholen.
+
 7. Bremsflüssigkeit nochmals nachfüllen, Verschlußkappe aufschrauben und Deckel 
    im Rahmenboden anbflngen.
+
 8. Bremswirkung durch eine Probefahrt überprüfen.

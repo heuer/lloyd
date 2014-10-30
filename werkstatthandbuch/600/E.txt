@@ -288,3 +288,50 @@ in das Testgerät eingebauten Widerstand)
 .. page-break
 
 
+Lichtmaschine zerlegen, Kohlebürsten auswechseln und zusammenbauen
+------------------------------------------------------------------
+(Die Lichtmaschine ist ausgebaut)
+
+.. TODO: Zeichnung
+
+1. Zwischenring
+2. Lagerdeckel
+3. Spritzscheibe
+4. Sprengring
+5. Anker
+6. Polgehöuse
+7. Zylinderschraube zur Befestigung der Lagerdeckel
+8. Kohlebürste
+9. Bürstenfeder
+10. Lagerdeckel mit Bürstenhaltern
+11. Abdeckscheibe
+12. Federscheibe,gewellt
+13. Ring-Rillenlager
+14. Abstandscheibe
+15. Halfeplatt mit Befestigungsschrauben
+
+.. page-break
+
+Ausbau der Lichtmaschine erfolgt wie in der Gruppe Motor auf den Seite 8-1 und 8-2 beschrieben.
+
+
+Zerlegen
+~~~~~~~~
+
+1. Zylinderschraube M 4 van der Anschlußbrücke des Kollektor-Lagerdeckels lösen und herausnehmen. (Bild 2-7/1)
+
+2. Beide langen Zylinderschrauben SW 9 an der Kollektor-Lagerdeckelseiie lösen und aus dem Polgehöuse 
+   herausnehmen.
+
+3. Kollektor-Lagerdeckel mit Bürstenhalter und Kohlebürsten vom Polgehüuse abnehmen (Bild 2-7/2).
+
+4. Den antriebsseitigen Lagerdeckel mit dem Anker aus dem Palgehäuse der Lichtmaschine herausnehmen. (Bild 2-7/3)
+
+   Sollten sich die Lagerdeckel schwer lösen lassen, mit einem Kupfer- oder Gummihammer in axialer
+   Richtung vorsichtig gegen die Lichtmaschinenwelle schlagen.
+
+5. Beide Schrauben der Litzenbefestigung lösen. (Bild 2-7/4)
+
+
+.. page-break
+
