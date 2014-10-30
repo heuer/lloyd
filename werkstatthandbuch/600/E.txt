@@ -529,3 +529,182 @@ Dichte zuzubereiten ist. (bei 20° C).
 Mischung frischer Akkusäure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+====================================  ======  ======  ======  ======  =======  ======  ======  ======  ======
+Spez. Gewicht (Säuredichte) in kg/L    1,2     1,22    1,24    1,26    1,285    1,31    1,33    1,36    1,38
+Konz. Schwefelsäure (96%) in cm³       180     200     220     240     260      280     300     320     340
+Destilliertes Wasser in cm³            820     800     780     760     740      720     700     680     660
+====================================  ======  ======  ======  ======  =======  ======  ======  ======  ======
+
+
+Batteriesäure für Tropen
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+Hohe Temperaturen bewirken inf. Beschleunigung der chemischen Vorgänge in der Batterie 
+eine erhöhte Kapazität, gleichzeitig aber auch eine stärkere Beanspruchung der Platten, außerdem 
+wird durch hohe Temperaturen die sogenannte Selbstentladung nachteilig beeinflußt.
+
+Aus diesen Gründen ist für tropische Länder Akkumulatorensäure mit einem **spez.Gewicht von 1,23kg/L**
+zu verwenden.
+
+.. page-break
+
+Säuredichte
+~~~~~~~~~~~
+
+Die Säuredichte ist das Hauptmerkmal für den Ladezustand der Batterie, deshalb stellt man 
+durch Messen der Säuredichte fest, wie weit eine Batterie geladen ist.
+
+Zum Messen der Säuredichte verwendet man einen Säureprüfer (Aräometer), mit dem Batteriesäure 
+so weit aufgesaugt wird, bis die Säurespindel in der Säure schwimmt. (Bild 3-3/1 und Bild 3-3/2).
+
+.. TODO: Bild
+
+Je geringer das spez. Gewicht der Batterie ist, desto tiefer taucht die Säurespindel. Die 
+Konzentration der Akkumulatorensäure ist auf den Skalen in gr/cm³ (resp. kg/L) oder in Grad Beaumé 
+angegeben.
+
+Die Säure einer vollgeladenen Batterie hat bei einer Temperatur von + 20° C eine Dichte von 
+1,285 gr/cm³ = 32° Bé  (Tropen ‐1‚23 = 27° Bé).
+
+1. Normal-gefüllte Batterien
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================  =========================  =============================
+Säuredichte nach Beaumé   Spez. Gewicht der Säure    Ladezustand
+========================  =========================  =============================
+32° Bé                    1,285 gr/cm³               gut geladene Batterie (voll)
+24° Bé                    1,20 gr/cm³                halb geladene Batterie
+18 - 14° Bé               1,14 - 1,11 gr/cm³         entladene Batterie
+========================  =========================  =============================
+
+
+2. Für Tropen gefüllte Batterien
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+========================  =========================  =============================
+Säuredichte nach Beaumé   Spez. Gewicht der Säure    Ladezustand
+========================  =========================  =============================
+27° Bé                    1,23 gr/cm³                gut geladene Batterie (voll)
+17 - 18° Bé               1,14 gr/cm³                halb geladene Batterie
+12 - 13° Bé               1,08 gr/cm³                entladene Batterie
+========================  =========================  =============================
+
+.. page-break
+
+Batteriespannung bei Belastung prüfen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Die Spannungsprüfung muß bei einer Batterie grundsätzlich unter Belastung vorgenommen 
+werden, um den Ladezustand feststellen zu können.
+
+Derartige Prüfungen lassen sich am einfachsten mit einem Zellenprüfgerät mit eingebautem
+parallel zu den Kontakten geschalteten Belastungswiderstand durchführen.
+
+Obwohl für diesen Zweck auch Prüfgeräte mit verstellbarem Belastungswiderstand 
+erhältlich sind, genügt für die Werkstattpraxis ein einfaches Zellenprüfgerät mit 
+einem festen Belastungswiderstand von 80 ‐ 100 Ampere.
+
+
+Die Prüfung ist wie folgt vorzunehmen:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Kontaktspitzen des Zellenprüfers auf die Polköpfe einer Zelle drücken. (Bild 3-4/1)
+2. Spannung der Botteriezelle nach der Belastungs‐ dauer von 10-15 Sek. ablesen.
+3. Die in der Position 2 beschriebene Prüfung auch an den beiden übrigen Zellen durchführen.
+
+Bei einer geladenen Batterie darf die Zellenspannung nicht unter 1,8 Volt absinken. 
+Die normale Spannung beträgt 2 Volt. Ferner ist zu beachten, daß die Differenz der Spannung 
+zwischen den einzelnen Zellen 0,2 Volt nicht überschreiten darf, andernfalls ist die 
+Batterie schadhaft und muß durch eine neue ersetzt werden.
+
+.. page-break
+
+
+Spannungsprüfung bei Belastung der Batterie mit dem Anlasser
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Sofern ein geeignetes Meßgerät, wie z. B. ein Voltmeter oder Testgerät vorhanden ist, kann 
+eine Spannungsprüfung bei eingeschaltetem Anlasser vorgenommen werden. ln der nachstehenden
+Beschreibung wird die Messung des Spannungsabfalls mit dem Bosch-Elektro-Tester erklärt.
+
+
+Prüfvorgang
+~~~~~~~~~~~
+
+1. Das Voltmeter ist zur Prüfung durch Parallelschaltung mit der Batterie zu verbinden:
+
+   + Anschluß des Voltmeters mit dem + Pol der Batterie,
+   - Anschluß des Voltmeters mit dem ‐ Pol der Batterie.
+   
+   (Bild 3-5/1 und Bild 3-5/2). 
+   
+2. Den Richtwert von 3,5 Volt für den Spannungsabfall mit dem roten Zeiger am Voltmeter 
+   einstellen. (Bild 3-5/2)
+
+3. Um einen hohen Belastungsstrom zu erhalten, wird der „direkte Gang" (3. oder 4. Gang) 
+   eingeschaltet und die Handbremse angezogen.
+
+4. Anlaßschalter für vier Sekunden einschalten und während der Einschaltzeit den Spannungsabfall
+   ablesen. Sinkt die Spannung bis Zu 3,5 Volt, ist die Batterie in Ordnung und gut geladen. 
+   Wird der Wert von 3,5 Volt unterschritten, empfiehlt es sich, die in den Pos. 1‐3 beschriebene
+   Prüfung an den einzelnen Zellen zu wiederholen. Ergeben die Messungen gleiche Werte, 
+   (z.B. 0,8 Volt, 0,8 Volt und 0,8 Volt) ist die Batterie in Ordnung und braucht nur 
+   geladen zu werden.
+   
+   Ungleiche Werte, wie z.B. 0,8 Volt, 0,3 Volt und 0,8 Volt zeigen, daß die Batterie defekt ist.
+
+.. page-break
+
+
+Batterie normal nachladen
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Für die Lebensdauer und Leistungsfähigkeit der Batterie ist es vorteilhaft, wenn sie in kurzen
+Zeitabständen (etwa alle 3 bis 4 Monate je nach Beanspruchung, im Winterbetrieb des öfteren) 
+nachgeladen wird. Hierzu wird die Batterie ausgebaut und auf eine Zellenspannung von 1,8 Volt
+entladen und anschließend mit einem Gleichstromladegerät aufgeladen. Normalerweise ist ein 
+Nachladen der Batterie erforderlich, sobald die Säuredichte auf 1,15 - 1,10 = 18 - 14° Bé
+gefallen ist, bzw. die Spannung der einzelnen Zellen auf 1,8 Volt gesunken ist.
+
+
+Ladevorgang
+~~~~~~~~~~~
+
+1. Batteriesäure prüfen und Polanschlüsse reinigen, die Verschlußstopfen aus den einzelnen 
+   Zellen herausnehmen.
+
+2. Den Säurestand prüfen und nötigenfalls destilliertes Wasser nachfüllen. Säure-Spiegelhöhe = 10 mm 
+   über den Separatoren und 15 mm über den Plattenoberkonten.
+
+3. Die Batterie an das Gleichstromladegerät anschließen, das + Kabel des Ladegeräts an den + Pol 
+   der Batterie und das Massekabel an den ‐ Pol der Batterie anschließen.
+
+4. Ladegerät einschalten und auf eine Stromstärke von etwa 1/10 der Batterie-Nennkapazität einstellen.
+   Bei Batterien mit einer Kapazität von 56 Amperestunden beträgt die Ladestromstärke ca. 5 Ampere.
+   
+   Während des Ladens muß die Säuretemperatur kontrolliert werden, diese darf 40° C (in den Tropen 50° C) 
+   nicht überschreiten. Bei zu hoher Temperatur ist die Ladestromstärke zu verringern und dafür 
+   entsprechend länger zu laden. Die normale Ladezeit beträgt etwa 10 Stunden. Sollten bei einer
+   Batterie die Platten bereits sulfatiert (erkenntlich an einem weißen Niederschlag) sein, so 
+   muß die Ladestromstärke verringert und dementsprechend verlängert werden. Hierzu wird zunächst
+   40 Stunden mit ¼ der vorgeschriebenen Ladestromstärke, bei Batterien mit einer Nennkapazität 
+   von 56 Ah, z.B. mit etwa 1,5 Ampere, geladen und anschließend der Ladevorgang mit der normalen 
+   Stromstärke beendet.
+
+5. Die Batterie so lange laden, bis alle Zellen drei Stunden gleichmäßig gegast („gekocht“) haben.
+
+6. Die Zellenspannung bei eingeschaltetem Ladegerät messen. Die Ladung ist beendet, wenn bei drei 
+   im Abstand von je einer Stunde aufeinander folgenden Messungen das spez. Gewicht der Säure und
+   die Spannung jeder Zelle nicht mehr angestiegen sind. Dann muß eine Säuredichte von 1,285 
+   (in den Tropen 1,23) und eine Zellenspannung von 2,75 Volt vorhanden sein. Nach dem Abschalten 
+   des Ladegerätes sinkt die Batteriespannung auf eine Zellenspannung von 2,2 ‐ 2 Volt ab.
+
+7. Zwei Stunden nach beendeter Ladung Batterie hin‐ und her bewegen, damit das noch enthaltene 
+   Gas entweicht. Säuredichte und Säurestand nachprüfen und gegebenenfalls berichtigen. Dann 
+   Zellenöffnung mit Verschlußstopfen gut verschließen, ausgelaufene und ausgespritzte
+   Säure mit einer Sodalösung unschädlich machen, Zellendeckel sorgfältig trocken wischen, 
+   Metallteile mit Säureschutzfett einfetten.
+
+.. page-break
+
+
