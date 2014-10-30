@@ -104,6 +104,28 @@ unterschiedlich belastet. Viele Stromverbraucher mit großem Leistungsbedarf
 beanspruchen die Lichtmaschine stärker als wenige Stromverbraucher mit 
 geringerem Leistungsbedarf.
 
+
+Regler
+^^^^^^
+
+Um den vielseitigen Anforderungen gerecht zu werden, ist ein Reglerschalter eingebaut. 
+Es ist die Aufgabe des Reglers, die Lichtmaschine bei genügender Drehzahl (Spannung) 
+mit der Batterie und den Verbrauchern zu verbinden und den Stramkreis wieder zu 
+unterbrechen, sobald die Spannung der Lichtmaschine durch geringere Dreh‐ zahl unter 
+die der Batterie sinkt. Außerdem erfolgt durch den Regler ein Verringern oder 
+Kurzschließen des die Feldspulen durchfließenden Stromes so, daß der Ladestrom der 
+Lichtmaschine gesteuert wird. Eine entladene Batterie wird mit erheblich größerer 
+Stromstärke versorgt als eine geladene. Die sich nach der Dauerleistung 
+(Nennleistung + 50%) der Lichtmaschine richtende Gesamtleistung wird hierbei nicht
+Überschriften, sofern das Fahrzeug mit den serienmäßig eingebauten Stromverbrauchern 
+ausgerüstet ist.
+
+Aus diesem Grunde darf nur der für die Nennleistung der Lichtmaschine bestimmte Regler
+verwendet werden. Ein Regler für größere Leistung führt zur Überlastung der 
+Lichtmaschine, während ein für geringere Leistung bestimmter Regler die 
+Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen die 
+Stromverbraucher und Batterie nicht ausreichend versorgt.
+
 Die Fahrzeuge LLOYD 600 sind mit folgenden Lichtmaschinen und Reglern ausgerüstet:
 
 ================================    ==========================  ===================
@@ -115,27 +137,6 @@ LT/LTK 600 bis Fg.-Nr. 6/117 639    Bosch LJ/GEH/130/6/2600 L8  Bosch RS/TB 130/
 LT/LTK 600 ab Fg.-Nr. 6/117 640     Bosch LJ/GEH/160/6/2500 L8  Bosch TBA 160/6/1
 ================================    ==========================  ===================
 
-
-Regler
-^^^^^^
-
-Um den vielseitigen Anforderungen gerecht zu werden, ist ein Reglerschalter eingebaut. 
-Es ist die Aufgabe des Reglers, die Lichtmaschine bei genügender Drehzahl (Spannung) 
-mit der Batterie und den Verbrauchern zu ver‐ binden und den Stramkreis wieder zu 
-unterbrechen, sobald die Spannung der Lichtmaschine durch geringere Dreh‐ zahl unter 
-die der Batterie sinkt. Außerdem erfolgt durch den Regler ein Verringern oder 
-Kurzschließen des die Feldspulen durchfließenden Stromes so, daß der Ladestrom der 
-Lichtmaschine gesteuert wird. Eine entladene Batterie wird mit erheblich größerer 
-Stromstärke versorgt als eine geladene. Die sich nach der Dauerleistung 
-(Nennleistung 'lf 50%) der Lichtmaschine ridwtende Gesamtleistung wird hierbei nicht
-Überschriften, sofern das Fahrzeug mit den serienmäßig eingebauten Stramverbrauchern 
-ausgerüstet ist.
-
-Aus diesem Grunde darf nur der für die Nennleistung der Lichtmaschine bestimmte Regler
-verwendet werden. Ein Regler für größere Leistung führt zur Überlastung der 
-Lichtmaschine, während ein für geringere Leistung bestimmter Regler die 
-Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen die 
-Stromverbraucher und Batterie nicht ausreichend versorgt.
 
 .. page-break
 
@@ -197,7 +198,9 @@ Regulierspannung im „Leerlauf“ prüfen
    Toleranzbereiches liegen.
 
    Toleranzwerte für die Regulierspannung im Leerlauf:
-   
+
+   .. keine Tabelle im Original
+
    ====================     =============   =========
    Lichtmaschine            Regler          Volt
    ====================     =============   =========
