@@ -104,7 +104,17 @@ unterschiedlich belastet. Viele Stromverbraucher mit großem Leistungsbedarf
 beanspruchen die Lichtmaschine stärker als wenige Stromverbraucher mit 
 geringerem Leistungsbedarf.
 
-.. TODO: Tabelle
+Die Fahrzeuge LLOYD 600 sind mit folgenden Lichtmaschinen und Reglern ausgerüstet:
+
+================================    ==========================  ===================
+Fahrzeugtyp                         Lichtmaschine               Regler
+================================    ==========================  ===================
+LP/LS 600 bis Fg.‐Nr. 6/313 826     Bosch LJ/GEH/130/6/2600 L8  Bosch RS/TB 130/6/1
+LP/LS 600 ab Fg.-Nr. 6/313 827      Bosch LJ/GEH/160/6/2500 L8  Bosch TBA 160/6/1
+LT/LTK 600 bis Fg.-Nr. 6/117 639    Bosch LJ/GEH/130/6/2600 L8  Bosch RS/TB 130/6/1
+LT/LTK 600 ab Fg.-Nr. 6/117 640     Bosch LJ/GEH/160/6/2500 L8  Bosch TBA 160/6/1
+================================    ==========================  ===================
+
 
 Regler
 ^^^^^^
@@ -128,6 +138,7 @@ Lichtmaschine nicht voll ausnutzt. Im letzteren Fall werden unter Umständen di
 Stromverbraucher und Batterie nicht ausreichend versorgt.
 
 .. page-break
+
 
 Lichtmaschine und Regler prüfen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -162,17 +173,19 @@ Regulierspannung im „Leerlauf“ prüfen
    +Kabel (rot) vom +Pol der Batterie bis zur Klemme 51 des Reglers nicht vorhanden, 
    sondern der Stromweg führte Über den Anlasser (Klemme 30) zur Klemme 51 des Reglers. 
    lm letzteren Fall braucht die Verbindung nicht vorgenommen zu werden.
+
 2. Voltmeter wie folgt verbinden:
 
    a) +Kabel (rot) mit Klemme 61 am Regler
    b) ‐Kabel (schwarz) mit der Masse des Fahrzeugs verbinden (Bild 2-3/1 und Bild 2-3/2)
 
-TODO Bild
+.. TODO: Bild
 
 
 3.  Umschalter für Voltmeter auf den Spannungsbereich der Lichtmaschine (0‐20 Volt) schalten 
     und den Richtwert der Reglerspannung im Leerlauf am Voltmeter mit dem roten Zeiger auf 
     7,4 Volt einstellen.
+
 .. page-break
 
 4. Motor starten, das Voltmeter beobachten und die Drehzahl steigern, bis der schwarze Zeiger 
@@ -184,15 +197,18 @@ TODO Bild
    Toleranzbereiches liegen.
 
    Toleranzwerte für die Regulierspannung im Leerlauf:
-
-   Lichtmaschine LJ/GEH/130/6/2600 L 8 mit dem Regler RS/TB/130/6/1: 7,0 ‐ 7,7Volt
-
-   Lichtmaschine LJ/GEH/160/6/2500 L 8 mit dem Regler TBA 160/6/1: 7,1 ‐ 7,8 Volt
+   
+   ====================     =============   =========
+   Lichtmaschine            Regler          Volt
+   ====================     =============   =========
+   LJ/GEH/130/6/2600 L8     RS/TB/130/6/1   7,0 ‐ 7,7
+   LJ/GEH/160/6/2500 L8     TBA 160/6/1     7,1 ‐ 7,8
+   ====================     =============   =========
 
 5. Liegt der vom Testgerät angezeigte Wert innerhalb des Toleranzbereiches, ist die Lichtmaschine 
    elektrisch in Ordnung, d.h. die Ankerwindungen haben weder Windungs- noch Masseschluß. Die 
    Erregerwicklung hat von Anfang (+ Bürste am Kollektor) bis zum Ende (DF Reglerseite) keinen 
-   Masseschluß, ebenfalls das Verbindungs‐ kabel von der Lichtmaschine zum Regler (DF bis Regler). 
+   Masseschluß, ebenfalls das Verbindungskabel von der Lichtmaschine zum Regler (DF bis Regler). 
    Dasselbe gilt auch für die Verbindung von D+ an der Lichtmaschine bis zum D+ am Regler. Weiter 
    besagt die Messung, daß der Regler weder auf zu hohe noch auf zu niedrige Spannung eingestellt ist.
 
@@ -223,10 +239,12 @@ Regulierspannung bei Belastung prüfen
 in das Testgerät eingebauten Widerstand)
 
 1. Anschlußkabel von der Klemme 51 des Reglers abnehmen.
+
 2. Die von der Klemme 51 abgenommenen Kabel miteinander verbinden. (Siehe auch Bild 2-5/1). 
    Solange Lichtmaschinen 130/6 eingebaut wurden, war das +Kabel (rot) vom +Pol der Batterie 
    bis zur Klemme 51 des Reglers nicht vorhanden. In einem solchen Fall braucht die 
    Verbindung nicht vorgenommen zu werden.
+
 3. Voltmeter des Testgeräts wie folgt verbinden:
 
    a) +Kabel (rot) mit Klemme 61 am Regler.
@@ -239,17 +257,19 @@ in das Testgerät eingebauten Widerstand)
    Beschriftung zu entnehmen. (Die Bezeichnung 130/6 bedeutet 130 Watt ‐ 6 Volt, 160/6 bedeutet 
    160 Watt ‐ 6 Volt.) Wie auf dem Bild 2 -5/2 ersichtlich, wurde hier der Belastungswiderstand
    zur Prüfung einer Lichtmaschine LJ/GEH/160/6/2500 L8 auf 160 Watt eingestellt.
+
 5. Stromkabel nach den Schaltzeichen ober- oder unterhalb des Schiebewiderstandes (rote 
    und schwarze Nennleistungswerte beachten) am Testgerät anschließen und mit dem 
    Fahrzeug verbinden:
 
-   a) + Kabel mit Klemme 51 (Regler)
+   a) +Kabel mit Klemme 51 (Regler)
    b) ‐Kabel mit der Masse des Fahrzeuges (Bild 2-5/1 und Bild 2-5/2)
 
 .. page-break
 
 6. Umschalter unterhalb des Voltmeters auf den Anzeigebereich 0 ‐ 20 Volt schalten und den 
    Richtwert der Regulierspannung bei Belastung mit dem roten Zeiger auf 6,5 Volt einstellen.
+
 7. Motor starten, Voltmeter beobachten, die Drehzahl steigern, bis der schwarze Zeiger des
    Voltmeters voll ausschlägt und zum Stillstand kommt. Bei dieser und auch bei höherer 
    Drehzahl muß der schwarze Zeiger des Voltmeters annähernd (innerhalb des Toleranzbereiches) 
@@ -263,4 +283,5 @@ in das Testgerät eingebauten Widerstand)
    richtigen Werte nicht erreicht wurden.
 
 .. page-break
+
 
