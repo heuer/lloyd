@@ -320,20 +320,212 @@ Zerlegen
 
 1. Zylinderschraube M 4 van der Anschlußbrücke des Kollektor-Lagerdeckels lösen und herausnehmen. (Bild 2-7/1)
 
+   .. TODO: Bild
+
 2. Beide langen Zylinderschrauben SW 9 an der Kollektor-Lagerdeckelseiie lösen und aus dem Polgehöuse 
    herausnehmen.
 
 3. Kollektor-Lagerdeckel mit Bürstenhalter und Kohlebürsten vom Polgehüuse abnehmen (Bild 2-7/2).
 
+   .. TODO: Bild
+
 4. Den antriebsseitigen Lagerdeckel mit dem Anker aus dem Palgehäuse der Lichtmaschine herausnehmen. (Bild 2-7/3)
+
+   .. TODO: Bild
 
    Sollten sich die Lagerdeckel schwer lösen lassen, mit einem Kupfer- oder Gummihammer in axialer
    Richtung vorsichtig gegen die Lichtmaschinenwelle schlagen.
 
 5. Beide Schrauben der Litzenbefestigung lösen. (Bild 2-7/4)
 
+   .. TODO: Bild
+
 
 .. page-break
 
+6. Bürstenhalter mit einem Haken anheben und die Kohlebürsten aus dem Bürstenhalter herausnehmen. (Bild 2-8/1)
 
+   .. TODO: Bild
+
+7. Bürstenholter und Kohlebürsten reinigen. Freigängigkeit der Kohlebürsten in den Führungen kontrollieren. 
+   Eine Schwergängigkeit ist in den meisten Fällen auf eine Verschmutzang zurückzuführen. Zur Reinigung nur ein 
+   mit Benzin angefeuchtetes Tuch verwenden (keine Putzwolle, da diese leicht fasert.)
+   
+   Blanke Schleifflächen der Kohlebürsten nicht mit Schmirgelpapier, Feile oder Messer bearbeiten. 
+   Bürstenhalter nach dem Reinigen nur mit Preßluft gründlich ausblasen.
+
+8. Kohlebürsten einsetzen, Litzen anschließen und Abstände kontrollieren:
+
+     A Zwischen Bürstenhalter und Bürstenfeder.
+     B Zwischen Bürstenhalter und Litze (Bild 2-8/2).
+
+   .. TODO: Bild
+
+   Ist eine Kohlebürste gebrochen oder soweit abgenutzt, daß die Bürstenfedern oder die in die Kohle 
+   eingelötete Litze fast den Bürstenhalter berühren, muß eine neue Kohlebürste eingesetzt werden.
+
+9. Kugellager auf Verschleiß und Beschädigung prüfen, nötigenfalls auswechseln. Sofern die Kugellager 
+   ausgewaschen werden, hierzu nur sauberes Benzin nehmen und anschließend die Lager mit Bosch‐Heißlagerfett füllen.
+
+10. Den Kollektor prüfen. Die Oberfläche muß glatt sein, grau-schwarz aussehen, frei von Staub, Fett und 
+    Öl sein und darf keine Riefen und Brandstellen haben.
+
+11. Sind Riefen vorhanden, den Kollektor feinspanig mit kleinem Vorschub überdrehen, bis die Oberfläche 
+    einwandfrei glatt ist. Das Kleinstmaß für den Kollektordurchmesser beider Lichtmaschinen (LJ/GEH/130/6 und 
+    LJ/GEH/160/6 beträgt 31,5 mm und darf nicht unterschritten werden.
+
+    Auf keinen Fall eine Feile oder Schmirgelpapier verwenden!
+
+12. Nach dem Überdrehen müssen die Rillen der Kollektorlamellen mit einer Kollektorsäge 0,5‐0,8 mm 
+    tief ausgesagt werden. (Bild 2‐8/3).
+    
+    .. TODO: Bild
+
+13. Anker und Kollektor auf Rundlauf prüfen. Der maximal zulässige Schlag für den Kollektor 
+    beträgt 0,02 mm, für das Ankerpaket 0,05 mm.
+
+14. Mit einer Prüflampe Anker und Erregerentwicklung auf Windungsschluß prüfen.
+
+.. page-break
+
+Zusammenbau
+^^^^^^^^^^^
+
+Der Zusammenbau der Lichtmaschine geschieht in umgekehrter Reihenfolge unter Beachtung
+folgender Punkte:
+
+1. Beide Lagerdeckel sind zur Fixierung mit Bohrungen versehen, um die am Polgehöuse 
+   befindlichen Nasen aufzunehmen. (Bild 2‐9/1)
+
+    .. TODO: Bild
+
+2. Der Anker mit aufgesetztem Lagerdeckel wird auf der Beschriftungsseite in das Polgehöuse eingeführt. 
+   (Zentrierung beachten!)
+
+3. Zum Einsetzen des kollektorseitigen Lagerdeckels werden die Kohlebürsten hochgestellt mit den 
+   Bürstenfedern gehalten. (Zentrierung beachten!) (Bild 2-9/2).
+
+   .. TODO: Bild
+
+5. Mit Hilfe eines Schraubenziehers oder anderem Hilfswerkzeug Kohlebürsten auf den Kollektor drücken,
+   damit die Federn in die Funktionslage gelangen. (Bild 2-9/3)
+
+   .. TODO: Bild
+
+.. page-break
+
+Regler aus- und einbauen
+------------------------
+
+Ausbauen
+^^^^^^^^
+
+1. Pluskabel von der Batterie abnehmen und anschließend die Kabelanschlüsse lösen.
+2. Sechskantmutter SW 9 lösen und den Regler von der Spritzwand abnehmen.
+
+Einbauen
+^^^^^^^^
+
+Der Einbau geschieht im umgekehrter Reihenfolge unter Beachtung folgender Punkte:
+
+1. Zu den Lichtmaschinen LJ/GEH/130/6 gehört der Regler RS/TB 130/6 (eingebaut beim LP/LS 600 und 
+   Alexander bis Fg.-Nr. 6/313 826, beim LT/LTK 600 bis Fg.‐Nr. 6/117 639.)
+2. Beim Anschließen der Kabel auf die Farben achten:
+
+   +----------------------------------------------+----------+
+   | Kabel                                        | Anschluß |
+   +==============================================+==========+
+   | schwarzes Kabel (einzeln)                    |   DF     |
+   +----------------------------------------------+----------+
+   | braunes Kabel (einzeln)                      |   D-     |
+   +----------------------------------------------+----------+
+   | rotes Kabel (einzeln)                        |   D±     |
+   +----------------------------------------------+----------+
+   | 2 rote Kabel (zusammengeschlossen)           |   51     |
+   | und ein rotes Kabel von der Batterie kommend |          |
+   +----------------------------------------------+----------+
+   | 1 blaues Kabel                               |   61     |
+   +----------------------------------------------+----------+
+
+   .. TODO: Bild
+
+   Das von der Batterie zum Regler (Klemme 51) führende einzelne +Kabel (rot) war so 
+   lange die Lichtmaschinen 130/6 eingebaut wurden nicht vorhanden.
+
+.. page-break
+
+Batterie
+--------
+
+Allgemeines
+^^^^^^^^^^^
+
+Es ist die Aufgabe der Batterie elektrische Energie, die bei laufendem Fahrzeugmotor von 
+der Lichtmaschine erzeugt wird, aufzuspeichern, bei Stillstand des Motors die 
+Stromverbraucher des Fahrzeuges zu versorgen und zum Anlassen des Fahrzeugmotors dem 
+Anlasser und der Zündanlage die für den Anlaßvorgang erforderliche elektrische Energie zu liefern.
+
+Damit die Batterie diesen Anforderungen immer gerecht werden kann, müssen die Wartungs- und 
+Pflegearbeiten mit besonderer Sorgfalt durchgeführt werden.
+
+Die LLOYD-Fahrzeuge LP/LS, Alexander und LT/LTK 600 sind mit Batterien ausgerüstet, deren 
+Nennkapazität (auf 20stündige Entladung bezogen) 56 Amperestunden beträgt und normalen 
+Belastungen durch die serienmäßig eingebauten Stramverbraucher gewachsen ist.
+
+Mit der Produktionsaufnahme des LLOYD Alexander T5 werden 66 Ah Batterien eingebaut.
+
+**Die Kapazität** (Speicherfähigkeit) ist die Strommenge, die die Batterie von der 
+Volladung bis zur Entladung abgibt. Außer von der Größe und Anzahl der Platten je Zelle, 
+von der Dichte und Temperatur der Flüssigkeit (Batteriesäure), ist die Kapazität von 
+der Entladestromstärke ganz wesentlich abhängig. Bei geringerer Entladestromstärke
+findet der zur Stromabgabe vorgehende elektro-chemische Vorgang nicht nur auf der 
+Oberfläche, sondern auch tief in den Poren der Bleiplatten statt, während die 
+Energieumsetzung bei starkem Entladestrom hauptsächlich auf der Plattenoberfläche 
+geschieht, so daß von der Batterie eine geringere Strommenge geliefert wird. 
+Langanhaltende Anlaßversuche, bei denen Entladestromstärken bis zu 250 Ampere entnommen
+werden, führen zu einer schnellen Entladung der Batterie. Aus diesem Grunde ist es notwendig, 
+bei vorwiegendem Kurzstreckenbetrieb des Fahrzeuges, verbunden mit häufiger Benutzung des 
+Anlassers und auch in der kalten Jahreszeit, die Batterie des öfteren mit 
+einer fremden Stromquelle aufzuladen.
+
+Wartung der Batterie
+^^^^^^^^^^^^^^^^^^^^
+
+Allgemeine Hinweise
+~~~~~~~~~~~~~~~~~~~
+
+1. Die Anschlußklemmen und Polverbindungen müssen stets sauber gehalten werden, 
+   damit ein möglichst geringer Übergangswiderstand auftritt.
+
+
+Zubereitung der Akkumulatorensäure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Die Batteriesäure kann fertig bezogen oder aus chemisch reiner konzentrierter Schwefelsäure 
+(H₂ SO₄ - 96%) und destilliertem Wasser hergestellt werden. Beim Mischen von Akkumulatorensäure 
+ist unbedingt zu beachten:
+
+**Stets konzentrierte Schwefelsäure ins Wasser bzw. in Akkumulatorensäure gießen ‐ niemals umgekehrt**, 
+da sonst die Säure aus dem Mischgefäß herausgeschleudert wird. Die konzentrierte Schwefelsäure 
+sinkt nämlich sofort und vermischt sich mit dem Wasser oder Akkusäure, während beim Zugießen 
+von Wasser dieses mit Säureteilen infolge der Wärmeentwicklung hochgeschleudert wird.
+
+Die Zubereitung der Akkumulatorensäure ist folgendermaßen vorzunehmen:
+
+1. Destilliertes Wasser in das säurebeständige Mischgefäß (z. B. Glasgetäß} gießen.
+
+2. Konzentrierte, chemisch reine Schwefelsäure vorsichtig in dünnem Strahl zugießen. 
+   Nur geringe Menge zugießen und gleichzeitig mit Glas- oder Hartgummistab (keinesfalls mit Metallstab) 
+   umrühren. Temperatur der Mischung messen, sie darf nicht über 80° C steigen, andernfalls mit 
+   weiterem Zugießen von konzentrierter Schwefelsäure warten, bis Säuretemperatur gesunken ist.
+
+3. Säure erkalten lassen und dann Säuredichte messen. Wenn die Säure ein spez. Gewicht von 1,285 hat, 
+   kann sie zum Füllen von Batterien verwendet werden.
+
+In der tagenden Tabelle ist angegeben, in welchem Verhältnis Akkumulatorensäure verschiedener 
+Dichte zuzubereiten ist. (bei 20° C).
+
+
+Mischung frischer Akkusäure
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
