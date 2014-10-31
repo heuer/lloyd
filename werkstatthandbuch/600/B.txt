@@ -39,10 +39,14 @@ Ausgangsgeschwindigkeit erfolgt nach der Formel:
 
 Die Buchstaben in den Formeln bedeuten:
 
-b = Verzögerung in m/sek²
-V = Geschwindigkeit in km/h 
-s = Bremsweg in m
-t = Bremszeit in sek.
+    b
+        Verzögerung in m/sek²
+    V
+        Geschwindigkeit in km/h 
+    s
+        Bremsweg in m
+    t
+        Bremszeit in sek.
 
 Der Bremsweg ist genau zu messen und die Geschwindigkeit (in km/h) mit einem 
 geeichten Geschwindigkeitsmesser festzustellen:
@@ -189,7 +193,8 @@ Zusammenbau
 
 
 .. page-break
-   
+
+
 Aus- und Einbau der Bremsbacken
 -------------------------------
 

@@ -55,7 +55,7 @@ Die beiden einzeln stehenden Zylinder bestehen aus Spezial-Grauguß; zur Wärmea
 Kühlrippen angegossen. Die Zylinder sind untereinander gleich und können zusammen mit den zugehörigen
 Kolben einzeln ausgewechselt werden.
 
-<<<
+.. page-break
 
 Zylinderkopf
 ------------
@@ -113,7 +113,7 @@ Die Entlüftung des Kurbelgehäuses übernimmt ein mit der Nockenwelle rotiere
 Druckausgleich erfolgt über einen Kanal im Nockenwellengehäuse und über das Entlüfterrohr, das im Luftfiltergehäuse
 mündet.
 
-<<<
+.. page-break
 
 Motor aus- und einbauen
 =======================
@@ -156,7 +156,7 @@ Ausbau
 12. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LÜttergehÖuse bzw. Luftfilterstutzen abschrauben und herausnehmen.
 13. Drahtzug für Heizung amWiderlager des Heizungsgehöuses abschrauben. Drahtzug an der Heizungsklappe aushängen.
 
-<<<
+.. page-break
 
 14. Heizungsschlauch vom Stutzen der Motorverkleidung abnehmen.
 15. Batterie-Massekabel am Kupplungsgehöuseflansch abschrauben.
@@ -173,7 +173,7 @@ Ausbau
 23. Motor-Lagerbügel hinten (oben) vom Vorderachsträger abschrauben. (Bild 2-2/4)
 24. Motor-Lagerbügel vorn (unten) vom Vorderachsträger abschrauben. (Bild 2-2/5)
 
-<<<
+.. page-break
 
 **Achtung!** Beim Motorausbau bleibt der Lagerbügel am Motor!
 Das Antriebsaggregat ist ietzt von allen Verbindungen mit dem Fahrzeug frei und kann mit Unterstützung eines Helfers aus dem Motorraum herausgehoben werden.
@@ -211,7 +211,7 @@ Einbau
 ------
 Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolge unter Beachtung folgender Punkte:
 
-<<<
+.. page-break
 
 1. Bei länger gelaufenen Fahrzeugen sollte gelegentlich eines Motorausbaus vorsorglich die Kupplung abgebaut und überprüft werden. 
    In jedem Fall vor Anflanschen des Getriebes Zentrierung der Kupplungsscheibe mittels Zentrierdorn WO 22 prüfen.
@@ -239,7 +239,7 @@ Der Zusammenbau und der Einbau des Aggregates erfolgen in umgekehrter Reihenfolg
 
 **Achtung!** Muttern am Zwischenflansch nicht zu fest anziehen, damit die notwendige Bewegungsmöglichkeit der Abgasleitung an dieser Stelle erhalten bleibt!
 
-<<<
+.. page-break
 
 Nach Anliegen der Sechskantmuttern durch 1,5 bis 2 Umdrehungen Tellerfedern auf Vorspannung bringen, dann mit Gegenmuttern sichern. (Bild 2-5/1)
 
@@ -276,7 +276,7 @@ Ausbau
 10. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen.
 11. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. Kabel zum Zünd‐ anlaßschalter von Klemme 50 des Anlassers lösen.
 
-<<<
+.. page-break
 
 12. Schelle am Lüftergehäuse aufbiegen und Pluskabel freimachen.
 13. Kraftstoffschloudw vom Rohrstutzen der Kraftstoffpumpe abziehen.
@@ -314,7 +314,7 @@ Einbau
 Der Zusammenbau und Einbau des Antriebsaggregates erfolgt in umgekehrter Reihenfolge. Die für das Modell 1956 
 gegebenen Hinweise (Seiten M 2-4 und 5, Pos. 1-8 und 10) sind auch beim 1957er Modell zu berücksichtigen.
 
-<<<
+.. page-break
 
 Beim Wiedereinbau der Heizung beachte man nachstehende Reihenfolge und Hinweise:
 
@@ -327,7 +327,7 @@ Um Verspannungen, die unter Umständen ein Ausbrechen des Flansches am Zylinder
 4. Heizkörper am Heizungshalter testziehen.
 5. Nach Anschluß des Bowdenzuges für Heizung Heizungsklappe auf volles Öffnen bzw. Schließen kontrollieren.
 
-<<<
+.. page-break
 
 Ausgebauten Motor zerlegen und zusammenbauen
 ============================================
@@ -372,7 +372,7 @@ Der Zusammenbau des Motors erfolgt in umgekehrter Reihenfolge
 Der nachfolgenden Beschreibung der einzelnen Arbeitsgänge sind alle besonderen, bei der De- und Montage des 
 Motors zu beachtenden Hinweise zu entnehmen.
 
-<<<
+.. page-break
 
 Luftfilter
 ==========
@@ -422,7 +422,7 @@ Sieb im Entlüfterrohr reinigen
 2. Micronic-Einsotz aus dem Filter herausnehmen und Entlüfterrohr in Benzin ausschwenken. 
    Bild 4-1/2 zeigt den Sitz des Siebfilters im Entlüfterrohr.
 
-<<<
+.. page-break
 
 3. Filter mit neuer Flanschdichtung wieder aufbauen (Bild 4-2/1).
 
@@ -442,7 +442,7 @@ Dieses Filter kann gegen die Ausführungen LP 411 und LP 411/1 ausgetauscht wer
 Dabei ist zu beachten, daß die Stiftschrauben im Nockenwellengehäuse 6 x 12 durch die 
 längeren Stittschrauben 6 x 25 ersetzt werden müssen.
 
-<<<
+.. page-break
 
 Vorwärmung
 ----------
@@ -480,5 +480,5 @@ Einbau
 2. Ansaughutze am Halter anschrauben.
 3. Heizungsschlauch auf die Stutzen der Ansaughutze und des Luftfilters stecken und mit Schellenböndern befestigen (Bild 4-3/2).
 
-<<<
+.. page-break
 
