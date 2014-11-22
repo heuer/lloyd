@@ -482,3 +482,26 @@ flexiblen Schlauches vorübergehend außer Betrieb gesetzt werden.
 
 .. page-break
 
+.. todo: Bild
+
+Beschreibung des Vergasers
+--------------------------
+
+Der Solex-Vergaser 28 VFIS ist ein Fallstrom-Vergaser mit einer Ansaugweite von 28 mm. Die beiden Hauptteile, 
+Vergasergehöuse und Vergoserdeckel, sind aus Spritzguß hergestellt.
+
+*Das Vergasergehöuse* umfaßt Mischkommer und Schwimmergehöuse und nimmt alle Teile für die Aufbereitung des 
+Kraftstoff-Luft-Gemisches, den Schwimmer und die Drosselklappe mit der Drosselklappenwelle auf.
+
+*Der Vergaserdedcel* ist mit einer Dichtung auf das Vergasergehöuse aufgesetzt. Am Deckel ist mittels einer 
+Verschraubung das von der Kraftstoffpumpe kommende Kraftstoffrohr angeschlossen. Ferner befindet sich im Deckel 
+das von unten eingeschraubte Schwimmernodelventil. lm Lufteinlaßstutzen ist die Starterklappe mit dem Flatterventil 
+auf einer Welle gelagert.
+
+*Die Schwimmereinrichtung* besteht aus dem Kunststoff- Gelenkschwimmer und dem Schwimmernadelventil. Am Schwimmer 
+ist ein Steg mehrfach angenietet, dessen Ende angerollt ist. Mittels einer durch das Stegauge gesteckten Welle ist 
+der Schwimmer im Schwimmergehäuse beweglich aufgehängt. Das Schwimernadelventil ist seitlich ver‐ setzt angeordnet, 
+wodurch eine verstärkte Übertragung des Schließdruckes auf die Schwimmern
+
+.. page-break
+
