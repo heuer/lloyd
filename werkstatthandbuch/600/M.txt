@@ -447,10 +447,10 @@ längeren Stittschrauben 6 x 25 ersetzt werden müssen.
 Vorwärmung
 ----------
 
-Fahrzeuge, die mit der Auspuffheizung versehen sind [ob Fahrg.-Nr. 6:063 022 bzw. 6fl i4456} sind serienmäßig mit einer Varwürmanlage 
-(zur Varwürmung der Ansaugluft) ausgestattet.
+Fahrzeuge, die mit der Auspuffheizung versehen sind [ob Fahrg.-Nr. 6:063 022 bzw. 6fl i4456} sind serienmäßig mit einer Vorwärmanlage 
+(zur Vorwärmung der Ansaugluft) ausgestattet.
 
-Die Varwörmung hat einen günstigen Einfluß auf das Betriebsverhalten des Motors und erbringt folgende Vorteile:
+Die Vorwärmung hat einen günstigen Einfluß auf das Betriebsverhalten des Motors und erbringt folgende Vorteile:
 
 Schnelleres Erreichen der vollen Betriebsfähigkeit des Motors bei niedrigen Außentemperaturen. Kürzerer Gebrauch der Starterklappe.
 
@@ -459,19 +459,13 @@ Verbesserte Wirtschaftlichkeit durch günstige Beeinflu55ung des Kraftstoffverb
 Vorbeugung gegen innere Vereisung, die durch die heutigen Kraftstoffe (hoher Prozentsatz leicht siedender Bestandteile) unter 
 gewissen atmosphärischen Bedingungen häufig zu beobachten ist.
 
-Die Vorwörmanlage kann in einer besonderen KD‐Aus‐ führung auch nachträglich in alle Fahrzeuge ahne Auspuffheizung eingebaut 
+Die Vorwärmanlage kann in einer besonderen KD‐Ausführung auch nachträglich in alle Fahrzeuge ahne Auspuffheizung eingebaut 
 werden, sofern diese mit einem Luftfilter mit Schnorcheirohr versehen sind.
-Die KD-Ausführung der Varwörmanlage besteht aus folgenden Teilen:
+Die KD-Ausführung der Vorwärmanlage besteht aus folgenden Teilen:
 
 1. Flexibler Heizungsschlauch
 2. Ansaughutze
-3. Halter für Vorwörmung
-
-Um in der warmen Jahreszeit ungünstige Einflüsse auf die Motorleistung bzw. den Motor selbst auszuschließen 
-(durch Füllungsverlust verminderte Leistung bzw. Spitzengeschwindigkeit ‐ durch verringerte Klopffestigkeit des 
-Kraftstaffes Gefahr der Motorüberhitzung), sall bei Dauer-AußenlutLTemperaturen über 15° C die Anlage durch Abnahme des 
-flexiblen Schlauches vorübergehend außer Betrieb gesetzt werden.
-
+3. Halter für Vorwärmung
 
 Einbau
 ------
@@ -479,6 +473,12 @@ Einbau
    durch die seitlichen Schweißnähte des Auspuftrahres gegeben.
 2. Ansaughutze am Halter anschrauben.
 3. Heizungsschlauch auf die Stutzen der Ansaughutze und des Luftfilters stecken und mit Schellenböndern befestigen (Bild 4-3/2).
+
+
+Um in der warmen Jahreszeit ungünstige Einflüsse auf die Motorleistung bzw. den Motor selbst auszuschließen 
+(durch Füllungsverlust verminderte Leistung bzw. Spitzengeschwindigkeit ‐ durch verringerte Klopffestigkeit des 
+Kraftstaffes Gefahr der Motorüberhitzung), soll bei Dauer-Außenlufttemperaturen über 15° C die Anlage durch Abnahme des 
+flexiblen Schlauches vorübergehend außer Betrieb gesetzt werden.
 
 .. page-break
 
