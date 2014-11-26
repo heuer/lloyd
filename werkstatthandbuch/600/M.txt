@@ -120,7 +120,7 @@ Motor aus- und einbauen
 
 Folgende Werkzeuge werden gebraucht:
 WO 58 ‐ Spezial‐Steckschlüssel für Anlasser- und
-Nockenwellengehöusebefestigung.
+Nockenwellengehäusebefestigung.
 Maulschlüssel 7, 8, 9, 2x10, 12, 14 und 27 mm, Steckschlüssel
 10, 14, 17 mm, Ringschlüssel 14 und 17 mm,
 Verlängerung, Knarre, Schraubenzieher 5 mm, Dorn 2 mm, Polygripzange, Spitzzange.
@@ -151,15 +151,15 @@ Ausbau
 8. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen. (Bild 2-1/3)
 9. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. 
    Kabel zum Zündanlaßschalter von Klemme 50 des Anlassers lösen. (Bild 2-1/4)
-10. Schelle am Lüftergehöuse aufbiegen und Pluskabel freimachen.
+10. Schelle am Lüftergehäuse aufbiegen und Pluskabel freimachen.
 11. Kraftstofischlauch vom Rohrstutzen der Kraftstoffpumpe abziehen.
 12. Gas- und Starterzug am Vergaser lösen, Züge an den Halterungen am LÜttergehÖuse bzw. Luftfilterstutzen abschrauben und herausnehmen.
-13. Drahtzug für Heizung amWiderlager des Heizungsgehöuses abschrauben. Drahtzug an der Heizungsklappe aushängen.
+13. Drahtzug für Heizung amWiderlager des Heizungsgehäuses abschrauben. Drahtzug an der Heizungsklappe aushängen.
 
 .. page-break
 
 14. Heizungsschlauch vom Stutzen der Motorverkleidung abnehmen.
-15. Batterie-Massekabel am Kupplungsgehöuseflansch abschrauben.
+15. Batterie-Massekabel am Kupplungsgehäuseflansch abschrauben.
 16. Zugfeder für Schaltstange am Getriebedeckel aushängen.
 17. Klemmschraube an der Schaltstange lösen und Schaltstange nach oben schieben.
 18. Tachospirale am Getriebeanschluß lösen, dazu Überwurfmutter abschrauben und Tachospirale herausziehen. 
@@ -488,19 +488,19 @@ Beschreibung des Vergasers
 --------------------------
 
 Der Solex-Vergaser 28 VFIS ist ein Fallstrom-Vergaser mit einer Ansaugweite von 28 mm. Die beiden Hauptteile, 
-Vergasergehöuse und Vergoserdeckel, sind aus Spritzguß hergestellt.
+Vergasergehäuse und Vergoserdeckel, sind aus Spritzguß hergestellt.
 
-*Das Vergasergehöuse* umfaßt Mischkommer und Schwimmergehöuse und nimmt alle Teile für die Aufbereitung des 
+*Das Vergasergehäuse* umfaßt Mischkommer und Schwimmergehäuse und nimmt alle Teile für die Aufbereitung des 
 Kraftstoff-Luft-Gemisches, den Schwimmer und die Drosselklappe mit der Drosselklappenwelle auf.
 
-*Der Vergaserdedcel* ist mit einer Dichtung auf das Vergasergehöuse aufgesetzt. Am Deckel ist mittels einer 
+*Der Vergaserdeckel* ist mit einer Dichtung auf das Vergasergehäuse aufgesetzt. Am Deckel ist mittels einer 
 Verschraubung das von der Kraftstoffpumpe kommende Kraftstoffrohr angeschlossen. Ferner befindet sich im Deckel 
 das von unten eingeschraubte Schwimmernodelventil. lm Lufteinlaßstutzen ist die Starterklappe mit dem Flatterventil 
 auf einer Welle gelagert.
 
-*Die Schwimmereinrichtung* besteht aus dem Kunststoff- Gelenkschwimmer und dem Schwimmernadelventil. Am Schwimmer 
+*Die Schwimmereinrichtung* besteht aus dem Kunststoff-Gelenkschwimmer und dem Schwimmernadelventil. Am Schwimmer 
 ist ein Steg mehrfach angenietet, dessen Ende angerollt ist. Mittels einer durch das Stegauge gesteckten Welle ist 
-der Schwimmer im Schwimmergehäuse beweglich aufgehängt. Das Schwimernadelventil ist seitlich ver‐ setzt angeordnet, 
+der Schwimmer im Schwimmergehäuse beweglich aufgehängt. Das Schwimernadelventil ist seitlich versetzt angeordnet, 
 wodurch eine verstärkte Übertragung des Schließdruckes auf die Schwimmern
 
 .. page-break
