@@ -36,7 +36,7 @@ auf ihrem Sitz. Die Abdichtung der Kurbelwelle erfolgt an beiden Seiten durch Sp
 
 Pleuel
 ------
-Die Pleuel haben Dappel-T-Profil, der Pleuelfuß ist ungeteilt. Auf dem KW‐Hubzapfen sind die Pleuel mittels
+Die Pleuel haben Doppel-T-Profil, der Pleuelfuß ist ungeteilt. Auf dem KW‐Hubzapfen sind die Pleuel mittels
 zweier Reihen käfiggeführter zylindrischer Kurzrollen gelagert. Kurbelwellenseitig laufen die Rollen auf einem
 gehärteten Innenring, während sie pleuelseitig direkt auf der gehärteten Innenfläche des Pleuelfußes abrollen.
 
@@ -255,7 +255,7 @@ Motor aus- und einbauen Modell 600/1957
 =======================================
 
 Durch die serienmäßige Ausrüstung des Modells 1957 mit der Auspuffheizung und Vorwärmung ändert 
-sich der beschriebene Arbeitsablauf für „Motor aus- und einbauen."
+sich der beschriebene Arbeitsablauf für „Motor aus- und einbauen.“
 
 Folgende Arbeitsweise wird empfohlen:
 
@@ -274,7 +274,7 @@ Ausbau
 8. Hochspannungskabel aus Klemme 4 der Zündspule herausziehen.
 9. Zündspule vom MotoroLagerbügel abschrauben.
 10. Die drei zum Reglerschalter führenden Kabel an der Lichtmaschine lösen.
-11. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. Kabel zum Zünd‐ anlaßschalter von Klemme 50 des Anlassers lösen.
+11. Batteriekabel und Kabel zum Reglerschalter von Klemme 30 des Anlassers lösen. Kabel zum Zündanlaßschalter von Klemme 50 des Anlassers lösen.
 
 .. page-break
 
@@ -426,7 +426,7 @@ Sieb im Entlüfterrohr reinigen
 
 3. Filter mit neuer Flanschdichtung wieder aufbauen (Bild 4-2/1).
 
-Anmerkung. Ab Fahrgestell-Nr. 6/256 847 bzw. 6/113 848 ist ein das Ansauggeröusch minderndes Luftfilter 
+Anmerkung. Ab Fahrgestell-Nr. 6/256 847 bzw. 6/113 848 ist ein das Ansauggeräusch minderndes Luftfilter 
 mit der Typenbezeichnung LP 411/1 eingebaut. Dieses Luftfilter ist im wesentlichen durch ein sogenanntes 
 Schnorchelrohr gekennzeichnet. Hinsichtlich der verwendeten Filter-Patrone, deren Wartung und 
 Auswechselvorschriften, unterscheidet sich dieses Luftfilter von der Ausführung LP 411 (ohne Schnochel) 

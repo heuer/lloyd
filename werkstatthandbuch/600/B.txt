@@ -7,7 +7,7 @@ Es ist die Aufgabe der Bremsen, die Bewegungsenergie (auch kinetische Energie ge
 in Wärme umgewandelt wird, zu vernichten.
 
 Die Bremswirkung wird nach der erreichbaren mittleren Verzögerung beurteilt. Hierfür sind in der StVZO 
-(Straßenverkehrs-Zulassungs-Ordnung) für Personenwagen folgende Verzögerungswerte vorgeschrieben:
+(Straßenverkehrs-Zulassungs-Ordnung) für Personenwagen folgende Verzö“gerungswerte vorgeschrieben:
 
 Mittlere Verzögerung für die Fußbremse: 2,5 m/sek² 
 Mittlere Verzögerung für die Handbremse: 1,5 m/sek²
@@ -268,7 +268,7 @@ mit der Kröpfung an der Innenseite des Stützlagers vorbeigeführt werden.
 
 9. Radschrauben fest anziehen, (Anzugswert = 7,2 mkg) und Radkappen anbringen.
 
-10. Bremswirkung durch eine Probefahrt Überprüfen. Die Verzögerungswerte müssen
+10. Bremswirkung durch eine Probefahrt überprüfen. Die Verzögerungswerte müssen
     den gesetzlichen Vorschriften entsprechen.
 
 .. page-break
@@ -325,7 +325,7 @@ Bremsen einstellen
    die Bremsbocke fest an der Bremstrommel anliegt und anschließend den 
    Radexenter soweit lösen, daß die Bremstrommel gerade frei läuft (Bild 5-1/1).
    Um bei allen Nachstellexzentern den annähernd gleichen Nachstellweg zu erhalten, 
-   wird der Maulschlüssel in Richtung „vom Radzylinder weg" bewegt.
+   wird der Maulschlüssel in Richtung „vom Radzylinder weg“ bewegt.
 
 4. Den Nachstellvorgang am unteren Radexenter in gleicher Weise durchführen. 
    (Das Bild zeigt den Arbeitsvorgang am rechten Vorderrad).

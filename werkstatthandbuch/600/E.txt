@@ -166,7 +166,7 @@ Bosch-Elektro-Tester.
 
 Regulierspannung im „Leerlauf“ prüfen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-(„Leerlauf" bedeutet, die Lichtmaschine ist nicht durch eingeschaltete Stromverbraucher belastet)
+(„Leerlauf“ bedeutet, die Lichtmaschine ist nicht durch eingeschaltete Stromverbraucher belastet)
 
 1. Anschlußkabel von der Klemme 51 des Reglers abnehmen und miteinander verbinden. 
    (Siehe auch Bild 2-3/1). Bis zur Fg.-Nr. 6/313 826 beim LP/LS 600 und Alexander, 
@@ -225,7 +225,7 @@ Regulierspannung im „Leerlauf“ prüfen
    Reglers, die mit D+ verbunden ist, angeschlossen, muß die Lichtmaschine in der Nenndrehrichtung
    laufen. Während des kurzzeitigen Motorbetriebes der Lichtmaschine wird die Erregerwiddung 
    polarisiert, d.h. der Restmagnetismus wird wieder aufgebaut. (Siehe auch Seite 2‐1 „Wirkungsweise 
-   der Lichtmaschine"). Anschließend die Kabel am Reglerschalter Klemme 51 und 61 wieder richtig 
+   der Lichtmaschine“). Anschließend die Kabel am Reglerschalter Klemme 51 und 61 wieder richtig 
    anschließen und die Spannungsprüfung ‐ wie in Pos 1-3 beschrieben ‐ wiederholen. Stellt man 
    bei dieser Prüfung eine zu geringe Spannung fest, liegt der Fehler am Regler, sofern durch 
    einen Windungsschluß in den Ankerwicklungen oder abgenutzte Kohlebürsten etc. kein Fehler in der 
@@ -642,7 +642,7 @@ Prüfvorgang
 2. Den Richtwert von 3,5 Volt für den Spannungsabfall mit dem roten Zeiger am Voltmeter 
    einstellen. (Bild 3-5/2)
 
-3. Um einen hohen Belastungsstrom zu erhalten, wird der „direkte Gang" (3. oder 4. Gang) 
+3. Um einen hohen Belastungsstrom zu erhalten, wird der „direkte Gang“ (3. oder 4. Gang) 
    eingeschaltet und die Handbremse angezogen.
 
 4. Anlaßschalter für vier Sekunden einschalten und während der Einschaltzeit den Spannungsabfall
