@@ -710,3 +710,83 @@ Ladevorgang
 .. page-break
 
 
+Schnelladung der Batterie
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In eiligen Fällen, die aber nicht zur Regel werden dürien, kann eine Batterie mit erhebliah größerer Stromstärke 
+als bei normaler Ladung schnell geladen werden. Bei Batterien mit einer Nennkapazität van 56 Ah wird die Schnellladung
+mit einer Stromstärke von 40 Ampere durchgeführt, hiermit kann die Batterie höchstens bis zu 80% ihrer 
+Nennkapazität bis zu einer Zellenspannung von 2,4 Volt‚ bei der die Batterie zu gasen („kochen“) beginnt, geladen werden. 
+Man gewinnt dabei viel Zeit, denn eine Schnelladung dauert etwa eine halbe Stunde, während sonst im Durchschnitt 
+10 Stunden zu einer Ladung benötigt werden. Soll jedoch vollgeladen werden, so ist mit normalem Ladestrom weiter 
+zu laden. Die Ladung wird zweckmäßigerweise mit einem im Handel befindlichen modernen Schnnelladegerät durchgeführt. 
+Derartige Geräte arbeiten automatisch‚ Stromstärke und Ladezeit sind so bemessen, daß eine Überladung und damit 
+auch eine zu starke Erwärmung vermieden wird. Die den Geraten von den Herstellerfirmen mitgegebenen Betriebsanleitungen 
+sind hierbei zu beachten, damit auch eine Gewähr für eine richtige Schnelladung ohne Beeinträchtigung der 
+Batterie-Lebensdauer gegeben ist.
+
+Die Schnelladung darf jedoch nur bei gesunden, bereits im Betrieb befindlichen Batterien, keinesfalls bei 
+Inbetriebsetzung einer neuen Batterie vorgenommen werden. Vor Beginn des Ladens ist die Batterie unbedingt 
+zu überprüfen, denn es ist zwecklos, defekte Batterien mit dieser Methode zu behandeln, da hierdurch ein bereits 
+vorhandener Schaden noch verschlimmert wird.
+
+
+Inbetriebsetzung neuer Batterien
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Im allgemeinen werden Batterien im ungefüllten und geladenen Zustand geliefert, so daß nach dem Einfüllen der 
+Akkusäure mit einer Dichte von 1,285 = 32° Bé (in den Tropen 1,23 = 27° Bé) die Batterien ohne zusätzliche Ladung 
+in Betrieb genommen werden können. Die Batterien geben dann zunächst nur etwa 30% der Nennkapazität ab und erhalten 
+erst nach dreimaligem Entladen und Laden die volle Kapazität.
+
+Bei der Inbetriebsetzung einer neuen Batterie ist naeh der von der Herstellerfirma beigefügten Behandlungsvorschrift zu 
+verfahren.
+
+
+Allgemeingültige Hinweise
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Verschlußstopfen von den einzelnen Zellen abnehmen, Pappscheiben, falls vorhanden, entfernen.
+
+2. Zelle mit reiner Akkusäure, spez. Gewicht 1285 — 32° Bé, bei einer Temperatur von + 20°C (Tropen: 1,23 — 27° Bé) 
+   füllen, bis der Säurespiegel 15 mm über den Plattenoberkanten und 10 mm über den Separtorenoberkanten steht.
+   
+*Achtung!* Als Füllsäure keine sogenannten Ausbesserungsmittel verwenden, sonst erlischt der Garantieanspruch.
+
+3. Batterien fünf bis sechs Stunden stehenlaseen, damit die Platten durchtränkt werden. Sinkt dabei der Säurespiegel, 
+   wieder bis zur alten Höhe nachfüllen.
+
+4. Die Batterie an ein Gleichstromladegerät anschließen und mit einer Stromstärke von etwa 3,5 Ampere aufladen.
+   Eine Schnelladung darf keinesfalls durchgeführt werden.
+
+
+.. page-break
+
+
+Stillsetzung einer Batterie
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Soll eine Batterie für etwa zwei bis drei Monaie stillgesetzt werden, ist unhedingt zu beachten, daß eine mit 
+Säure gefüllte Batterie keineswegs im ungeladenen Zustand gelagert wird, da infolge der Oxydation die Platten 
+in kurzer Zeit unbrauchbar werden. Hierbei ist außerdem zu beachten daß durch die sog. Selbstentladung die 
+Barierie durchschnittlich 0,5 - 1% der Nennkapazität pro Tag verliert und ein Nachladen im Abstand von vier 
+Wochen erforderlich ist.
+
+
+Bei längerer Nichtbenutzung in wie folgt vorzugehen:
+
+1. Die Batterie nach den Vorschriften, wie auf Seite 3-6 beschrieben, laden
+
+2. Batteriesäure vorsichiig ausgießen und destilliertes Wasser nachfüllen
+
+3. Batterie nochmals sechs Stunden mit einer Stromstärke von 4 - 5 Ampere nachladen und das destillierte
+   Wasser ausgießen.
+   
+Nachdem die Batterie mit neuem destillierten Wasser gefüllt wurde, kann die Aufbewahrung in einem kühlen, 
+möglichst trockenen Raum erfolgen. Ein Nachladen in monatlichen Zeitabständen ist in diesem Fall nicht mehr 
+erforderlich. Zur Inbetriebnahme ist die Batterie wie eine neue zu behandeln.
+
+.. page-break
+
+
+
