@@ -788,5 +788,54 @@ erforderlich. Zur Inbetriebnahme ist die Batterie wie eine neue zu behandeln.
 
 .. page-break
 
+.. TODO: Bild
+
+
+Allgemeines
+^^^^^^^^^^^
+
+Die LLOVD Fahrzeuge LP/LS, LT/LTK 600, Standard, Alexander und Alexander TS sind mit dem 
+Bosch-Schubtriebanlasser CDD 0,4/6 R 5 ausgerüstet. Dieser durch einen Hauptstrommotor mit einer 
+Leistung von 0,4 PS angetriebene Anlasser überträgt die zum Anlassen des Fahrzeugmotors erforderliche 
+Kraft mittels Ritzel auf den Zahnkranz der Schwungscheibe.
+
+Belätigt man den am Instrumentenbrett angebrachltn Zündanlaßschalter, wird zunäuhst auf dem Keilprofil 
+der Ankerwelle der Mitnehmer mit dem Ritzel durch den Megnetschalter in den Zahnkranz der Schwungscheibe 
+geschoben. Die durch den Magnetschalter ausgeübte Axialverschiebung des Ritzels und Mitnehmers wird durch
+einen gabelförmigen Einrückhebel übertragenb. Sofort nach dem vollen
+
+.. page-break
+
+Zahneingriff des Ritzels wird der Hauptstromkreis geschlossen, der Anker entwickelt das volle Drehmomemt
+und bringl den Motor auf die Anlaßdrehzahl.
+
+Infolge des großen Übersetzungsverhältnisses zwischen Anlasserritzel und Zahnkranz darf das Ritzel nicht ständig
+im Zahneingriff bleiben, da andernfalls der Anker zu hohe Drehzahlen erreicht, die zu einer Beschädigung des 
+Anlassermotors, namentlich zur Beschädigung der Anker und Feldspulen führen können. Aus diesem Grund muß nach 
+dem Anspringen des Motors die kraftschlüssige Verbindung zwischen Anlasseranker und Motorschwungrad aufgehoben 
+werden. Dieses geschieht dadurch‚ daß das Ritzel nicht starr, sondern durch eine Rollen-Freilaufkupplung den 
+vorher bestehenden Kraftschluß selbständig löst, sobald die Drehzahl der Schwungscheibe größer wird als die des 
+Anlasserritzels.
+
+Eine um Magnetschalter angebrachte Druckfeder bringt mit dem gabelförmigen Hebel das Anlasserritzel in die 
+Ausgangsstellung zurück. Darmit das Anlasserritzel nach dem Ausschalten möglichst schnell stehenbleibt und 
+erforderlichenfalls kurz darauf ein neuer Anlaßversuch unternommen werden kann, ist am Kollektorträger eine 
+Ankerbremse angebracht. Der Bremsdruck wird durch eine Schraubenfeder ausgeübt und ist so bemessen, daß der
+eingeschaltete Anlasser während des Anlaßvorganges nicht behindert wird.
+
+
+Praktischer Hinweis
+^^^^^^^^^^^^^^^^^^^
+
+Selbstverständlich muß der Zünd-Anlaßschalter unmittelbar, nachdem der Motor läuft, in die Zündstellung zurückgedreht
+werden, damit das Ritzel in die Ausgangsstellung zurückgeschoben werden kann, andernfalls wird die Combobuchse (Lagerung
+des Anlasserritzels) infolge der hohen Drehzahl des Ritzels auf der Ruhestellung befindlichen
+Ankerwelle überhitzt. Die Überhitzung führt zum Festlaufen ("Fressen") der Compobuchse
+und überbrückt die Rollenfreilaufkupplung, so daß der Anlasser-Anker ebenfalls zu hohe Drehzahlen erreicht, wobei
+die Ankerwicklungen durch die Fliehkraft herausgeschleudert werden.
+
+
+.. page-break
+
 
 
