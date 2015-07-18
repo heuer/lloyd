@@ -830,7 +830,7 @@ Praktischer Hinweis
 Selbstverständlich muß der Zünd-Anlaßschalter unmittelbar, nachdem der Motor läuft, in die Zündstellung zurückgedreht
 werden, damit das Ritzel in die Ausgangsstellung zurückgeschoben werden kann, andernfalls wird die Combobuchse (Lagerung
 des Anlasserritzels) infolge der hohen Drehzahl des Ritzels auf der Ruhestellung befindlichen
-Ankerwelle überhitzt. Die Überhitzung führt zum Festlaufen ("Fressen") der Compobuchse
+Ankerwelle überhitzt. Die Überhitzung führt zum Festlaufen („Fressen“) der Compobuchse
 und überbrückt die Rollenfreilaufkupplung, so daß der Anlasser-Anker ebenfalls zu hohe Drehzahlen erreicht, wobei
 die Ankerwicklungen durch die Fliehkraft herausgeschleudert werden.
 
