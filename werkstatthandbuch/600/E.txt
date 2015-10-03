@@ -807,7 +807,7 @@ einen gabelförmigen Einrückhebel übertragenb. Sofort nach dem vollen
 .. page-break
 
 Zahneingriff des Ritzels wird der Hauptstromkreis geschlossen, der Anker entwickelt das volle Drehmomemt
-und bringl den Motor auf die Anlaßdrehzahl.
+und bringt den Motor auf die Anlaßdrehzahl.
 
 Infolge des großen Übersetzungsverhältnisses zwischen Anlasserritzel und Zahnkranz darf das Ritzel nicht ständig
 im Zahneingriff bleiben, da andernfalls der Anker zu hohe Drehzahlen erreicht, die zu einer Beschädigung des 
@@ -838,4 +838,37 @@ die Ankerwicklungen durch die Fliehkraft herausgeschleudert werden.
 .. page-break
 
 
+Magnetschalter aus- und einbauen
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+(Der Anlasser ist ausgebaut)
 
+Ausbau des Anlassers siehe Hauptgruppe M Seite 8-2.
+
+Ausbauen
+~~~~~~~~
+1. Sechskantmutter SW 14 lösen und die Anschlußbrücke vom Mangnetschalter abnehmen (Bild 4 - 3/1)
+
+..TODO: Bild 
+
+2. Flachsenkschraube M 5 des Magnetschalters lösen und den Magnetschalter herausnehmen (Bild 4 - 3/2)
+
+..TODO: Bild 
+
+3. Die Wirkungsweise des Magnetschalters überprüfen. D.h. -Kabel an Magnetgehäuse anklemmen.
+   +Kabel kurzzeitig an die Anschlußklemme 30 halten. Arbeitet der Magnetschalter nicht einwandfrei,
+   so ist er zu ersetzen
+   
+Auf die Isolation der Kontakte ist zu achten. Es besteht die Möglichkeit, daß diese durch zu
+starkes Anziehen der Mutter beschädigt werden.
+
+
+Einbauen
+~~~~~~~~
+Der Einbau des Magnetschalters geschieht in umgekehrter Folge.
+
+Das Einsetzen des Magnetschalters wird durch das Vorziehen des Ritzels erleichtert (Bild 4 - 3/3).
+
+..TODO: Bild 
+
+
+.. page-break
